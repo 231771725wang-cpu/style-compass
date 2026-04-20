@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="432" viewBox="0 0 768 432" fill="none">
+  <rect width="768" height="432" rx="36" fill="#FAF9F7"/>
+  <rect x="28" y="28" width="712" height="376" rx="30" fill="#000000" stroke="#FF5A1F" stroke-opacity="0.10"/>
+  <rect x="48" y="48" width="108" height="24" rx="8" fill="#ffffff" fill-opacity="0.88"/>
+  <text x="70" y="64" fill="#ccd2d8" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="800">Design Tokens</text>
+  <rect x="166" y="48" width="126" height="24" rx="8" fill="#ffffff" fill-opacity="0.88"/>
+  <text x="189" y="64" fill="#ccd2d8" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="800">preview</text>
+  <rect x="604" y="42" width="108" height="34" rx="12" fill="#FF5A1F"/>
+  <text x="630" y="64" fill="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="800">CREATIVE TOOL</text>
+  <text x="384" y="154" text-anchor="middle" fill="#F0F8FF" font-family="Helvetica, Arial, sans-serif" font-size="76" font-weight="900" letter-spacing="-3">Clay</text>
+  <text x="384" y="194" text-anchor="middle" fill="#64748b" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="500">中性色基底，现代、清晰，整体更偏创意表达…</text>
+  <rect x="224" y="220" width="138" height="42" rx="20" fill="#FF5A1F"/>
+  <text x="260" y="247" fill="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="800">Get Started</text>
+  <rect x="376" y="220" width="176" height="42" rx="20" fill="#ffffff" stroke="#d3dae0" stroke-opacity="0.16"/>
+  <text x="414" y="247" fill="#F0F8FF" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="800">View Docs</text>
+  <text x="80" y="312" fill="#64748b" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1">01 / COLORS</text>
+  <text x="80" y="352" fill="#F0F8FF" font-family="Helvetica, Arial, sans-serif" font-size="34" font-weight="800">Palette</text>
+  <rect x="80" y="372" width="148" height="12" rx="6" fill="#64748b" fill-opacity="0.20"/>
+  <rect x="80" y="388" width="144" height="0" fill="transparent"/>
+  <rect x="314" y="298" width="114" height="86" rx="18" fill="#FF5A1F"/>
+  <rect x="438" y="298" width="114" height="86" rx="18" fill="#fffdf9" stroke="#d3dae0" stroke-opacity="0.10"/>
+  <rect x="562" y="298" width="114" height="86" rx="18" fill="#ffe4db" stroke="#d3dae0" stroke-opacity="0.10"/>
+  <rect x="686" y="298" width="0" height="0" fill="transparent"/>
+</svg>

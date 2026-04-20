@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="432" viewBox="0 0 768 432" fill="none">
+  <rect width="768" height="432" rx="36" fill="#f5f7fb"/>
+  <circle cx="154" cy="112" r="112" fill="#6b7280" fill-opacity="0.08"/>
+  <circle cx="644" cy="344" r="98" fill="#9499a3" fill-opacity="0.10"/>
+  <rect x="72" y="62" width="624" height="308" rx="34" fill="#ffffff" stroke="#6b7280" stroke-opacity="0.16"/>
+  <text x="104" y="104" fill="#6b7280" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="2">DEVELOPER SYSTEM</text>
+  <text x="104" y="178" fill="#0f172a" font-family="Helvetica, Arial, sans-serif" font-size="68" font-weight="800" letter-spacing="-2">Cohere</text>
+  <text x="104" y="220" fill="#64748b" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="500">中性色基底，现代、清晰，整体更偏开发者气…</text>
+  <rect x="104" y="274" width="244" height="52" rx="26" fill="#6b7280" fill-opacity="0.12"/>
+  <circle cx="468" cy="206" r="62" fill="#6b7280" fill-opacity="0.24"/>
+  <rect x="546" y="154" width="108" height="14" rx="7" fill="#0f172a" fill-opacity="0.16"/>
+  <rect x="546" y="182" width="92" height="14" rx="7" fill="#64748b" fill-opacity="0.20"/>
+  <rect x="546" y="210" width="84" height="14" rx="7" fill="#64748b" fill-opacity="0.16"/>
+</svg>

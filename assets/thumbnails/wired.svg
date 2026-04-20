@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="432" viewBox="0 0 768 432" fill="none">
+  <rect width="768" height="432" rx="36" fill="#f8fafc"/>
+  <rect x="34" y="34" width="700" height="364" rx="28" fill="#ffffff"/>
+  <rect x="58" y="58" width="192" height="316" rx="22" fill="#a6c6fa" fill-opacity="0.16"/>
+  <rect x="280" y="64" width="28" height="286" rx="14" fill="#3b82f6" fill-opacity="0.08"/>
+  <text x="334" y="94" fill="#3b82f6" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="2">EDITORIAL MODE</text>
+  <text x="334" y="176" fill="#111827" font-family="Helvetica, Arial, sans-serif" font-size="70" font-weight="800" letter-spacing="-2">WIRED</text>
+  <rect x="336" y="204" width="256" height="12" rx="6" fill="#64748b" fill-opacity="0.22"/>
+  <rect x="336" y="226" width="238" height="12" rx="6" fill="#64748b" fill-opacity="0.18"/>
+  <rect x="336" y="256" width="144" height="42" rx="20" fill="#ffffff" fill-opacity="0.06"/>
+  <text x="366" y="283" fill="#111827" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700">Read More</text>
+  <text x="334" y="332" fill="#64748b" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="500">适合内容专题和媒体感页面。</text>
+</svg>

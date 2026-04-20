@@ -1,0 +1,35 @@
+{
+  "name": "Figma",
+  "style_keywords": ["创作工具感", "友好", "彩色系统感", "模块清晰", "现代"],
+  "negative_constraints": [
+    "不要把彩色点缀扩成儿童化界面",
+    "不要让创意表达干扰核心工作流",
+    "不要在高密度页面加入无意义装饰"
+  ],
+  "layout_bias": [
+    "工具骨架清楚，功能区与品牌区分层",
+    "彩色只在关键识别点和状态点出现",
+    "让创作感和工具效率同时成立"
+  ],
+  "component_tone": {
+    "button": "按钮友好、清楚、有创作工具气质",
+    "card": "卡片允许更轻松的色彩和圆角，但仍要讲秩序",
+    "input": "输入控件优先可读和状态清晰",
+    "navigation": "导航像创作工具框架，清楚但不死板",
+    "panel": "面板保持创意工具感，不要变成普通后台灰盒"
+  },
+  "image_direction": "适合轻量品牌色块、界面截图和创作素材，不依赖沉重摄影。",
+  "best_for_pages": ["editor", "creative-tool", "product-site"],
+  "avoid_for_pages": ["finance-dashboard"],
+  "page_prompt_examples": {
+    "editor": "按 Figma 风格实现编辑器界面，兼顾创作感、色彩识别和工具效率。",
+    "creative-tool": "按 Figma 风格实现创意工具页，让品牌色和功能骨架同时成立。",
+    "product-site": "按 Figma 风格实现产品官网，突出创作氛围、模块感和友好气质。"
+  },
+  "component_prompt_examples": {
+    "button": "按钮要友好清楚，不要做成企业后台默认样式。",
+    "card": "卡片允许轻量色彩和创作感，但必须可扫视。",
+    "panel": "面板需要有创意工具语气，不能只是灰白容器。"
+  },
+  "handoff_template": "按 Figma 风格落地界面，兼顾创作氛围、色彩识别和工具效率。"
+}

@@ -1,0 +1,2549 @@
+[
+  {
+    "name": "Airbnb",
+    "slug": "airbnb",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/airbnb.svg",
+    "preview_url": "https://getdesign.md/design-md/airbnb/preview.html",
+    "layout": "commerce-split",
+    "layout_label": "Commerce",
+    "style": {
+      "bg": "#f5f7fb",
+      "panel": "#ffffff",
+      "text": "#0f172a",
+      "muted": "#64748b",
+      "accent": "#6b7280",
+      "kicker": "CONVERSION FIRST",
+      "headline": "Airbnb",
+      "subhead": "适合需要亲和力和转化力并存的页面。",
+      "layout": "commerce-split",
+      "mood_keywords": [
+        "conversion",
+        "heroic",
+        "product"
+      ],
+      "best_for": [
+        "landing-page",
+        "commerce",
+        "brand-site"
+      ]
+    },
+    "audit_status": "pass",
+    "audit_score": 80.5,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/airbnb.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Airtable",
+    "slug": "airtable",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/airtable.svg",
+    "preview_url": "https://getdesign.md/design-md/airtable/preview.html",
+    "layout": "poster",
+    "layout_label": "Poster",
+    "style": {
+      "bg": "#181D26",
+      "panel": "#E0E2E6",
+      "text": "#333333",
+      "muted": "#64748b",
+      "accent": "#1B61C9",
+      "kicker": "CREATIVE TOOL",
+      "headline": "Airtable",
+      "subhead": "红色点缀，亲和、清晰，整体更偏创意表达、…",
+      "layout": "poster",
+      "mood_keywords": [
+        "creative",
+        "expressive",
+        "friendly",
+        "tooling"
+      ],
+      "best_for": [
+        "editor",
+        "creative-tool",
+        "showcase"
+      ],
+      "button_radius": "soft"
+    },
+    "audit_status": "pass",
+    "audit_score": 95.0,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/airtable.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Apple",
+    "slug": "apple",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/apple.svg",
+    "preview_url": "https://getdesign.md/design-md/apple/preview.html",
+    "layout": "hero-light",
+    "layout_label": "Hero",
+    "style": {
+      "bg": "#f5f5f7",
+      "panel": "#ffffff",
+      "text": "#111111",
+      "muted": "#6e6e73",
+      "accent": "#0071e3",
+      "kicker": "PREMIUM MINIMAL",
+      "headline": "Apple",
+      "subhead": "留白、精密排版、产品感",
+      "layout": "hero-light",
+      "mood_keywords": [
+        "minimal",
+        "premium",
+        "cinematic"
+      ],
+      "best_for": [
+        "landing-page",
+        "product-site",
+        "creative-tool"
+      ]
+    },
+    "audit_status": "pass",
+    "audit_score": 92.5,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/apple.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Binance",
+    "slug": "binance",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/binance.svg",
+    "preview_url": "https://getdesign.md/design-md/binance/preview.html",
+    "layout": "commerce-split",
+    "layout_label": "Commerce",
+    "style": {
+      "bg": "#f5f7fb",
+      "panel": "#ffffff",
+      "text": "#0f172a",
+      "muted": "#64748b",
+      "accent": "#f5f5f5",
+      "kicker": "FINTECH SYSTEM",
+      "headline": "Binance",
+      "subhead": "黑白单色，大胆、强标题，整体更偏大胆张扬…",
+      "layout": "commerce-split",
+      "mood_keywords": [
+        "bold",
+        "finance",
+        "precision",
+        "trust"
+      ],
+      "best_for": [
+        "commerce",
+        "dashboard",
+        "pricing",
+        "product-site"
+      ]
+    },
+    "audit_status": "pass",
+    "audit_score": 93.0,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/binance.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "BMW",
+    "slug": "bmw",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/bmw.svg",
+    "preview_url": "https://getdesign.md/design-md/bmw/preview.html",
+    "layout": "luxury-banner",
+    "layout_label": "Luxury",
+    "style": {
+      "bg": "#FFFFFF",
+      "panel": "#262626",
+      "text": "#F0F0F0",
+      "muted": "#94a3b8",
+      "accent": "#F5F5F5",
+      "kicker": "CINEMATIC BRAND",
+      "headline": "BMW",
+      "subhead": "适合想做高级品牌展示的页面。",
+      "layout": "luxury-banner",
+      "mood_keywords": [
+        "monumental",
+        "cinematic",
+        "luxury"
+      ],
+      "best_for": [
+        "brand-site",
+        "launch-page",
+        "showcase"
+      ],
+      "button_radius": "soft"
+    },
+    "audit_status": "pass",
+    "audit_score": 81.2,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/bmw.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Bugatti",
+    "slug": "bugatti",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/bugatti.svg",
+    "preview_url": "https://getdesign.md/design-md/bugatti/preview.html",
+    "layout": "editorial-cascade",
+    "layout_label": "Editorial",
+    "style": {
+      "bg": "#000000",
+      "panel": "#FFFFFF",
+      "text": "#F5F5F5",
+      "muted": "#9ca3af",
+      "accent": "#F5F5F5",
+      "kicker": "CINEMATIC BRAND",
+      "headline": "Bugatti",
+      "subhead": "黑白单色，现代、清晰，整体更偏电影感、奢…",
+      "layout": "editorial-cascade",
+      "mood_keywords": [
+        "cinematic",
+        "luxury",
+        "monumental"
+      ],
+      "best_for": [
+        "editor",
+        "brand-site",
+        "launch-page",
+        "showcase"
+      ],
+      "button_radius": "pill"
+    },
+    "audit_status": "pass",
+    "audit_score": 93.5,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/bugatti.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Cal.com",
+    "slug": "cal",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/cal.svg",
+    "preview_url": "https://getdesign.md/design-md/cal/preview.html",
+    "layout": "dashboard",
+    "layout_label": "Dashboard",
+    "style": {
+      "bg": "#242424",
+      "panel": "#111111",
+      "text": "#000000",
+      "muted": "#64748b",
+      "accent": "#F5F5F5",
+      "kicker": "PRODUCT SYSTEM",
+      "headline": "Cal.com",
+      "subhead": "中性色基底，精准、清爽，整体更偏效率优先…",
+      "layout": "dashboard",
+      "mood_keywords": [
+        "efficient",
+        "friendly",
+        "product"
+      ],
+      "best_for": [
+        "saas",
+        "dashboard",
+        "landing-page"
+      ],
+      "button_radius": "pill"
+    },
+    "audit_status": "pass",
+    "audit_score": 94.0,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/cal.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Claude",
+    "slug": "claude",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/claude.svg",
+    "preview_url": "https://getdesign.md/design-md/claude/preview.html",
+    "layout": "editorial",
+    "layout_label": "Editorial",
+    "style": {
+      "bg": "#f5f7fb",
+      "panel": "#ffffff",
+      "text": "#0f172a",
+      "muted": "#64748b",
+      "accent": "#c9735b",
+      "kicker": "DEVELOPER SYSTEM",
+      "headline": "Claude",
+      "subhead": "很适合研究感或内容感更强的 AI 产品。",
+      "layout": "editorial",
+      "mood_keywords": [
+        "developer",
+        "editorial",
+        "future-facing",
+        "technical"
+      ],
+      "best_for": [
+        "editor",
+        "editorial",
+        "developer-tool",
+        "product-site",
+        "ai-platform"
+      ]
+    },
+    "audit_status": "pass",
+    "audit_score": 87.0,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/claude.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Clay",
+    "slug": "clay",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/clay.svg",
+    "preview_url": "https://getdesign.md/design-md/clay/preview.html",
+    "layout": "token-catalog-warm",
+    "layout_label": "Docs",
+    "style": {
+      "bg": "#FAF9F7",
+      "panel": "#000000",
+      "text": "#F0F8FF",
+      "muted": "#64748b",
+      "accent": "#FF5A1F",
+      "kicker": "CREATIVE TOOL",
+      "headline": "Clay",
+      "subhead": "中性色基底，现代、清晰，整体更偏创意表达…",
+      "layout": "token-catalog-warm",
+      "mood_keywords": [
+        "creative",
+        "expressive",
+        "gradient",
+        "tooling"
+      ],
+      "best_for": [
+        "editor",
+        "creative-tool",
+        "showcase"
+      ],
+      "button_radius": "pill"
+    },
+    "audit_status": "pass",
+    "audit_score": 85.0,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/clay.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "ClickHouse",
+    "slug": "clickhouse",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/clickhouse.svg",
+    "preview_url": "https://getdesign.md/design-md/clickhouse/preview.html",
+    "layout": "docs-grid",
+    "layout_label": "Docs",
+    "style": {
+      "bg": "#000000",
+      "panel": "#141414",
+      "text": "#151515",
+      "muted": "#64748b",
+      "accent": "#FAFF69",
+      "kicker": "INFRA SYSTEM",
+      "headline": "ClickHouse",
+      "subhead": "黄色高对比点缀，现代、清晰，整体更偏信息…",
+      "layout": "docs-grid",
+      "mood_keywords": [
+        "dense",
+        "structured",
+        "technical"
+      ],
+      "best_for": [
+        "dashboard",
+        "docs",
+        "developer-tool"
+      ],
+      "button_radius": "pill"
+    },
+    "audit_status": "pass",
+    "audit_score": 92.2,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/clickhouse.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Cohere",
+    "slug": "cohere",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/cohere.svg",
+    "preview_url": "https://getdesign.md/design-md/cohere/preview.html",
+    "layout": "ai-capsule",
+    "layout_label": "AI Capsule",
+    "style": {
+      "bg": "#f5f7fb",
+      "panel": "#ffffff",
+      "text": "#0f172a",
+      "muted": "#64748b",
+      "accent": "#6b7280",
+      "kicker": "DEVELOPER SYSTEM",
+      "headline": "Cohere",
+      "subhead": "中性色基底，现代、清晰，整体更偏开发者气…",
+      "layout": "ai-capsule",
+      "mood_keywords": [
+        "developer",
+        "future-facing",
+        "gradient",
+        "technical"
+      ],
+      "best_for": [
+        "dashboard",
+        "landing-page",
+        "developer-tool",
+        "product-site",
+        "ai-platform"
+      ]
+    },
+    "audit_status": "pass",
+    "audit_score": 85.0,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/cohere.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Coinbase",
+    "slug": "coinbase",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/coinbase.svg",
+    "preview_url": "https://getdesign.md/design-md/coinbase/preview.html",
+    "layout": "commerce-split",
+    "layout_label": "Commerce",
+    "style": {
+      "bg": "#f5f7fb",
+      "panel": "#ffffff",
+      "text": "#0f172a",
+      "muted": "#64748b",
+      "accent": "#3b82f6",
+      "kicker": "FINTECH SYSTEM",
+      "headline": "Coinbase",
+      "subhead": "蓝色点缀，精准、清爽，整体更偏金融秩序感…",
+      "layout": "commerce-split",
+      "mood_keywords": [
+        "finance",
+        "precision",
+        "trust"
+      ],
+      "best_for": [
+        "editor",
+        "commerce",
+        "dashboard",
+        "pricing",
+        "product-site"
+      ]
+    },
+    "audit_status": "pass",
+    "audit_score": 81.2,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/coinbase.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Composio",
+    "slug": "composio",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/composio.svg",
+    "preview_url": "https://getdesign.md/design-md/composio/preview.html",
+    "layout": "docs-grid",
+    "layout_label": "Docs",
+    "style": {
+      "bg": "#FFFFFF",
+      "panel": "#000000",
+      "text": "#E0E0E0",
+      "muted": "#94a3b8",
+      "accent": "#0007CD",
+      "kicker": "INFRA SYSTEM",
+      "headline": "Composio",
+      "subhead": "深色基底，现代、清晰，整体更偏信息密度高…",
+      "layout": "docs-grid",
+      "mood_keywords": [
+        "dense",
+        "structured",
+        "technical"
+      ],
+      "best_for": [
+        "landing-page",
+        "dashboard",
+        "docs",
+        "developer-tool"
+      ],
+      "button_radius": "pill"
+    },
+    "audit_status": "pass",
+    "audit_score": 92.2,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/composio.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Cursor",
+    "slug": "cursor",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/cursor.svg",
+    "preview_url": "https://getdesign.md/design-md/cursor/preview.html",
+    "layout": "dashboard",
+    "layout_label": "Dashboard",
+    "style": {
+      "bg": "#0d1018",
+      "panel": "#141826",
+      "text": "#eff2ff",
+      "muted": "#8f97b1",
+      "accent": "#5a7cff",
+      "kicker": "AI EDITOR",
+      "headline": "Cursor",
+      "subhead": "深色编辑器、梯度点缀、强工具感",
+      "layout": "dashboard",
+      "mood_keywords": [
+        "developer",
+        "gradient",
+        "precise",
+        "tooling"
+      ],
+      "best_for": [
+        "editor",
+        "dashboard",
+        "docs"
+      ]
+    },
+    "audit_status": "pass",
+    "audit_score": 87.0,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/cursor.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "ElevenLabs",
+    "slug": "elevenlabs",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/elevenlabs.svg",
+    "preview_url": "https://getdesign.md/design-md/elevenlabs/preview.html",
+    "layout": "creative",
+    "layout_label": "Creative",
+    "style": {
+      "bg": "#FFFFFF",
+      "panel": "#F5F5F5",
+      "text": "#292524",
+      "muted": "#94a3b8",
+      "accent": "#EF4444",
+      "kicker": "CINEMATIC BRAND",
+      "headline": "ElevenLabs",
+      "subhead": "深色基底，电影感、画面驱动，整体更偏电影…",
+      "layout": "creative",
+      "mood_keywords": [
+        "cinematic",
+        "developer",
+        "future-facing",
+        "technical"
+      ],
+      "best_for": [
+        "landing-page",
+        "developer-tool",
+        "product-site",
+        "ai-platform"
+      ],
+      "button_radius": "pill"
+    },
+    "audit_status": "pass",
+    "audit_score": 91.7,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/elevenlabs.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Expo",
+    "slug": "expo",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/expo.svg",
+    "preview_url": "https://getdesign.md/design-md/expo/preview.html",
+    "layout": "editor-workbench",
+    "layout_label": "Workbench",
+    "style": {
+      "bg": "#0d1117",
+      "panel": "#1b1f24",
+      "text": "#f5f7fb",
+      "muted": "#94a3b8",
+      "accent": "#7c6cff",
+      "kicker": "DEVELOPER SYSTEM",
+      "headline": "Expo",
+      "subhead": "深色基底，现代、清晰，整体更偏开发者气质…",
+      "layout": "editor-workbench",
+      "mood_keywords": [
+        "developer",
+        "precise",
+        "tooling"
+      ],
+      "best_for": [
+        "landing-page",
+        "dashboard",
+        "editor",
+        "docs"
+      ]
+    },
+    "audit_status": "pass",
+    "audit_score": 72.2,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/expo.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Ferrari",
+    "slug": "ferrari",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/ferrari.svg",
+    "preview_url": "https://getdesign.md/design-md/ferrari/preview.html",
+    "layout": "luxury-banner",
+    "layout_label": "Luxury",
+    "style": {
+      "bg": "#0b0b0c",
+      "panel": "#141518",
+      "text": "#f5f5f5",
+      "muted": "#9ca3af",
+      "accent": "#ef4444",
+      "kicker": "CINEMATIC BRAND",
+      "headline": "Ferrari",
+      "subhead": "红色点缀，编辑感、层级明显，整体更偏电影…",
+      "layout": "luxury-banner",
+      "mood_keywords": [
+        "cinematic",
+        "editorial",
+        "luxury",
+        "monumental"
+      ],
+      "best_for": [
+        "editor",
+        "editorial",
+        "brand-site",
+        "launch-page",
+        "showcase"
+      ]
+    },
+    "audit_status": "pass",
+    "audit_score": 74.5,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/ferrari.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Figma",
+    "slug": "figma",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/figma.svg",
+    "preview_url": "https://getdesign.md/design-md/figma/preview.html",
+    "layout": "creative",
+    "layout_label": "Creative",
+    "style": {
+      "bg": "#f4f1ff",
+      "panel": "#ffffff",
+      "text": "#13111c",
+      "muted": "#6f6785",
+      "accent": "#7b61ff",
+      "kicker": "CREATIVE TOOL",
+      "headline": "Figma",
+      "subhead": "多彩、专业、协作与创作并存",
+      "layout": "creative",
+      "mood_keywords": [
+        "creative",
+        "playful",
+        "tooling"
+      ],
+      "best_for": [
+        "editor",
+        "creative-tool",
+        "collaboration"
+      ]
+    },
+    "audit_status": "pass",
+    "audit_score": 88.0,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/figma.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Framer",
+    "slug": "framer",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/framer.svg",
+    "preview_url": "https://getdesign.md/design-md/framer/preview.html",
+    "layout": "editor-workbench",
+    "layout_label": "Workbench",
+    "style": {
+      "bg": "#0d1117",
+      "panel": "#1b1f24",
+      "text": "#f5f7fb",
+      "muted": "#94a3b8",
+      "accent": "#3b82f6",
+      "kicker": "CREATIVE TOOL",
+      "headline": "Framer",
+      "subhead": "蓝色点缀，大胆、强标题，整体更偏大胆张扬…",
+      "layout": "editor-workbench",
+      "mood_keywords": [
+        "bold",
+        "creative",
+        "expressive",
+        "tooling"
+      ],
+      "best_for": [
+        "editor",
+        "landing-page",
+        "creative-tool",
+        "showcase"
+      ]
+    },
+    "audit_status": "pass",
+    "audit_score": 77.6,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/framer.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "HashiCorp",
+    "slug": "hashicorp",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/hashicorp.svg",
+    "preview_url": "https://getdesign.md/design-md/hashicorp/preview.html",
+    "layout": "docs-grid",
+    "layout_label": "Docs",
+    "style": {
+      "bg": "#000000",
+      "panel": "#15181E",
+      "text": "#FFFFFF",
+      "muted": "#94a3b8",
+      "accent": "#656A76",
+      "kicker": "INFRA SYSTEM",
+      "headline": "HashiCorp",
+      "subhead": "黑白单色，精准、清爽，整体更偏信息密度高…",
+      "layout": "docs-grid",
+      "mood_keywords": [
+        "dense",
+        "structured",
+        "technical"
+      ],
+      "best_for": [
+        "dashboard",
+        "docs",
+        "developer-tool"
+      ],
+      "button_radius": "pill"
+    },
+    "audit_status": "pass",
+    "audit_score": 88.5,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/hashicorp.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "IBM",
+    "slug": "ibm",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/ibm.svg",
+    "preview_url": "https://getdesign.md/design-md/ibm/preview.html",
+    "layout": "token-catalog-light",
+    "layout_label": "Docs",
+    "style": {
+      "bg": "#FFFFFF",
+      "panel": "#F4F4F4",
+      "text": "#FFF1F1",
+      "muted": "#64748b",
+      "accent": "#EDF5FF",
+      "kicker": "EDITORIAL MODE",
+      "headline": "IBM",
+      "subhead": "蓝色点缀，现代、清晰，整体更偏品牌感、编…",
+      "layout": "token-catalog-light",
+      "mood_keywords": [
+        "brand",
+        "editorial",
+        "narrative"
+      ],
+      "best_for": [
+        "landing-page",
+        "editorial",
+        "brand-site"
+      ],
+      "button_radius": "soft"
+    },
+    "audit_status": "pass",
+    "audit_score": 96.0,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/ibm.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Intercom",
+    "slug": "intercom",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/intercom.svg",
+    "preview_url": "https://getdesign.md/design-md/intercom/preview.html",
+    "layout": "dashboard",
+    "layout_label": "Dashboard",
+    "style": {
+      "bg": "#f5f7fb",
+      "panel": "#ffffff",
+      "text": "#0f172a",
+      "muted": "#64748b",
+      "accent": "#3b82f6",
+      "kicker": "PRODUCT SYSTEM",
+      "headline": "Intercom",
+      "subhead": "蓝色点缀，亲和、清晰，整体更偏效率优先、…",
+      "layout": "dashboard",
+      "mood_keywords": [
+        "efficient",
+        "friendly",
+        "product"
+      ],
+      "best_for": [
+        "saas",
+        "dashboard",
+        "landing-page"
+      ]
+    },
+    "audit_status": "pass",
+    "audit_score": 84.2,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/intercom.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Kraken",
+    "slug": "kraken",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/kraken.svg",
+    "preview_url": "https://getdesign.md/design-md/kraken/preview.html",
+    "layout": "dashboard",
+    "layout_label": "Dashboard",
+    "style": {
+      "bg": "#0d1117",
+      "panel": "#1b1f24",
+      "text": "#f5f7fb",
+      "muted": "#94a3b8",
+      "accent": "#7c6cff",
+      "kicker": "FINTECH SYSTEM",
+      "headline": "Kraken",
+      "subhead": "紫色或紫色渐变，现代、清晰，整体更偏金融…",
+      "layout": "dashboard",
+      "mood_keywords": [
+        "finance",
+        "precision",
+        "trust"
+      ],
+      "best_for": [
+        "dashboard",
+        "landing-page",
+        "pricing",
+        "product-site"
+      ]
+    },
+    "audit_status": "pass",
+    "audit_score": 96.2,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/kraken.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Lamborghini",
+    "slug": "lamborghini",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/lamborghini.svg",
+    "preview_url": "https://getdesign.md/design-md/lamborghini/preview.html",
+    "layout": "editorial-cascade",
+    "layout_label": "Editorial",
+    "style": {
+      "bg": "#FFFFFF",
+      "panel": "#000000",
+      "text": "#202020",
+      "muted": "#6f737b",
+      "accent": "#111111",
+      "kicker": "CINEMATIC BRAND",
+      "headline": "Lamborghini",
+      "subhead": "中性色基底，现代、清晰，整体更偏电影感、…",
+      "layout": "editorial-cascade",
+      "mood_keywords": [
+        "cinematic",
+        "luxury",
+        "monumental"
+      ],
+      "best_for": [
+        "brand-site",
+        "launch-page",
+        "showcase"
+      ],
+      "button_radius": "soft"
+    },
+    "audit_status": "pass",
+    "audit_score": 95.0,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/lamborghini.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Linear",
+    "slug": "linear.app",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/linear.app.svg",
+    "preview_url": "https://getdesign.md/design-md/linear.app/preview.html",
+    "layout": "dashboard",
+    "layout_label": "Dashboard",
+    "style": {
+      "bg": "#0b0c10",
+      "panel": "#151826",
+      "text": "#f4f7ff",
+      "muted": "#9aa3b2",
+      "accent": "#7c6cff",
+      "kicker": "WORKFLOW UI",
+      "headline": "Linear",
+      "subhead": "深色精密、模块化、高密度",
+      "layout": "dashboard",
+      "mood_keywords": [
+        "precise",
+        "tooling",
+        "minimal"
+      ],
+      "best_for": [
+        "dashboard",
+        "editor",
+        "saas"
+      ]
+    },
+    "audit_status": "pass",
+    "audit_score": 88.5,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/linear.app.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Lovable",
+    "slug": "lovable",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/lovable.svg",
+    "preview_url": "https://getdesign.md/design-md/lovable/preview.html",
+    "layout": "dashboard-slab",
+    "layout_label": "Dashboard",
+    "style": {
+      "bg": "#F7F4ED",
+      "panel": "#1C1C1C",
+      "text": "#5F5F5D",
+      "muted": "#64748b",
+      "accent": "#EF4444",
+      "kicker": "DEVELOPER SYSTEM",
+      "headline": "Lovable",
+      "subhead": "中性色基底，亲和、清晰，整体更偏开发者气…",
+      "layout": "dashboard-slab",
+      "mood_keywords": [
+        "developer",
+        "friendly",
+        "gradient",
+        "playful",
+        "precise",
+        "tooling"
+      ],
+      "best_for": [
+        "editor",
+        "dashboard",
+        "docs"
+      ],
+      "button_radius": "pill"
+    },
+    "audit_status": "pass",
+    "audit_score": 92.2,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/lovable.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Mastercard",
+    "slug": "mastercard",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/mastercard.svg",
+    "preview_url": "https://getdesign.md/design-md/mastercard/preview.html",
+    "layout": "editorial-cascade",
+    "layout_label": "Editorial",
+    "style": {
+      "bg": "#F3F0EE",
+      "panel": "#FCFBFA",
+      "text": "#F3F0EE",
+      "muted": "#64748b",
+      "accent": "#CF4500",
+      "kicker": "EDITORIAL MODE",
+      "headline": "Mastercard",
+      "subhead": "浅色基底，编辑感、层级明显，整体更偏编辑…",
+      "layout": "editorial-cascade",
+      "mood_keywords": [
+        "editorial",
+        "finance",
+        "precision",
+        "trust"
+      ],
+      "best_for": [
+        "editor",
+        "commerce",
+        "editorial",
+        "dashboard",
+        "pricing",
+        "product-site"
+      ],
+      "button_radius": "pill"
+    },
+    "audit_status": "pass",
+    "audit_score": 91.0,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/mastercard.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Meta",
+    "slug": "meta",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/meta.svg",
+    "preview_url": "https://getdesign.md/design-md/meta/preview.html",
+    "layout": "creative",
+    "layout_label": "Creative",
+    "style": {
+      "bg": "#FFFFFF",
+      "panel": "#F1F4F7",
+      "text": "#8595A4",
+      "muted": "#94a3b8",
+      "accent": "#0064E0",
+      "kicker": "CONVERSION FIRST",
+      "headline": "Meta",
+      "subhead": "蓝色点缀，现代、清晰，整体更偏转化导向、…",
+      "layout": "creative",
+      "mood_keywords": [
+        "conversion",
+        "heroic",
+        "product"
+      ],
+      "best_for": [
+        "commerce",
+        "landing-page",
+        "brand-site"
+      ],
+      "button_radius": "pill"
+    },
+    "audit_status": "pass",
+    "audit_score": 93.0,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/meta.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Minimax",
+    "slug": "minimax",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/minimax.svg",
+    "preview_url": "https://getdesign.md/design-md/minimax/preview.html",
+    "layout": "token-catalog-dark",
+    "layout_label": "Docs",
+    "style": {
+      "bg": "#222222",
+      "panel": "#18181B",
+      "text": "#E5E5E5",
+      "muted": "#94a3b8",
+      "accent": "#1456F0",
+      "kicker": "DEVELOPER SYSTEM",
+      "headline": "Minimax",
+      "subhead": "深色基底，大胆、强标题，整体更偏大胆张扬…",
+      "layout": "token-catalog-dark",
+      "mood_keywords": [
+        "bold",
+        "developer",
+        "future-facing",
+        "technical"
+      ],
+      "best_for": [
+        "editor",
+        "developer-tool",
+        "product-site",
+        "ai-platform"
+      ],
+      "button_radius": "pill"
+    },
+    "audit_status": "pass",
+    "audit_score": 88.5,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/minimax.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Mintlify",
+    "slug": "mintlify",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/mintlify.svg",
+    "preview_url": "https://getdesign.md/design-md/mintlify/preview.html",
+    "layout": "docs-grid",
+    "layout_label": "Docs",
+    "style": {
+      "bg": "#f5f7fb",
+      "panel": "#ffffff",
+      "text": "#0f172a",
+      "muted": "#64748b",
+      "accent": "#3ecf8e",
+      "kicker": "PRODUCT SYSTEM",
+      "headline": "Mintlify",
+      "subhead": "绿色点缀，精准、清爽，整体更偏效率优先、…",
+      "layout": "docs-grid",
+      "mood_keywords": [
+        "efficient",
+        "friendly",
+        "product"
+      ],
+      "best_for": [
+        "landing-page",
+        "docs",
+        "saas",
+        "dashboard"
+      ]
+    },
+    "audit_status": "pass",
+    "audit_score": 79.0,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/mintlify.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Miro",
+    "slug": "miro",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/miro.svg",
+    "preview_url": "https://getdesign.md/design-md/miro/preview.html",
+    "layout": "creative",
+    "layout_label": "Creative",
+    "style": {
+      "bg": "#f5f7fb",
+      "panel": "#ffffff",
+      "text": "#0f172a",
+      "muted": "#64748b",
+      "accent": "#facc15",
+      "kicker": "CREATIVE TOOL",
+      "headline": "Miro",
+      "subhead": "黄色高对比点缀，现代、清晰，整体更偏创意…",
+      "layout": "creative",
+      "mood_keywords": [
+        "creative",
+        "expressive",
+        "tooling"
+      ],
+      "best_for": [
+        "editor",
+        "creative-tool",
+        "showcase"
+      ]
+    },
+    "audit_status": "pass",
+    "audit_score": 81.0,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/miro.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Mistral AI",
+    "slug": "mistral.ai",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/mistral.ai.svg",
+    "preview_url": "https://getdesign.md/design-md/mistral.ai/preview.html",
+    "layout": "ai-capsule",
+    "layout_label": "AI Capsule",
+    "style": {
+      "bg": "#f4f3ff",
+      "panel": "#ffffff",
+      "text": "#111827",
+      "muted": "#6b7280",
+      "accent": "#7c6cff",
+      "kicker": "DEVELOPER SYSTEM",
+      "headline": "Mistral AI",
+      "subhead": "紫色或紫色渐变，克制、精密，整体更偏开发…",
+      "layout": "ai-capsule",
+      "mood_keywords": [
+        "developer",
+        "future-facing",
+        "minimal",
+        "technical"
+      ],
+      "best_for": [
+        "editor",
+        "developer-tool",
+        "product-site",
+        "ai-platform"
+      ]
+    },
+    "audit_status": "pass",
+    "audit_score": 87.0,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/mistral.ai.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "MongoDB",
+    "slug": "mongodb",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/mongodb.svg",
+    "preview_url": "https://getdesign.md/design-md/mongodb/preview.html",
+    "layout": "dashboard",
+    "layout_label": "Dashboard",
+    "style": {
+      "bg": "#f5f7fb",
+      "panel": "#ffffff",
+      "text": "#0f172a",
+      "muted": "#64748b",
+      "accent": "#3ecf8e",
+      "kicker": "INFRA SYSTEM",
+      "headline": "MongoDB",
+      "subhead": "绿色点缀，现代、清晰，整体更偏信息密度高…",
+      "layout": "dashboard",
+      "mood_keywords": [
+        "dense",
+        "structured",
+        "technical"
+      ],
+      "best_for": [
+        "landing-page",
+        "docs",
+        "dashboard",
+        "developer-tool"
+      ]
+    },
+    "audit_status": "pass",
+    "audit_score": 75.0,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/mongodb.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Nike",
+    "slug": "nike",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/nike.svg",
+    "preview_url": "https://getdesign.md/design-md/nike/preview.html",
+    "layout": "poster",
+    "layout_label": "Poster",
+    "style": {
+      "bg": "#0b0b0b",
+      "panel": "#151515",
+      "text": "#ffffff",
+      "muted": "#b7b7b7",
+      "accent": "#ffffff",
+      "kicker": "MOVE FAST",
+      "headline": "NIKE",
+      "subhead": "超大标题 + 满版视觉冲击",
+      "layout": "poster",
+      "mood_keywords": [
+        "bold",
+        "heroic",
+        "kinetic"
+      ],
+      "best_for": [
+        "brand-site",
+        "commerce",
+        "campaign"
+      ]
+    },
+    "audit_status": "pass",
+    "audit_score": 88.5,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/nike.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Notion",
+    "slug": "notion",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/notion.svg",
+    "preview_url": "https://getdesign.md/design-md/notion/preview.html",
+    "layout": "dashboard",
+    "layout_label": "Dashboard",
+    "style": {
+      "bg": "#f3f3f4",
+      "panel": "#ffffff",
+      "text": "#111827",
+      "muted": "#6b7280",
+      "accent": "#6b7280",
+      "kicker": "PRECISE MINIMAL",
+      "headline": "Notion",
+      "subhead": "中性色基底，克制、精密，整体更偏效率优先…",
+      "layout": "dashboard",
+      "mood_keywords": [
+        "efficient",
+        "friendly",
+        "minimal",
+        "product"
+      ],
+      "best_for": [
+        "saas",
+        "dashboard",
+        "landing-page"
+      ]
+    },
+    "audit_status": "pass",
+    "audit_score": 72.0,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/notion.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "NVIDIA",
+    "slug": "nvidia",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/nvidia.svg",
+    "preview_url": "https://getdesign.md/design-md/nvidia/preview.html",
+    "layout": "token-catalog-dark",
+    "layout_label": "Docs",
+    "style": {
+      "bg": "#000000",
+      "panel": "#FFFFFF",
+      "text": "#E5E5E5",
+      "muted": "#94a3b8",
+      "accent": "#76B900",
+      "kicker": "EDITORIAL MODE",
+      "headline": "NVIDIA",
+      "subhead": "绿色点缀，现代、清晰，整体更偏品牌感、编…",
+      "layout": "token-catalog-dark",
+      "mood_keywords": [
+        "brand",
+        "editorial",
+        "narrative",
+        "technical"
+      ],
+      "best_for": [
+        "landing-page",
+        "editorial",
+        "brand-site"
+      ],
+      "button_radius": "soft"
+    },
+    "audit_status": "pass",
+    "audit_score": 91.0,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/nvidia.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Ollama",
+    "slug": "ollama",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/ollama.svg",
+    "preview_url": "https://getdesign.md/design-md/ollama/preview.html",
+    "layout": "ai-capsule",
+    "layout_label": "AI Capsule",
+    "style": {
+      "bg": "#0b0b0c",
+      "panel": "#141518",
+      "text": "#f5f5f5",
+      "muted": "#9ca3af",
+      "accent": "#f5f5f5",
+      "kicker": "DEVELOPER SYSTEM",
+      "headline": "Ollama",
+      "subhead": "黑白单色，现代、清晰，整体更偏开发者气质…",
+      "layout": "ai-capsule",
+      "mood_keywords": [
+        "developer",
+        "future-facing",
+        "technical"
+      ],
+      "best_for": [
+        "developer-tool",
+        "product-site",
+        "ai-platform"
+      ]
+    },
+    "audit_status": "pass",
+    "audit_score": 92.2,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/ollama.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "OpenCode AI",
+    "slug": "opencode.ai",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/opencode.ai.svg",
+    "preview_url": "https://getdesign.md/design-md/opencode.ai/preview.html",
+    "layout": "token-catalog-dark",
+    "layout_label": "Docs",
+    "style": {
+      "bg": "#201D1D",
+      "panel": "#FDFCFC",
+      "text": "#FFFFFF",
+      "muted": "#94a3b8",
+      "accent": "#007AFF",
+      "kicker": "DEVELOPER SYSTEM",
+      "headline": "OpenCode AI",
+      "subhead": "深色基底，现代、清晰，整体更偏开发者气质…",
+      "layout": "token-catalog-dark",
+      "mood_keywords": [
+        "developer",
+        "future-facing",
+        "technical"
+      ],
+      "best_for": [
+        "landing-page",
+        "developer-tool",
+        "product-site",
+        "ai-platform"
+      ],
+      "button_radius": "soft"
+    },
+    "audit_status": "pass",
+    "audit_score": 96.2,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/opencode.ai.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Pinterest",
+    "slug": "pinterest",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/pinterest.svg",
+    "preview_url": "https://getdesign.md/design-md/pinterest/preview.html",
+    "layout": "editorial",
+    "layout_label": "Editorial",
+    "style": {
+      "bg": "#f5f7fb",
+      "panel": "#ffffff",
+      "text": "#0f172a",
+      "muted": "#64748b",
+      "accent": "#ef4444",
+      "kicker": "EDITORIAL MODE",
+      "headline": "Pinterest",
+      "subhead": "红色点缀，现代、清晰，整体更偏品牌感、编…",
+      "layout": "editorial",
+      "mood_keywords": [
+        "brand",
+        "editorial",
+        "narrative"
+      ],
+      "best_for": [
+        "landing-page",
+        "editorial",
+        "brand-site"
+      ]
+    },
+    "audit_status": "pass",
+    "audit_score": 92.5,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/pinterest.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "PlayStation",
+    "slug": "playstation",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/playstation.svg",
+    "preview_url": "https://getdesign.md/design-md/playstation/preview.html",
+    "layout": "dashboard-slab",
+    "layout_label": "Dashboard",
+    "style": {
+      "bg": "#000000",
+      "panel": "#121314",
+      "text": "#DEDEDE",
+      "muted": "#64748b",
+      "accent": "#0070CC",
+      "kicker": "EDITORIAL MODE",
+      "headline": "PlayStation",
+      "subhead": "中性色基底，现代、清晰，整体更偏品牌感、…",
+      "layout": "dashboard-slab",
+      "mood_keywords": [
+        "brand",
+        "editorial",
+        "narrative"
+      ],
+      "best_for": [
+        "commerce",
+        "landing-page",
+        "editorial",
+        "brand-site"
+      ],
+      "button_radius": "pill"
+    },
+    "audit_status": "pass",
+    "audit_score": 90.0,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/playstation.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "PostHog",
+    "slug": "posthog",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/posthog.svg",
+    "preview_url": "https://getdesign.md/design-md/posthog/preview.html",
+    "layout": "editorial-cascade",
+    "layout_label": "Editorial",
+    "style": {
+      "bg": "#4D4F46",
+      "panel": "#23251D",
+      "text": "#FFFFFF",
+      "muted": "#94a3b8",
+      "accent": "#F54E00",
+      "kicker": "PLAYFUL SYSTEM",
+      "headline": "PostHog",
+      "subhead": "深色基底，亲和、清晰，整体更偏信息密度高…",
+      "layout": "editorial-cascade",
+      "mood_keywords": [
+        "dense",
+        "friendly",
+        "playful",
+        "structured",
+        "technical"
+      ],
+      "best_for": [
+        "dashboard",
+        "landing-page",
+        "commerce",
+        "docs",
+        "developer-tool"
+      ],
+      "button_radius": "pill"
+    },
+    "audit_status": "pass",
+    "audit_score": 92.2,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/posthog.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Raycast",
+    "slug": "raycast",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/raycast.svg",
+    "preview_url": "https://getdesign.md/design-md/raycast/preview.html",
+    "layout": "editorial-cascade",
+    "layout_label": "Editorial",
+    "style": {
+      "bg": "#07080A",
+      "panel": "#101111",
+      "text": "#18191A",
+      "muted": "#94a3b8",
+      "accent": "#FF6363",
+      "kicker": "DEVELOPER SYSTEM",
+      "headline": "Raycast",
+      "subhead": "深色基底，现代、清晰，整体更偏开发者气质…",
+      "layout": "editorial-cascade",
+      "mood_keywords": [
+        "developer",
+        "gradient",
+        "precise",
+        "tooling"
+      ],
+      "best_for": [
+        "commerce",
+        "dashboard",
+        "editor",
+        "docs"
+      ],
+      "button_radius": "pill"
+    },
+    "audit_status": "pass",
+    "audit_score": 91.7,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/raycast.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Renault",
+    "slug": "renault",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/renault.svg",
+    "preview_url": "https://getdesign.md/design-md/renault/preview.html",
+    "layout": "poster",
+    "layout_label": "Poster",
+    "style": {
+      "bg": "#000000",
+      "panel": "#FFFFFF",
+      "text": "#D1D1D1",
+      "muted": "#64748b",
+      "accent": "#EFDF00",
+      "kicker": "CINEMATIC BRAND",
+      "headline": "Renault",
+      "subhead": "中性色基底，现代、清晰，整体更偏电影感、…",
+      "layout": "poster",
+      "mood_keywords": [
+        "cinematic",
+        "gradient",
+        "luxury",
+        "monumental"
+      ],
+      "best_for": [
+        "brand-site",
+        "launch-page",
+        "showcase"
+      ],
+      "button_radius": "pill"
+    },
+    "audit_status": "pass",
+    "audit_score": 93.5,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/renault.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Replicate",
+    "slug": "replicate",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/replicate.svg",
+    "preview_url": "https://getdesign.md/design-md/replicate/preview.html",
+    "layout": "token-catalog-dark",
+    "layout_label": "Docs",
+    "style": {
+      "bg": "#202020",
+      "panel": "#24292E",
+      "text": "#E6EDF3",
+      "muted": "#64748b",
+      "accent": "#EA2804",
+      "kicker": "DEVELOPER SYSTEM",
+      "headline": "Replicate",
+      "subhead": "浅色基底，精准、清爽，整体更偏开发者气质…",
+      "layout": "token-catalog-dark",
+      "mood_keywords": [
+        "developer",
+        "future-facing",
+        "technical"
+      ],
+      "best_for": [
+        "editor",
+        "developer-tool",
+        "product-site",
+        "ai-platform"
+      ],
+      "button_radius": "pill"
+    },
+    "audit_status": "pass",
+    "audit_score": 90.0,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/replicate.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Resend",
+    "slug": "resend",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/resend.svg",
+    "preview_url": "https://getdesign.md/design-md/resend/preview.html",
+    "layout": "dashboard",
+    "layout_label": "Dashboard",
+    "style": {
+      "bg": "#0d1117",
+      "panel": "#1b1f24",
+      "text": "#f5f7fb",
+      "muted": "#94a3b8",
+      "accent": "#7c6cff",
+      "kicker": "PRECISE MINIMAL",
+      "headline": "Resend",
+      "subhead": "深色基底，代码感、等宽点缀，整体更偏效率…",
+      "layout": "dashboard",
+      "mood_keywords": [
+        "efficient",
+        "friendly",
+        "minimal",
+        "product"
+      ],
+      "best_for": [
+        "saas",
+        "dashboard",
+        "landing-page"
+      ]
+    },
+    "audit_status": "pass",
+    "audit_score": 75.0,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/resend.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Revolut",
+    "slug": "revolut",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/revolut.svg",
+    "preview_url": "https://getdesign.md/design-md/revolut/preview.html",
+    "layout": "dashboard",
+    "layout_label": "Dashboard",
+    "style": {
+      "bg": "#0d1117",
+      "panel": "#1b1f24",
+      "text": "#f5f7fb",
+      "muted": "#94a3b8",
+      "accent": "#7c6cff",
+      "kicker": "FINTECH SYSTEM",
+      "headline": "Revolut",
+      "subhead": "深色基底，现代、清晰，整体更偏金融秩序感…",
+      "layout": "dashboard",
+      "mood_keywords": [
+        "finance",
+        "gradient",
+        "precision",
+        "trust"
+      ],
+      "best_for": [
+        "dashboard",
+        "pricing",
+        "product-site"
+      ]
+    },
+    "audit_status": "pass",
+    "audit_score": 78.0,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/revolut.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "RunwayML",
+    "slug": "runwayml",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/runwayml.svg",
+    "preview_url": "https://getdesign.md/design-md/runwayml/preview.html",
+    "layout": "editorial",
+    "layout_label": "Editorial",
+    "style": {
+      "bg": "#0d1117",
+      "panel": "#1b1f24",
+      "text": "#f5f7fb",
+      "muted": "#94a3b8",
+      "accent": "#7c6cff",
+      "kicker": "CINEMATIC BRAND",
+      "headline": "RunwayML",
+      "subhead": "深色基底，电影感、画面驱动，整体更偏电影…",
+      "layout": "editorial",
+      "mood_keywords": [
+        "cinematic",
+        "developer",
+        "future-facing",
+        "technical"
+      ],
+      "best_for": [
+        "editor",
+        "editorial",
+        "developer-tool",
+        "product-site",
+        "ai-platform"
+      ]
+    },
+    "audit_status": "pass",
+    "audit_score": 91.7,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/runwayml.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Sanity",
+    "slug": "sanity",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/sanity.svg",
+    "preview_url": "https://getdesign.md/design-md/sanity/preview.html",
+    "layout": "dashboard-slab",
+    "layout_label": "Dashboard",
+    "style": {
+      "bg": "#F7F7F7",
+      "panel": "#FFFFFF",
+      "text": "#000000",
+      "muted": "#64748b",
+      "accent": "#F36458",
+      "kicker": "EDITORIAL MODE",
+      "headline": "Sanity",
+      "subhead": "红色点缀，编辑感、层级明显，整体更偏信息…",
+      "layout": "dashboard-slab",
+      "mood_keywords": [
+        "dense",
+        "editorial",
+        "structured",
+        "technical"
+      ],
+      "best_for": [
+        "editor",
+        "editorial",
+        "dashboard",
+        "docs",
+        "developer-tool"
+      ],
+      "button_radius": "pill"
+    },
+    "audit_status": "pass",
+    "audit_score": 87.7,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/sanity.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Sentry",
+    "slug": "sentry",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/sentry.svg",
+    "preview_url": "https://getdesign.md/design-md/sentry/preview.html",
+    "layout": "sentry-docs",
+    "layout_label": "Docs",
+    "style": {
+      "bg": "#ffffff",
+      "panel": "#f1eef9",
+      "text": "#1f1633",
+      "muted": "#746a8f",
+      "accent": "#6c5ce7",
+      "kicker": "ERROR STACK",
+      "headline": "Sentry",
+      "subhead": "紫色工程感、监控堆栈、结构清楚",
+      "layout": "sentry-docs",
+      "mood_keywords": [
+        "dense",
+        "structured",
+        "technical"
+      ],
+      "best_for": [
+        "dashboard",
+        "docs",
+        "developer-tool"
+      ],
+      "button_radius": "soft"
+    },
+    "audit_status": "pass",
+    "audit_score": 82.0,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/sentry.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Shopify",
+    "slug": "shopify",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/shopify.svg",
+    "preview_url": "https://getdesign.md/design-md/shopify/preview.html",
+    "layout": "dashboard-slab",
+    "layout_label": "Dashboard",
+    "style": {
+      "bg": "#FFFFFF",
+      "panel": "#000000",
+      "text": "#9797A2",
+      "muted": "#94a3b8",
+      "accent": "#36F4A4",
+      "kicker": "CINEMATIC BRAND",
+      "headline": "Shopify",
+      "subhead": "绿色点缀，电影感、画面驱动，整体更偏电影…",
+      "layout": "dashboard-slab",
+      "mood_keywords": [
+        "cinematic",
+        "conversion",
+        "heroic",
+        "product"
+      ],
+      "best_for": [
+        "landing-page",
+        "commerce",
+        "brand-site"
+      ],
+      "button_radius": "pill"
+    },
+    "audit_status": "pass",
+    "audit_score": 93.5,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/shopify.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "SpaceX",
+    "slug": "spacex",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/spacex.svg",
+    "preview_url": "https://getdesign.md/design-md/spacex/preview.html",
+    "layout": "editorial",
+    "layout_label": "Editorial",
+    "style": {
+      "bg": "#0b0b0c",
+      "panel": "#141518",
+      "text": "#f5f5f5",
+      "muted": "#9ca3af",
+      "accent": "#f5f5f5",
+      "kicker": "EDITORIAL MODE",
+      "headline": "SpaceX",
+      "subhead": "黑白单色，现代、清晰，整体更偏品牌感、编…",
+      "layout": "editorial",
+      "mood_keywords": [
+        "brand",
+        "editorial",
+        "narrative"
+      ],
+      "best_for": [
+        "landing-page",
+        "editorial",
+        "brand-site"
+      ]
+    },
+    "audit_status": "pass",
+    "audit_score": 73.2,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/spacex.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Spotify",
+    "slug": "spotify",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/spotify.svg",
+    "preview_url": "https://getdesign.md/design-md/spotify/preview.html",
+    "layout": "editorial",
+    "layout_label": "Editorial",
+    "style": {
+      "bg": "#0d1117",
+      "panel": "#1b1f24",
+      "text": "#f5f7fb",
+      "muted": "#94a3b8",
+      "accent": "#3ecf8e",
+      "kicker": "EDITORIAL MODE",
+      "headline": "Spotify",
+      "subhead": "绿色点缀，大胆、强标题，整体更偏大胆张扬…",
+      "layout": "editorial",
+      "mood_keywords": [
+        "bold",
+        "brand",
+        "editorial",
+        "narrative"
+      ],
+      "best_for": [
+        "landing-page",
+        "editorial",
+        "brand-site"
+      ]
+    },
+    "audit_status": "pass",
+    "audit_score": 96.0,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/spotify.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Stripe",
+    "slug": "stripe",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/stripe.svg",
+    "preview_url": "https://getdesign.md/design-md/stripe/preview.html",
+    "layout": "hero-light",
+    "layout_label": "Hero",
+    "style": {
+      "bg": "#f7f4ff",
+      "panel": "#ffffff",
+      "text": "#1f1235",
+      "muted": "#6a5a8c",
+      "accent": "#635bff",
+      "kicker": "DEVELOPER BRAND",
+      "headline": "Stripe",
+      "subhead": "轻盈渐变、品牌感、技术优雅",
+      "layout": "hero-light",
+      "mood_keywords": [
+        "elegant",
+        "gradient",
+        "developer-brand"
+      ],
+      "best_for": [
+        "landing-page",
+        "pricing",
+        "developer-tool"
+      ]
+    },
+    "audit_status": "pass",
+    "audit_score": 86.0,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/stripe.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Supabase",
+    "slug": "supabase",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/supabase.svg",
+    "preview_url": "https://getdesign.md/design-md/supabase/preview.html",
+    "layout": "dashboard",
+    "layout_label": "Dashboard",
+    "style": {
+      "bg": "#0f1720",
+      "panel": "#111827",
+      "text": "#eefaf4",
+      "muted": "#86a89c",
+      "accent": "#3ecf8e",
+      "kicker": "CODE-FIRST SAAS",
+      "headline": "Supabase",
+      "subhead": "深色工具感 + 绿色生命力",
+      "layout": "dashboard",
+      "mood_keywords": [
+        "code-first",
+        "tooling",
+        "emerald"
+      ],
+      "best_for": [
+        "dashboard",
+        "docs",
+        "developer-tool"
+      ]
+    },
+    "audit_status": "pass",
+    "audit_score": 92.5,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/supabase.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Superhuman",
+    "slug": "superhuman",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/superhuman.svg",
+    "preview_url": "https://getdesign.md/design-md/superhuman/preview.html",
+    "layout": "editor-workbench",
+    "layout_label": "Workbench",
+    "style": {
+      "bg": "#0d1117",
+      "panel": "#1b1f24",
+      "text": "#f5f7fb",
+      "muted": "#94a3b8",
+      "accent": "#7c6cff",
+      "kicker": "DEVELOPER SYSTEM",
+      "headline": "Superhuman",
+      "subhead": "紫色或紫色渐变，高级、克制，整体更偏开发…",
+      "layout": "editor-workbench",
+      "mood_keywords": [
+        "developer",
+        "precise",
+        "tooling"
+      ],
+      "best_for": [
+        "dashboard",
+        "editor",
+        "docs"
+      ]
+    },
+    "audit_status": "pass",
+    "audit_score": 86.0,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/superhuman.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Tesla",
+    "slug": "tesla",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/tesla.svg",
+    "preview_url": "https://getdesign.md/design-md/tesla/preview.html",
+    "layout": "luxury-banner",
+    "layout_label": "Luxury",
+    "style": {
+      "bg": "#FFFFFF",
+      "panel": "#171A20",
+      "text": "#5C5E62",
+      "muted": "#64748b",
+      "accent": "#111111",
+      "kicker": "CINEMATIC BRAND",
+      "headline": "Tesla",
+      "subhead": "中性色基底，电影感、画面驱动，整体更偏电…",
+      "layout": "luxury-banner",
+      "mood_keywords": [
+        "cinematic",
+        "luxury",
+        "monumental"
+      ],
+      "best_for": [
+        "brand-site",
+        "launch-page",
+        "showcase"
+      ],
+      "button_radius": "pill"
+    },
+    "audit_status": "pass",
+    "audit_score": 90.0,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/tesla.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "The Verge",
+    "slug": "theverge",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/theverge.svg",
+    "preview_url": "https://getdesign.md/design-md/theverge/preview.html",
+    "layout": "dashboard-slab",
+    "layout_label": "Dashboard",
+    "style": {
+      "bg": "#FFFFFF",
+      "panel": "#131313",
+      "text": "#E9E9E9",
+      "muted": "#64748b",
+      "accent": "#3CFFD0",
+      "kicker": "EDITORIAL MODE",
+      "headline": "The Verge",
+      "subhead": "中性色基底，编辑感、层级明显，整体更偏品…",
+      "layout": "dashboard-slab",
+      "mood_keywords": [
+        "brand",
+        "editorial",
+        "narrative"
+      ],
+      "best_for": [
+        "editor",
+        "editorial",
+        "landing-page",
+        "brand-site"
+      ],
+      "button_radius": "pill"
+    },
+    "audit_status": "pass",
+    "audit_score": 88.5,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/theverge.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Together AI",
+    "slug": "together.ai",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/together.ai.svg",
+    "preview_url": "https://getdesign.md/design-md/together.ai/preview.html",
+    "layout": "token-catalog-dark",
+    "layout_label": "Docs",
+    "style": {
+      "bg": "#000000",
+      "panel": "#FFFFFF",
+      "text": "#FFFFFF",
+      "muted": "#64748b",
+      "accent": "#EF2CC1",
+      "kicker": "DEVELOPER SYSTEM",
+      "headline": "Together AI",
+      "subhead": "蓝色点缀，现代、清晰，整体更偏开发者气质…",
+      "layout": "token-catalog-dark",
+      "mood_keywords": [
+        "developer",
+        "future-facing",
+        "technical"
+      ],
+      "best_for": [
+        "developer-tool",
+        "product-site",
+        "ai-platform"
+      ],
+      "button_radius": "pill"
+    },
+    "audit_status": "pass",
+    "audit_score": 88.5,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/together.ai.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Uber",
+    "slug": "uber",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/uber.svg",
+    "preview_url": "https://getdesign.md/design-md/uber/preview.html",
+    "layout": "editorial",
+    "layout_label": "Editorial",
+    "style": {
+      "bg": "#000000",
+      "panel": "#FFFFFF",
+      "text": "#C0C0C0",
+      "muted": "#94a3b8",
+      "accent": "#F7C59F",
+      "kicker": "EDITORIAL MODE",
+      "headline": "Uber",
+      "subhead": "黑白单色，大胆、强标题，整体更偏大胆张扬…",
+      "layout": "editorial",
+      "mood_keywords": [
+        "bold",
+        "brand",
+        "editorial",
+        "narrative"
+      ],
+      "best_for": [
+        "landing-page",
+        "editorial",
+        "brand-site"
+      ],
+      "button_radius": "pill"
+    },
+    "audit_status": "pass",
+    "audit_score": 93.0,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/uber.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Vercel",
+    "slug": "vercel",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/vercel.svg",
+    "preview_url": "https://getdesign.md/design-md/vercel/preview.html",
+    "layout": "hero-light",
+    "layout_label": "Hero",
+    "style": {
+      "bg": "#ffffff",
+      "panel": "#fafafa",
+      "text": "#111111",
+      "muted": "#6b7280",
+      "accent": "#111111",
+      "kicker": "PRECISE B/W",
+      "headline": "Vercel",
+      "subhead": "黑白极简、开发者官网质感",
+      "layout": "hero-light",
+      "mood_keywords": [
+        "minimal",
+        "precise",
+        "developer"
+      ],
+      "best_for": [
+        "landing-page",
+        "docs",
+        "developer-tool"
+      ]
+    },
+    "audit_status": "pass",
+    "audit_score": 96.0,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/vercel.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Vodafone",
+    "slug": "vodafone",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/vodafone.svg",
+    "preview_url": "https://getdesign.md/design-md/vodafone/preview.html",
+    "layout": "poster",
+    "layout_label": "Poster",
+    "style": {
+      "bg": "#FFFFFF",
+      "panel": "#F2F2F2",
+      "text": "#0F1114",
+      "muted": "#64748b",
+      "accent": "#E60000",
+      "kicker": "EDITORIAL MODE",
+      "headline": "Vodafone",
+      "subhead": "红色点缀，现代、清晰，整体更偏品牌感、编…",
+      "layout": "poster",
+      "mood_keywords": [
+        "brand",
+        "editorial",
+        "narrative"
+      ],
+      "best_for": [
+        "landing-page",
+        "editorial",
+        "brand-site"
+      ],
+      "button_radius": "pill"
+    },
+    "audit_status": "pass",
+    "audit_score": 96.0,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/vodafone.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "VoltAgent",
+    "slug": "voltagent",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/voltagent.svg",
+    "preview_url": "https://getdesign.md/design-md/voltagent/preview.html",
+    "layout": "token-catalog-dark",
+    "layout_label": "Docs",
+    "style": {
+      "bg": "#050507",
+      "panel": "#101010",
+      "text": "#F0F0F0",
+      "muted": "#94a3b8",
+      "accent": "#00D992",
+      "kicker": "DEVELOPER SYSTEM",
+      "headline": "VoltAgent",
+      "subhead": "黑绿与祖母绿点缀，现代、清晰，整体更偏开…",
+      "layout": "token-catalog-dark",
+      "mood_keywords": [
+        "developer",
+        "future-facing",
+        "technical"
+      ],
+      "best_for": [
+        "editor",
+        "developer-tool",
+        "product-site",
+        "ai-platform"
+      ],
+      "button_radius": "pill"
+    },
+    "audit_status": "pass",
+    "audit_score": 90.0,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/voltagent.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Warp",
+    "slug": "warp",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/warp.svg",
+    "preview_url": "https://getdesign.md/design-md/warp/preview.html",
+    "layout": "editorial-cascade",
+    "layout_label": "Editorial",
+    "style": {
+      "bg": "#0E0E0D",
+      "panel": "#161615",
+      "text": "#454545",
+      "muted": "#94a3b8",
+      "accent": "#C45050",
+      "kicker": "DEVELOPER SYSTEM",
+      "headline": "Warp",
+      "subhead": "深色基底，现代、清晰，整体更偏开发者气质…",
+      "layout": "editorial-cascade",
+      "mood_keywords": [
+        "developer",
+        "precise",
+        "tooling"
+      ],
+      "best_for": [
+        "editor",
+        "dashboard",
+        "docs"
+      ],
+      "button_radius": "pill"
+    },
+    "audit_status": "pass",
+    "audit_score": 89.6,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/warp.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Webflow",
+    "slug": "webflow",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/webflow.svg",
+    "preview_url": "https://getdesign.md/design-md/webflow/preview.html",
+    "layout": "creative",
+    "layout_label": "Creative",
+    "style": {
+      "bg": "#f5f7fb",
+      "panel": "#ffffff",
+      "text": "#0f172a",
+      "muted": "#64748b",
+      "accent": "#3b82f6",
+      "kicker": "CREATIVE TOOL",
+      "headline": "Webflow",
+      "subhead": "蓝色点缀，现代、清晰，整体更偏创意表达、…",
+      "layout": "creative",
+      "mood_keywords": [
+        "creative",
+        "expressive",
+        "tooling"
+      ],
+      "best_for": [
+        "editor",
+        "landing-page",
+        "creative-tool",
+        "showcase"
+      ]
+    },
+    "audit_status": "pass",
+    "audit_score": 89.0,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/webflow.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "WIRED",
+    "slug": "wired",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/wired.svg",
+    "preview_url": "https://getdesign.md/design-md/wired/preview.html",
+    "layout": "editorial",
+    "layout_label": "Editorial",
+    "style": {
+      "bg": "#f8fafc",
+      "panel": "#ffffff",
+      "text": "#111827",
+      "muted": "#64748b",
+      "accent": "#3b82f6",
+      "kicker": "EDITORIAL MODE",
+      "headline": "WIRED",
+      "subhead": "适合内容专题和媒体感页面。",
+      "layout": "editorial",
+      "mood_keywords": [
+        "brand",
+        "editorial",
+        "narrative"
+      ],
+      "best_for": [
+        "editorial",
+        "landing-page",
+        "brand-site"
+      ]
+    },
+    "audit_status": "pass",
+    "audit_score": 83.0,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/wired.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Wise",
+    "slug": "wise",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/wise.svg",
+    "preview_url": "https://getdesign.md/design-md/wise/preview.html",
+    "layout": "dashboard",
+    "layout_label": "Dashboard",
+    "style": {
+      "bg": "#f5f7fb",
+      "panel": "#ffffff",
+      "text": "#0f172a",
+      "muted": "#64748b",
+      "accent": "#3ecf8e",
+      "kicker": "FINTECH SYSTEM",
+      "headline": "Wise",
+      "subhead": "绿色点缀，亲和、清晰，整体更偏金融秩序感…",
+      "layout": "dashboard",
+      "mood_keywords": [
+        "finance",
+        "friendly",
+        "precision",
+        "trust"
+      ],
+      "best_for": [
+        "dashboard",
+        "pricing",
+        "product-site"
+      ]
+    },
+    "audit_status": "pass",
+    "audit_score": 96.0,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/wise.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "xAI",
+    "slug": "x.ai",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/x.ai.svg",
+    "preview_url": "https://getdesign.md/design-md/x.ai/preview.html",
+    "layout": "xai-mono",
+    "layout_label": "Docs",
+    "style": {
+      "bg": "#f8f8f8",
+      "panel": "#ffffff",
+      "text": "#1f2228",
+      "muted": "#6f737b",
+      "accent": "#1f2228",
+      "kicker": "TRY GROK",
+      "headline": "xAI",
+      "subhead": "极简未来感、等宽字、黑白精密",
+      "layout": "xai-mono",
+      "mood_keywords": [
+        "developer",
+        "future-facing",
+        "minimal",
+        "technical"
+      ],
+      "best_for": [
+        "developer-tool",
+        "product-site",
+        "ai-platform"
+      ],
+      "button_radius": "soft"
+    },
+    "audit_status": "pass",
+    "audit_score": 96.0,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/x.ai.png",
+    "thumb_source": "svg"
+  },
+  {
+    "name": "Zapier",
+    "slug": "zapier",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/zapier.svg",
+    "preview_url": "https://getdesign.md/design-md/zapier/preview.html",
+    "layout": "zapier-launchpad",
+    "layout_label": "Docs",
+    "style": {
+      "bg": "#fffdf9",
+      "panel": "#fffefb",
+      "text": "#2a1917",
+      "muted": "#8b7d75",
+      "accent": "#ff5a1f",
+      "kicker": "START FREE",
+      "headline": "Zapier",
+      "subhead": "暖白产品页、橙色点火、友好转化",
+      "layout": "zapier-launchpad",
+      "mood_keywords": [
+        "efficient",
+        "friendly",
+        "product"
+      ],
+      "best_for": [
+        "landing-page",
+        "saas",
+        "dashboard"
+      ],
+      "button_radius": "pill"
+    },
+    "audit_status": "pass",
+    "audit_score": 84.2,
+    "audit_version": "2026-04-v1",
+    "official_fingerprint_version": "2026-04-v1",
+    "audit_failures": [],
+    "official_thumb_path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/official-thumbnails/zapier.png",
+    "thumb_source": "svg"
+  }
+]

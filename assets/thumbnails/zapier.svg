@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="432" viewBox="0 0 768 432" fill="none">
+  <rect width="768" height="432" rx="36" fill="#fffdf9"/>
+  <rect x="32" y="32" width="704" height="368" rx="28" fill="#fffefb" stroke="#ff5a1f" stroke-opacity="0.10"/>
+  <rect x="620" y="48" width="92" height="34" rx="17" fill="#ff5a1f"/>
+  <text x="646" y="70" fill="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="800">START FREE</text>
+  <text x="384" y="138" text-anchor="middle" fill="#2a1917" font-family="Helvetica, Arial, sans-serif" font-size="74" font-weight="900" letter-spacing="-3">Zapier</text>
+  <text x="384" y="178" text-anchor="middle" fill="#8b7d75" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="500">暖白产品页、橙色点火、友好转化</text>
+  <rect x="226" y="212" width="126" height="40" rx="20" fill="#2a1917"/>
+  <text x="258" y="238" fill="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="800">Get Started</text>
+  <rect x="366" y="212" width="176" height="40" rx="20" fill="#ffffff" stroke="#2a1917" stroke-opacity="0.16"/>
+  <text x="400" y="238" fill="#2a1917" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="800">View Docs</text>
+  <rect x="92" y="298" width="170" height="86" rx="22" fill="#2a1917"/>
+  <rect x="286" y="298" width="170" height="86" rx="22" fill="#fff7ef" stroke="#ff5a1f" stroke-opacity="0.20"/>
+  <rect x="480" y="298" width="196" height="86" rx="22" fill="#fffaf4" stroke="#2a1917" stroke-opacity="0.08"/>
+  <rect x="114" y="318" width="92" height="12" rx="6" fill="#ffffff" fill-opacity="0.16"/>
+  <rect x="114" y="340" width="64" height="28" rx="14" fill="#ff5a1f" fill-opacity="0.94"/>
+  <rect x="308" y="320" width="108" height="12" rx="6" fill="#2a1917" fill-opacity="0.14"/>
+  <rect x="308" y="344" width="80" height="12" rx="6" fill="#ff5a1f" fill-opacity="0.24"/>
+  <rect x="506" y="320" width="118" height="12" rx="6" fill="#2a1917" fill-opacity="0.12"/>
+  <rect x="506" y="344" width="86" height="12" rx="6" fill="#8b7d75" fill-opacity="0.20"/>
+</svg>

@@ -1,0 +1,35 @@
+{
+  "name": "Vercel",
+  "style_keywords": ["黑白高对比", "开发者气质", "克制", "模块清晰", "现代"],
+  "negative_constraints": [
+    "不要加无关品牌色噪音",
+    "不要把简洁做成单调和无层级",
+    "不要为了极简牺牲操作反馈"
+  ],
+  "layout_bias": [
+    "保持干净的黑白主基调和清楚的信息骨架",
+    "模块节奏短促、利落，避免拖沓叙事",
+    "让对比、字重和边框承担层级，而不是装饰纹理"
+  ],
+  "component_tone": {
+    "button": "按钮简洁直接，反馈清楚",
+    "card": "卡片薄而利落，像文档化的产品模块",
+    "input": "输入控件强调清晰反馈和可预测性",
+    "navigation": "导航像开发者产品的结构骨架，短、清楚、可快速定位",
+    "panel": "面板保持中性和秩序，不做多余视觉糖分"
+  },
+  "image_direction": "图像使用节制，优先代码、界面或简单抽象图形，不靠大面积插画取胜。",
+  "best_for_pages": ["developer-tool", "docs", "product-site", "dashboard"],
+  "avoid_for_pages": ["luxury-showcase"],
+  "page_prompt_examples": {
+    "product-site": "按 Vercel 风格实现产品官网，保持黑白高对比、强结构和开发者友好气质。",
+    "docs": "按 Vercel 风格实现文档页，让信息结构、代码块和导航关系清楚利落。",
+    "dashboard": "按 Vercel 风格优化后台页面，保持中性干净、反馈明确和快速扫描体验。"
+  },
+  "component_prompt_examples": {
+    "button": "按钮简洁直接，不要出现花哨发光和厚重装饰。",
+    "panel": "面板应薄、利落、清楚，边界靠对比和间距而不是重阴影。",
+    "navigation": "导航要短促清楚，像开发者工具而不是品牌橱窗。"
+  },
+  "handoff_template": "按 Vercel 风格落地页面，保持黑白高对比、开发者气质和模块清晰度。"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Stripe",
+  "style_keywords": ["编辑感科技", "高级 SaaS", "渐变品牌感", "模块化叙事", "可信"],
+  "negative_constraints": [
+    "不要把渐变铺满所有表面",
+    "不要让品牌表达压过信息结构",
+    "不要把后台页硬做成营销官网"
+  ],
+  "layout_bias": [
+    "首屏强调品牌叙事和价值表达",
+    "功能区块按模块化卡片和编辑节奏展开",
+    "让品牌色和辅助渐变只出现在关键聚焦点"
+  ],
+  "component_tone": {
+    "button": "按钮要有品牌精致感，但仍然克制可信",
+    "card": "卡片兼顾信息密度和品牌质感",
+    "input": "输入区清晰稳定，不被视觉花活干扰",
+    "navigation": "导航偏产品化和文档化，层级分明",
+    "panel": "面板允许轻度品牌感，但必须保持可读和可信"
+  },
+  "image_direction": "适合轻量品牌渐变、插图和抽象图形，不要做廉价流光特效。",
+  "best_for_pages": ["landing-page", "product-site", "docs", "dashboard"],
+  "avoid_for_pages": ["dense-dashboard"],
+  "page_prompt_examples": {
+    "landing-page": "按 Stripe 风格实现落地页，兼顾品牌叙事、清晰价值表达和可信的产品模块结构。",
+    "product-site": "按 Stripe 风格实现产品官网，让品牌感、功能说明和案例模块保持精致平衡。",
+    "dashboard": "按 Stripe 风格优化后台页面，只保留少量品牌强调，主体仍然以效率和可读性为先。"
+  },
+  "component_prompt_examples": {
+    "button": "按钮带一点品牌精致感，但不要做成炫技渐变块。",
+    "card": "卡片需要兼顾品牌调性和信息秩序，避免既花又乱。",
+    "form": "表单要稳定可信，不要被品牌装饰盖过功能。"
+  },
+  "handoff_template": "按 Stripe 风格实现页面，在品牌感、可信度和信息结构之间保持平衡。"
+}

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="432" viewBox="0 0 768 432" fill="none">
+  <rect width="768" height="432" rx="36" fill="#FFFFFF"/>
+  <rect x="34" y="34" width="700" height="364" rx="28" fill="#F1F4F7" stroke="#0064E0" stroke-opacity="0.18"/>
+  <circle cx="188" cy="148" r="76" fill="#0064E0" fill-opacity="0.92"/>
+  <circle cx="258" cy="148" r="58" fill="#478fe8"/>
+  <circle cx="160" cy="228" r="44" fill="#0052b7"/>
+  <circle cx="236" cy="236" r="54" fill="#8cb9f1"/>
+  <text x="410" y="102" fill="#0064E0" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="2">CONVERSION FIRST</text>
+  <text x="410" y="176" fill="#8595A4" font-family="Helvetica, Arial, sans-serif" font-size="62" font-weight="800" letter-spacing="-2">Meta</text>
+  <text x="410" y="216" fill="#94a3b8" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="500">蓝色点缀，现代、清晰，整体更偏转化导向、…</text>
+  <rect x="410" y="260" width="180" height="14" rx="7" fill="#94a3b8" fill-opacity="0.18"/>
+  <rect x="410" y="286" width="144" height="14" rx="7" fill="#0064E0" fill-opacity="0.16"/>
+</svg>

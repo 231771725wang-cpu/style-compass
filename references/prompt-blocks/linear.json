@@ -1,0 +1,35 @@
+{
+  "name": "Linear",
+  "style_keywords": ["精准", "高密度工具感", "深色秩序", "克制科技感", "系统化"],
+  "negative_constraints": [
+    "不要引入大幅营销式渐变",
+    "不要用夸张圆角和大阴影破坏面板秩序",
+    "不要为了品牌感牺牲扫描效率"
+  ],
+  "layout_bias": [
+    "优先面板式布局和明确分区",
+    "使用对齐、密度和边界建立节奏，而不是靠装饰",
+    "高频操作区始终保持就近和稳定"
+  ],
+  "component_tone": {
+    "button": "按钮精炼干脆，主次清楚但不过度张扬",
+    "card": "卡片像系统面板，边界明确、密度受控",
+    "input": "输入控件强调可扫视和高频操作效率",
+    "navigation": "导航像工具骨架，稳定、安静、连续",
+    "panel": "面板要有强秩序和信息层级，不做海报化装饰"
+  },
+  "image_direction": "图像和插图只作为辅助，主叙事交给排版、面板和状态信息。",
+  "best_for_pages": ["dashboard", "editor", "docs", "developer-tool"],
+  "avoid_for_pages": ["brand-site"],
+  "page_prompt_examples": {
+    "dashboard": "按 Linear 风格实现控制台页面，强调高密度但不混乱的面板秩序、清晰状态和快速扫描体验。",
+    "editor": "按 Linear 风格实现编辑器壳层，保持深色精确感，让工具栏、侧栏和主工作区关系非常清楚。",
+    "docs": "按 Linear 风格实现文档页，避免花哨装饰，突出结构、导航和可连续阅读性。"
+  },
+  "component_prompt_examples": {
+    "button": "按钮像工具动作，不要像电商促销 CTA。",
+    "panel": "面板强调边界、密度和状态一致性，避免浮夸玻璃感。",
+    "navigation": "导航必须稳定、安静、清晰，不要做品牌秀场式跳跃层级。"
+  },
+  "handoff_template": "按 Linear 风格重构界面，优先保证工具效率、密度秩序和面板一致性。"
+}

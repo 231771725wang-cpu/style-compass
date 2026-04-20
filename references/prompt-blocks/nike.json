@@ -1,0 +1,35 @@
+{
+  "name": "Nike",
+  "style_keywords": ["大胆", "广告感", "运动张力", "强标题", "高对比"],
+  "negative_constraints": [
+    "不要把所有页面都做成 campaign 海报",
+    "不要牺牲导航和转化路径的清晰度",
+    "不要在工具页硬套强广告视觉"
+  ],
+  "layout_bias": [
+    "允许强主视觉和高冲击标题",
+    "区块之间保持节奏断点和运动感",
+    "用大图、粗标题和留白建立品牌张力"
+  ],
+  "component_tone": {
+    "button": "按钮带推动感和行动号召，但不能失去清晰度",
+    "card": "卡片更像 campaign 模块，而不是后台信息砖块",
+    "input": "输入区保持中性，避免被品牌情绪覆盖",
+    "navigation": "导航需要稳住秩序，给强主视觉兜底",
+    "panel": "面板只在营销场景里承担表达，不要满屏都高冲击"
+  },
+  "image_direction": "优先高冲击人物、产品或动作画面，图像应承担品牌张力。",
+  "best_for_pages": ["landing-page", "brand-site", "campaign", "commerce"],
+  "avoid_for_pages": ["dashboard", "docs"],
+  "page_prompt_examples": {
+    "landing-page": "按 Nike 风格实现落地页，突出高冲击主视觉、强标题和行动号召，但保持转化路径清楚。",
+    "brand-site": "按 Nike 风格实现品牌官网，让画面、标题和节奏形成明确品牌张力。",
+    "commerce": "按 Nike 风格实现电商页，允许强品牌表达，但购买路径和筛选逻辑仍要直接。"
+  },
+  "component_prompt_examples": {
+    "button": "按钮要有推动感，但不能像噪音式促销贴片。",
+    "card": "卡片适合承担 campaign 信息和情绪，不要做成平庸后台卡。",
+    "navigation": "导航要稳，不能被大图和强标题冲散。"
+  },
+  "handoff_template": "按 Nike 风格实现页面，用高冲击品牌表达拉开气场，但保持路径清晰。"
+}

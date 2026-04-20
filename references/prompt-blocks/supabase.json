@@ -1,0 +1,35 @@
+{
+  "name": "Supabase",
+  "style_keywords": ["开源开发者气质", "深色控制台", "绿色点缀", "代码感", "清晰"],
+  "negative_constraints": [
+    "不要把绿色强调扩散到所有元素",
+    "不要让品牌感压过控制台可读性",
+    "不要把深色层级压成一片"
+  ],
+  "layout_bias": [
+    "优先控制台骨架和开发者友好结构",
+    "品牌绿色只在关键按钮、状态和识别点出现",
+    "深色层级必须明确区分底面、抬升面和活动态"
+  ],
+  "component_tone": {
+    "button": "按钮直接清楚，绿色只用在主动作和关键状态",
+    "card": "卡片像控制台模块，不做厚重装饰",
+    "input": "输入控件保持开发者工具的清晰反馈",
+    "navigation": "导航像数据库或平台控制台骨架，稳定直接",
+    "panel": "面板重点是层级清楚和状态一致，不追求花哨"
+  },
+  "image_direction": "图像从简，优先界面、代码片段和抽象技术图形。",
+  "best_for_pages": ["dashboard", "developer-tool", "docs", "product-site"],
+  "avoid_for_pages": ["luxury-brand-site"],
+  "page_prompt_examples": {
+    "dashboard": "按 Supabase 风格实现控制台页面，突出深色层级、清晰状态和绿色识别点。",
+    "docs": "按 Supabase 风格实现文档页，保持开发者友好、清楚导航和简洁技术气质。",
+    "product-site": "按 Supabase 风格实现产品官网，兼顾开源开发者气质和可信的产品结构。"
+  },
+  "component_prompt_examples": {
+    "button": "按钮要直接清楚，绿色强调只保留给主动作。",
+    "panel": "面板像控制台模块，层级明确，不要做营销式发光。",
+    "form": "表单和配置区强调反馈清楚、错误态明确和扫描效率。"
+  },
+  "handoff_template": "按 Supabase 风格实现界面，保持开发者友好、深色层级和克制品牌识别。"
+}

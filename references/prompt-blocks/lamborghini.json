@@ -1,0 +1,52 @@
+{
+  "name": "Lamborghini",
+  "style_keywords": [
+    "中性色基底",
+    "现代、清晰",
+    "电影感",
+    "奢华气场",
+    "纪念碑式构图",
+    "高冲击摄影",
+    "品牌气场"
+  ],
+  "negative_constraints": [
+    "不要只复制表层颜色、圆角或大图，忽略布局逻辑与模块节奏。",
+    "不要让所有模块同权重，必须保留明确主次。",
+    "气场很重，容易压过产品功能本身。",
+    "不要把深色层级压成一整块黑面，必须保留容器层次和状态差异。",
+    "不要把品牌张力做成无节制海报，仍要服务页面路径和信息转化。"
+  ],
+  "layout_bias": [
+    "首屏需要明确主视觉和价值主张，不要一开始就掉进零散模块堆叠。",
+    "区块之间保留节奏断点，让叙事、信息和转化路径都清楚。",
+    "允许更强的主视觉和品牌画面，但不能冲散页面主次关系。",
+    "中密度页面优先平衡品牌气质与信息效率，不要偏向单一极端。"
+  ],
+  "component_tone": {
+    "button": "按钮要承接品牌或转化语气，但仍然保持路径清晰。",
+    "card": "卡片更像品牌模块或商品信息单元，不要退回普通后台灰盒。",
+    "input": "输入控件优先可读、可扫视和状态清楚。",
+    "navigation": "导航要稳住节奏，给强主视觉和大图区块兜底。",
+    "panel": "面板需要有 Lamborghini 的容器感，但不能破坏信息秩序。"
+  },
+  "image_direction": "优先高冲击产品摄影和大场景画面，让图像承担品牌气场。",
+  "best_for_pages": [
+    "brand-site",
+    "landing-page"
+  ],
+  "avoid_for_pages": [
+    "dashboard"
+  ],
+  "page_prompt_examples": {
+    "brand-site": "按 Lamborghini 风格实现 brand-site 页面，先稳住主视觉、标题层级和转化路径，再引入品牌气质，不要让所有区块同权重。",
+    "landing-page": "按 Lamborghini 风格实现 landing-page 页面，先稳住主视觉、标题层级和转化路径，再引入品牌气质，不要让所有区块同权重。"
+  },
+  "component_prompt_examples": {
+    "button": "把按钮做成 Lamborghini 风格，保留明确主次、状态反馈和点击目标。",
+    "card": "把卡片做成 Lamborghini 风格，重点控制边界、留白和信息层级。",
+    "panel": "把面板做成 Lamborghini 风格，强调容器秩序，不要无规则叠阴影。",
+    "navigation": "把导航做成 Lamborghini 风格，让结构稳定清楚，不要抢走主内容注意力。",
+    "form": "把表单做成 Lamborghini 风格，优先可读性、状态反馈和输入效率。"
+  },
+  "handoff_template": "按 Lamborghini 风格落地页面，用主视觉和品牌张力拉开气场，但保持路径清晰。"
+}

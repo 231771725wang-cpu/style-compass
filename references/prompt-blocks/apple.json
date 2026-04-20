@@ -1,0 +1,35 @@
+{
+  "name": "Apple",
+  "style_keywords": ["克制", "高级感", "精密排版", "电影感产品叙事", "留白驱动"],
+  "negative_constraints": [
+    "不要滥用彩色渐变和高饱和点缀",
+    "不要让每个区块都抢主视觉",
+    "不要把工具页做成失去效率的品牌海报"
+  ],
+  "layout_bias": [
+    "主视觉区保持大留白和强聚焦",
+    "内容区按稳定模块节奏展开，避免碎片化卡片墙",
+    "标题、产品主体和说明文字之间保持明显呼吸感"
+  ],
+  "component_tone": {
+    "button": "主按钮精致克制，次按钮明显降一级",
+    "card": "卡片像产品展台，不像后台灰盒",
+    "input": "输入区安静清晰，不抢主内容层级",
+    "navigation": "导航语气克制，靠层级和间距建立秩序",
+    "panel": "面板优先干净边界和均匀留白"
+  },
+  "image_direction": "优先大面积产品主体、材质和留白，不做碎装饰拼贴。",
+  "best_for_pages": ["landing-page", "product-site", "creative-tool"],
+  "avoid_for_pages": ["dashboard"],
+  "page_prompt_examples": {
+    "landing-page": "按 Apple 风格实现产品落地页，主视觉保持克制留白、高质量主体图和分层精密的文案节奏。",
+    "product-site": "按 Apple 风格实现产品官网，控制模块数量和节奏，让产品主体、标题和卖点形成清晰聚焦。",
+    "editor": "按 Apple 风格优化编辑器外壳，保留效率优先，但把表面语言、层级和留白收得更精致。"
+  },
+  "component_prompt_examples": {
+    "button": "按钮要精致克制，不要做成营销海报式超强 CTA。",
+    "card": "卡片像陈列产品信息的安静容器，避免多层阴影和重装饰。",
+    "panel": "面板像精密容器，不要堆砌阴影和描边。"
+  },
+  "handoff_template": "按 Apple 风格落地页面，优先精密层级、留白和主内容聚焦。"
+}

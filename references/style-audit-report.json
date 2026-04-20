@@ -1,0 +1,4527 @@
+[
+  {
+    "name": "Airbnb",
+    "slug": "airbnb",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/airbnb.svg",
+    "preview_url": "https://getdesign.md/design-md/airbnb/preview.html",
+    "status": "pass",
+    "score": 80.5,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 2,
+      "typography_case": 5,
+      "button_radius": 6,
+      "mood": 7.5
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Airbnb",
+      "preview_url": "https://getdesign.md/design-md/airbnb/preview.html",
+      "colors": {
+        "background": "#FFFFFF",
+        "panel": "#222222",
+        "text": "#E8E8E8",
+        "accent": "#FF385C"
+      },
+      "brightness": "light",
+      "accent_family": "red",
+      "accent_mode": "color",
+      "layout_hint": "commerce-split",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "conversion",
+        "friendly",
+        "product"
+      ],
+      "excerpt": "Design System Inspired by Airbnb\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \n \n🔍\n \nDesign System Inspired by \nAirbnb\n \nA design token catalog generated from DESIGN.md. Every color, font, component, and spacing value — visualized.\n \n \nExplore Stays\n \nBecome a Host\n \n \n01 / Colors\nColor Palette\n \nBrand\n \n \nRausch Red\n#ff385c\nPrimary CTA\n \nDeep Rausch\n#e00b41\nPressed state\n \nLuxe Purple\n#460479\nLuxe tier\n \nPlus Magenta\n#92174d\nPlus tier\n \n \nText & Neutral"
+    },
+    "svg": {
+      "layout": "commerce-split",
+      "layout_group": "showcase",
+      "colors": {
+        "background": "#F5F7FB",
+        "panel": "#FFFFFF",
+        "text": "#0F172A",
+        "accent": "#6B7280"
+      },
+      "brightness": "light",
+      "accent_family": "blue",
+      "accent_mode": "color",
+      "headline": "适合需要亲和力和转化力并存的页面。",
+      "uppercase_title": false,
+      "headline_size": 22,
+      "button_radius": "soft",
+      "moods": [
+        "conversion",
+        "heroic",
+        "product"
+      ]
+    }
+  },
+  {
+    "name": "Airtable",
+    "slug": "airtable",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/airtable.svg",
+    "preview_url": "https://getdesign.md/design-md/airtable/preview.html",
+    "status": "pass",
+    "score": 95.0,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 10,
+      "mood": 10.0
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Airtable",
+      "preview_url": "https://getdesign.md/design-md/airtable/preview.html",
+      "colors": {
+        "background": "#181D26",
+        "panel": "#E0E2E6",
+        "text": "#333333",
+        "accent": "#1B61C9"
+      },
+      "brightness": "dark",
+      "accent_family": "blue",
+      "accent_mode": "color",
+      "layout_hint": "poster",
+      "button_radius": "soft",
+      "uppercase_title": false,
+      "moods": [
+        "brand",
+        "cinematic",
+        "creative",
+        "expressive",
+        "friendly",
+        "tooling"
+      ],
+      "excerpt": "Design System Inspired by Airtable\n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \nColors\nTypography\nButtons\nCards\nForms\nSign up for free\nDesign System\nInspired by \nAirtable\nEvery color, font, and component — connected in one workspace.\nSign up for free\nContact sales\n01 / Colors\nColor Palette\nPrimary\nDeep Navy\n#181d26\nAirtable Blue\n#1b61c9\nWhite\n#ffffff\nMid Blue\n#254fad\nNeutral\nDark Gray\n#333333\nBorder\n#e0e2e6\nLight\n#f8fafc\n02 / Typography\nTypography Scale\nDisplay Hero\nHaas — 48px / 400 / 1.15\nDisplay Bold\nHaas Gr"
+    },
+    "svg": {
+      "layout": "poster",
+      "layout_group": "showcase",
+      "colors": {
+        "background": "#181D26",
+        "panel": "#E0E2E6",
+        "text": "#333333",
+        "accent": "#1B61C9"
+      },
+      "brightness": "dark",
+      "accent_family": "blue",
+      "accent_mode": "color",
+      "headline": "红色点缀，亲和、清晰，整体更偏创意表达、…",
+      "uppercase_title": false,
+      "headline_size": 22,
+      "button_radius": "soft",
+      "moods": [
+        "creative",
+        "expressive",
+        "friendly",
+        "tooling"
+      ]
+    }
+  },
+  {
+    "name": "Apple",
+    "slug": "apple",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/apple.svg",
+    "preview_url": "https://getdesign.md/design-md/apple/preview.html",
+    "status": "pass",
+    "score": 92.5,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 10,
+      "mood": 7.5
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Apple",
+      "preview_url": "https://getdesign.md/design-md/apple/preview.html",
+      "colors": {
+        "background": "#F5F5F7",
+        "panel": "#FFFFFF",
+        "text": "#1D1D1F",
+        "accent": "#0071E3"
+      },
+      "brightness": "light",
+      "accent_family": "blue",
+      "accent_mode": "color",
+      "layout_hint": "hero-light",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "minimal",
+        "premium",
+        "product"
+      ],
+      "excerpt": "Design System Inspired by Apple\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \n \nShop Now\n \nDesign System\nInspired by Apple\n \nA design token catalog generated from DESIGN.md. Every color, font, component, and spacing value — visualized.\n \n \nLearn more\n \nView Documentation\n \n \n01 / Colors\n \nColor Palette\n \nPrimary\n \n \nPure Black\n#000000\nHero backgrounds\n \nLight Gray\n#f5f5f7\nAlternate sections\n \nNear Black\n#1d1d1f\nPrimary text, dark buttons\n \nWhite\n#ff"
+    },
+    "svg": {
+      "layout": "hero-light",
+      "layout_group": "showcase",
+      "colors": {
+        "background": "#F5F5F7",
+        "panel": "#FFFFFF",
+        "text": "#111111",
+        "accent": "#0071E3"
+      },
+      "brightness": "light",
+      "accent_family": "blue",
+      "accent_mode": "color",
+      "headline": "Apple",
+      "uppercase_title": false,
+      "headline_size": 64,
+      "button_radius": "pill",
+      "moods": [
+        "cinematic",
+        "minimal",
+        "premium"
+      ]
+    }
+  },
+  {
+    "name": "Binance",
+    "slug": "binance",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/binance.svg",
+    "preview_url": "https://getdesign.md/design-md/binance/preview.html",
+    "status": "pass",
+    "score": 93.0,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 6,
+      "mood": 12.0
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Binance",
+      "preview_url": "https://getdesign.md/design-md/binance/preview.html",
+      "colors": {
+        "background": "#FFFFFF",
+        "panel": "#F5F5F5",
+        "text": "#E6E8EA",
+        "accent": "#F0B90B"
+      },
+      "brightness": "light",
+      "accent_family": "neutral",
+      "accent_mode": "monochrome",
+      "layout_hint": "commerce-split",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "bold",
+        "brand",
+        "finance",
+        "precision",
+        "trust"
+      ],
+      "excerpt": "Design System Inspired by Binance\n \n \n \ngetdesign.md\n \n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \n \nGet Started\n \n \nDesign System Inspired by \nBinance\n \nA complete design token catalog extracted from Binance.US — BinancePlex typography, golden accent palette, and fintech component patterns.\n \n \nExplore Tokens\n \nView Source\n \n \n \n \n \nBTC\n \n$71,234.21\n \n+2.34%\n \n \n \nETH\n \n$3,891.45\n \n+1.12%\n \n \n \nBNB\n \n$642.80\n \n-0.87%\n \n \n \nSOL\n \n$182.33\n \n+5.61%\n \n \n \nColor Palette"
+    },
+    "svg": {
+      "layout": "commerce-split",
+      "layout_group": "showcase",
+      "colors": {
+        "background": "#F5F7FB",
+        "panel": "#FFFFFF",
+        "text": "#0F172A",
+        "accent": "#F5F5F5"
+      },
+      "brightness": "light",
+      "accent_family": "neutral",
+      "accent_mode": "monochrome",
+      "headline": "黑白单色，大胆、强标题，整体更偏大胆张扬…",
+      "uppercase_title": false,
+      "headline_size": 22,
+      "button_radius": "soft",
+      "moods": [
+        "bold",
+        "finance",
+        "precision",
+        "trust"
+      ]
+    }
+  },
+  {
+    "name": "BMW",
+    "slug": "bmw",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/bmw.svg",
+    "preview_url": "https://getdesign.md/design-md/bmw/preview.html",
+    "status": "pass",
+    "score": 81.2,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 4,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 1,
+      "button_radius": 10,
+      "mood": 11.2
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "BMW",
+      "preview_url": "https://getdesign.md/design-md/bmw/preview.html",
+      "colors": {
+        "background": "#FFFFFF",
+        "panel": "#262626",
+        "text": "#F0F0F0",
+        "accent": "#1C69D4"
+      },
+      "brightness": "dark",
+      "accent_family": "neutral",
+      "accent_mode": "monochrome",
+      "layout_hint": "luxury-banner",
+      "button_radius": "soft",
+      "uppercase_title": true,
+      "moods": [
+        "cinematic",
+        "luxury",
+        "monumental"
+      ],
+      "excerpt": "Design System Inspired by BMW\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \n \nExplore\n \nDesign System\nInspired by BMW\n \nA design token catalog generated from DESIGN.md. Every color, font, component, and spacing value — visualized with sharp precision.\n \nExplore Models\nFind Your BMW\n \n01 / Colors\nColor Palette\n \nBrand\n \n \nBMW Blue\n#1c69d4\nHighlight accent\n \nFocus Blue\n#0653b6\nFocus states\n \nTheme White\n#ffffff\nPrimary surface\n \n \nNeutral\n \n \nNear Black\n#262626"
+    },
+    "svg": {
+      "layout": "luxury-banner",
+      "layout_group": "showcase",
+      "colors": {
+        "background": "#FFFFFF",
+        "panel": "#262626",
+        "text": "#F0F0F0",
+        "accent": "#F5F5F5"
+      },
+      "brightness": "light",
+      "accent_family": "neutral",
+      "accent_mode": "monochrome",
+      "headline": "适合想做高级品牌展示的页面。",
+      "uppercase_title": false,
+      "headline_size": 20,
+      "button_radius": "soft",
+      "moods": [
+        "brand",
+        "cinematic",
+        "luxury",
+        "monumental"
+      ]
+    }
+  },
+  {
+    "name": "Bugatti",
+    "slug": "bugatti",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/bugatti.svg",
+    "preview_url": "https://getdesign.md/design-md/bugatti/preview.html",
+    "status": "pass",
+    "score": 93.5,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 6,
+      "mood": 12.5
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Bugatti",
+      "preview_url": "https://getdesign.md/design-md/bugatti/preview.html",
+      "colors": {
+        "background": "#000000",
+        "panel": "#FFFFFF",
+        "text": "#F5F5F5",
+        "accent": "#3A2A1A"
+      },
+      "brightness": "dark",
+      "accent_family": "neutral",
+      "accent_mode": "monochrome",
+      "layout_hint": "editorial",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "brand",
+        "cinematic",
+        "developer",
+        "editorial",
+        "luxury",
+        "monumental"
+      ],
+      "excerpt": "Design System Inspiration of Bugatti\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nPalette\n \nType\n \nComponents\n \nLayout\n \n \nStore\n \nDesign System / Couture Automotive\n \nDesign System Inspiration of Bugatti\n \nCinematic negative space, monumental display typography, and a monochrome palette that refuses to compete with the product. Generated from DESIGN.md.\n \n \nExplore the System\n \nRead the Dossier\n \n \nSection 01 / Palette\n \nColor Palette\n \nVelvet black canvas, showroom white type, one gray for the quiet mom"
+    },
+    "svg": {
+      "layout": "editorial-cascade",
+      "layout_group": "editorial",
+      "colors": {
+        "background": "#000000",
+        "panel": "#FFFFFF",
+        "text": "#F5F5F5",
+        "accent": "#F5F5F5"
+      },
+      "brightness": "dark",
+      "accent_family": "neutral",
+      "accent_mode": "monochrome",
+      "headline": "Bugatti",
+      "uppercase_title": false,
+      "headline_size": 68,
+      "button_radius": "soft",
+      "moods": [
+        "brand",
+        "cinematic",
+        "editorial",
+        "luxury",
+        "monumental"
+      ]
+    }
+  },
+  {
+    "name": "Cal.com",
+    "slug": "cal",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/cal.svg",
+    "preview_url": "https://getdesign.md/design-md/cal/preview.html",
+    "status": "pass",
+    "score": 94.0,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 10,
+      "mood": 9.0
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Cal.com",
+      "preview_url": "https://getdesign.md/design-md/cal/preview.html",
+      "colors": {
+        "background": "#242424",
+        "panel": "#111111",
+        "text": "#000000",
+        "accent": "#0099FF"
+      },
+      "brightness": "dark",
+      "accent_family": "neutral",
+      "accent_mode": "monochrome",
+      "layout_hint": "dashboard",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "brand",
+        "efficient",
+        "friendly",
+        "minimal",
+        "product"
+      ],
+      "excerpt": "Design System Inspired by Cal.com\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \nRadius\n \nElevation\n \n \nGet started\n \nDesign System Inspired by Cal.com\n \nA visual catalog of design tokens extracted from Cal.com's monochromatic, grayscale design system.\n \n \nExplore Tokens\n \nView DESIGN.md\n \n \nColor Palette\n \nA grayscale brand — boldness through monochrome, not color.\n \n \nPrimary\n \n \nCharcoal\n#242424\nHeadings, buttons, primary text\n \nMidnight\n#111111\nD"
+    },
+    "svg": {
+      "layout": "dashboard",
+      "layout_group": "tooling",
+      "colors": {
+        "background": "#242424",
+        "panel": "#111111",
+        "text": "#000000",
+        "accent": "#F5F5F5"
+      },
+      "brightness": "dark",
+      "accent_family": "neutral",
+      "accent_mode": "monochrome",
+      "headline": "Cal.com",
+      "uppercase_title": false,
+      "headline_size": 64,
+      "button_radius": "pill",
+      "moods": [
+        "efficient",
+        "friendly",
+        "product"
+      ]
+    }
+  },
+  {
+    "name": "Claude",
+    "slug": "claude",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/claude.svg",
+    "preview_url": "https://getdesign.md/design-md/claude/preview.html",
+    "status": "pass",
+    "score": 87.0,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 6,
+      "mood": 6.0
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Claude",
+      "preview_url": "https://getdesign.md/design-md/claude/preview.html",
+      "colors": {
+        "background": "#141413",
+        "panel": "#F5F4ED",
+        "text": "#C2C0B6",
+        "accent": "#C96442"
+      },
+      "brightness": "light",
+      "accent_family": "orange",
+      "accent_mode": "color",
+      "layout_hint": "editorial",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "editorial",
+        "friendly",
+        "future-facing"
+      ],
+      "excerpt": "Design System Inspired by Claude\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nSpacing\n \nElevation\n \n \n \nTry Claude\n \nDesign System\nInspired by Claude\n \nAuto-generated design token catalog from DESIGN.md\n \n \nExplore Tokens\n \nView Source\n \n \n01 / Color Palette\n \nColor Palette & Roles\n \n \nPrimary\n \n \n \n \n \nAnthropic Near Black\n \n#141413\n \nPrimary text, dark-theme surface\n \n \n \n \n \n \nTerracotta Brand\n \n#c96442\n \nCore brand color, primary CTA buttons\n \n \n \n \n \n \nCoral Ac"
+    },
+    "svg": {
+      "layout": "editorial",
+      "layout_group": "editorial",
+      "colors": {
+        "background": "#F5F7FB",
+        "panel": "#FFFFFF",
+        "text": "#0F172A",
+        "accent": "#C9735B"
+      },
+      "brightness": "light",
+      "accent_family": "orange",
+      "accent_mode": "color",
+      "headline": "Claude",
+      "uppercase_title": false,
+      "headline_size": 70,
+      "button_radius": "soft",
+      "moods": [
+        "developer",
+        "editorial",
+        "future-facing",
+        "technical"
+      ]
+    }
+  },
+  {
+    "name": "Clay",
+    "slug": "clay",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/clay.svg",
+    "preview_url": "https://getdesign.md/design-md/clay/preview.html",
+    "status": "pass",
+    "score": 85.0,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 2,
+      "typography_case": 5,
+      "button_radius": 6,
+      "mood": 12.0
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Clay",
+      "preview_url": "https://getdesign.md/design-md/clay/preview.html",
+      "colors": {
+        "background": "#FAF9F7",
+        "panel": "#000000",
+        "text": "#F0F8FF",
+        "accent": "#DAD4C8"
+      },
+      "brightness": "light",
+      "accent_family": "orange",
+      "accent_mode": "color",
+      "layout_hint": "docs-grid",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "creative",
+        "expressive",
+        "friendly",
+        "gradient",
+        "tooling"
+      ],
+      "excerpt": "Design System Inspired by Clay\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \n \nGet Started\n \nDesign System\nInspired by Clay\n \nA design token catalog generated from DESIGN.md. Every color, font, component, and spacing value — visualized.\n \n \nStart Building\n \nDocumentation\n \n \n01 / Colors\n \nColor Palette\n \nPrimary\n \n \nClay Black\n#000000\nText, headings\n \nPure White\n#ffffff\nCards, buttons\n \nWarm Cream\n#faf9f7\nPage background\n \n \nSwatch Palette\n \n \nMatch"
+    },
+    "svg": {
+      "layout": "token-catalog-warm",
+      "layout_group": "tooling",
+      "colors": {
+        "background": "#FAF9F7",
+        "panel": "#000000",
+        "text": "#F0F8FF",
+        "accent": "#FF5A1F"
+      },
+      "brightness": "light",
+      "accent_family": "red",
+      "accent_mode": "color",
+      "headline": "preview",
+      "uppercase_title": false,
+      "headline_size": 12,
+      "button_radius": "soft",
+      "moods": [
+        "creative",
+        "expressive",
+        "gradient",
+        "tooling"
+      ]
+    }
+  },
+  {
+    "name": "ClickHouse",
+    "slug": "clickhouse",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/clickhouse.svg",
+    "preview_url": "https://getdesign.md/design-md/clickhouse/preview.html",
+    "status": "pass",
+    "score": 92.2,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 6,
+      "mood": 11.2
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "ClickHouse",
+      "preview_url": "https://getdesign.md/design-md/clickhouse/preview.html",
+      "colors": {
+        "background": "#000000",
+        "panel": "#141414",
+        "text": "#151515",
+        "accent": "#FAFF69"
+      },
+      "brightness": "dark",
+      "accent_family": "green",
+      "accent_mode": "color",
+      "layout_hint": "docs-grid",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "brand",
+        "dense",
+        "structured",
+        "technical"
+      ],
+      "excerpt": "Design System Inspired by ClickHouse\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nSpacing\n \nElevation\n \n \n \nGet Started\n \nDesign System\nInspired by ClickHouse\n \nAuto-generated design token catalog from DESIGN.md — Light mode (inverted)\n \n \nExplore Tokens\n \nView Source\n \n \n01 / Color Palette\n \nColor Palette & Roles\n \n \nPrimary — Neon Volt Family\n \n \n \n \n \nNeon Volt\n \n#faff69\n \nSignature brand accent, CTAs, accent borders, link hovers\n \n \n \n \n \n \nPale Yellow\n \n#f4f692"
+    },
+    "svg": {
+      "layout": "docs-grid",
+      "layout_group": "tooling",
+      "colors": {
+        "background": "#000000",
+        "panel": "#141414",
+        "text": "#151515",
+        "accent": "#FAFF69"
+      },
+      "brightness": "dark",
+      "accent_family": "green",
+      "accent_mode": "color",
+      "headline": "ClickHouse",
+      "uppercase_title": false,
+      "headline_size": 56,
+      "button_radius": "soft",
+      "moods": [
+        "dense",
+        "structured",
+        "technical"
+      ]
+    }
+  },
+  {
+    "name": "Cohere",
+    "slug": "cohere",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/cohere.svg",
+    "preview_url": "https://getdesign.md/design-md/cohere/preview.html",
+    "status": "pass",
+    "score": 85.0,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 4,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 6,
+      "mood": 15.0
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Cohere",
+      "preview_url": "https://getdesign.md/design-md/cohere/preview.html",
+      "colors": {
+        "text": "#1863DC",
+        "background": "#000000",
+        "panel": "#212121",
+        "accent": "#1863DC"
+      },
+      "brightness": "dark",
+      "accent_family": "blue",
+      "accent_mode": "color",
+      "layout_hint": "ai-capsule",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "developer",
+        "future-facing",
+        "gradient",
+        "technical"
+      ],
+      "excerpt": "Design System Inspired by Cohere\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nSpacing\n \nElevation\n \n \n \nGet Started\n \nDesign System\nInspired by Cohere\n \nAuto-generated design token catalog from DESIGN.md\n \n \nExplore Tokens\n \nView Source\n \n \n01 / Color Palette\n \nColor Palette & Roles\n \n \nPrimary\n \n \n \n \n \nCohere Black\n \n#000000\n \nPrimary headline text, maximum emphasis\n \n \n \n \n \n \nNear Black\n \n#212121\n \nStandard body link color\n \n \n \n \n \n \nDeep Dark\n \n#17171c\n \nNavig"
+    },
+    "svg": {
+      "layout": "ai-capsule",
+      "layout_group": "editorial",
+      "colors": {
+        "background": "#F5F7FB",
+        "panel": "#FFFFFF",
+        "text": "#0F172A",
+        "accent": "#6B7280"
+      },
+      "brightness": "light",
+      "accent_family": "blue",
+      "accent_mode": "color",
+      "headline": "Cohere",
+      "uppercase_title": false,
+      "headline_size": 68,
+      "button_radius": "soft",
+      "moods": [
+        "developer",
+        "future-facing",
+        "gradient",
+        "technical"
+      ]
+    }
+  },
+  {
+    "name": "Coinbase",
+    "slug": "coinbase",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/coinbase.svg",
+    "preview_url": "https://getdesign.md/design-md/coinbase/preview.html",
+    "status": "pass",
+    "score": 81.2,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 4,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 6,
+      "mood": 11.2
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Coinbase",
+      "preview_url": "https://getdesign.md/design-md/coinbase/preview.html",
+      "colors": {
+        "background": "#0A0B0D",
+        "panel": "#EEF0F3",
+        "text": "#282B31",
+        "accent": "#0052FF"
+      },
+      "brightness": "dark",
+      "accent_family": "blue",
+      "accent_mode": "color",
+      "layout_hint": "commerce-split",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "brand",
+        "finance",
+        "precision",
+        "trust"
+      ],
+      "excerpt": "Design System Inspired by Coinbase\n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \nColors\nTypography\nButtons\nCards\nForms\nSign up\nDesign System\nInspired by \nCoinbase\nEvery color, font, and component — visualized with crypto-grade precision.\nGet Started\nLearn More\n01 / Colors\nColor Palette\nBrand\nCoinbase Blue\n#0052ff\nPrimary brand\nHover Blue\n#578bfa\nHover state\nCool Gray\n#eef0f3\nSecondary surface\nNear Black\n#0a0b0d\nText, dark sections\nDark Card\n#282b31\nDark buttons\nMuted\n#5b616e\nSecondary text\n02 / Typography\nTypogr"
+    },
+    "svg": {
+      "layout": "commerce-split",
+      "layout_group": "showcase",
+      "colors": {
+        "background": "#F5F7FB",
+        "panel": "#FFFFFF",
+        "text": "#0F172A",
+        "accent": "#3B82F6"
+      },
+      "brightness": "light",
+      "accent_family": "blue",
+      "accent_mode": "color",
+      "headline": "蓝色点缀，精准、清爽，整体更偏金融秩序感…",
+      "uppercase_title": false,
+      "headline_size": 22,
+      "button_radius": "soft",
+      "moods": [
+        "finance",
+        "precision",
+        "trust"
+      ]
+    }
+  },
+  {
+    "name": "Composio",
+    "slug": "composio",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/composio.svg",
+    "preview_url": "https://getdesign.md/design-md/composio/preview.html",
+    "status": "pass",
+    "score": 92.2,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 6,
+      "mood": 11.2
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Composio",
+      "preview_url": "https://getdesign.md/design-md/composio/preview.html",
+      "colors": {
+        "background": "#FFFFFF",
+        "panel": "#000000",
+        "text": "#E0E0E0",
+        "accent": "#0007CD"
+      },
+      "brightness": "light",
+      "accent_family": "blue",
+      "accent_mode": "color",
+      "layout_hint": "docs-grid",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "brand",
+        "dense",
+        "structured",
+        "technical"
+      ],
+      "excerpt": "Design System Inspired by Composio\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \nElevation\n \n \n \nGet Started\n \nDesign System\nInspired by Composio\n \nAuto-generated design token catalog from DESIGN.md\n \n \nExplore Tokens\n \nView Source\n \n \n01 / Color Palette\n \nColor Palette & Roles\n \n \nPrimary\n \n \n \n \n \nComposio Cobalt\n \n#0007cd\n \nCore brand color for high-priority interactive elements\n \n \n \n \n \n \nSecondary & Accent\n \n \n \n \n \nElectric Cyan\n \n#00ffff\n \nA"
+    },
+    "svg": {
+      "layout": "docs-grid",
+      "layout_group": "tooling",
+      "colors": {
+        "background": "#FFFFFF",
+        "panel": "#000000",
+        "text": "#E0E0E0",
+        "accent": "#0007CD"
+      },
+      "brightness": "light",
+      "accent_family": "blue",
+      "accent_mode": "color",
+      "headline": "Composio",
+      "uppercase_title": false,
+      "headline_size": 56,
+      "button_radius": "soft",
+      "moods": [
+        "dense",
+        "structured",
+        "technical"
+      ]
+    }
+  },
+  {
+    "name": "Cursor",
+    "slug": "cursor",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/cursor.svg",
+    "preview_url": "https://getdesign.md/design-md/cursor/preview.html",
+    "status": "pass",
+    "score": 87.0,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 6,
+      "mood": 6.0
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Cursor",
+      "preview_url": "https://getdesign.md/design-md/cursor/preview.html",
+      "colors": {
+        "background": "#26251E",
+        "panel": "#F2F1ED",
+        "text": "#000000",
+        "accent": "#F54E00"
+      },
+      "brightness": "dark",
+      "accent_family": "blue",
+      "accent_mode": "color",
+      "layout_hint": "dashboard",
+      "button_radius": "soft",
+      "uppercase_title": false,
+      "moods": [
+        "developer",
+        "future-facing",
+        "tooling"
+      ],
+      "excerpt": "Design System Inspired by Cursor\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \n \nDownload Editor\n \nDesign System\nInspired by Cursor\n \nA design token catalog generated from DESIGN.md. Every color, font, component, and spacing value -- visualized in warm cream tones.\n \n \nDownload Cursor\n \nView Documentation\n \n \n01 / Colors\n \nColor Palette\n \nPrimary\n \n \nCursor Dark\n#26251e\nPrimary text, headings\n \nCursor Cream\n#f2f1ed\nPage background\n \nCursor Light\n#e6"
+    },
+    "svg": {
+      "layout": "dashboard",
+      "layout_group": "tooling",
+      "colors": {
+        "background": "#0D1018",
+        "panel": "#141826",
+        "text": "#EFF2FF",
+        "accent": "#5A7CFF"
+      },
+      "brightness": "dark",
+      "accent_family": "blue",
+      "accent_mode": "color",
+      "headline": "Cursor",
+      "uppercase_title": false,
+      "headline_size": 64,
+      "button_radius": "pill",
+      "moods": [
+        "developer",
+        "gradient",
+        "precise",
+        "tooling"
+      ]
+    }
+  },
+  {
+    "name": "ElevenLabs",
+    "slug": "elevenlabs",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/elevenlabs.svg",
+    "preview_url": "https://getdesign.md/design-md/elevenlabs/preview.html",
+    "status": "pass",
+    "score": 91.7,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 6,
+      "mood": 10.7
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "ElevenLabs",
+      "preview_url": "https://getdesign.md/design-md/elevenlabs/preview.html",
+      "colors": {
+        "background": "#FFFFFF",
+        "panel": "#F5F5F5",
+        "text": "#292524",
+        "accent": "#EF4444"
+      },
+      "brightness": "light",
+      "accent_family": "red",
+      "accent_mode": "color",
+      "layout_hint": "creative",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "cinematic",
+        "creative",
+        "developer",
+        "friendly",
+        "future-facing",
+        "technical"
+      ],
+      "excerpt": "Design System Inspired by ElevenLabs\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \n \nGet Started\n \nDesign System\nInspired by ElevenLabs\n \nA design token catalog generated from DESIGN.md. Every color, font, component, and spacing value — visualized.\n \n \nTry for Free\n \nExplore Voice AI\n \n \n01 / Colors\n \nColor Palette\n \nPrimary\n \n \nPure White\n#ffffff\nPrimary surface\n \nLight Gray\n#f5f5f5\nSection background\n \nWarm Stone\nrgba(245,242,239,0.8)\nFeatured CTA"
+    },
+    "svg": {
+      "layout": "creative",
+      "layout_group": "editorial",
+      "colors": {
+        "background": "#FFFFFF",
+        "panel": "#F5F5F5",
+        "text": "#292524",
+        "accent": "#EF4444"
+      },
+      "brightness": "light",
+      "accent_family": "red",
+      "accent_mode": "color",
+      "headline": "ElevenLabs",
+      "uppercase_title": false,
+      "headline_size": 62,
+      "button_radius": "soft",
+      "moods": [
+        "brand",
+        "cinematic",
+        "creative",
+        "developer",
+        "future-facing",
+        "technical"
+      ]
+    }
+  },
+  {
+    "name": "Expo",
+    "slug": "expo",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/expo.svg",
+    "preview_url": "https://getdesign.md/design-md/expo/preview.html",
+    "status": "pass",
+    "score": 72.2,
+    "breakdown": {
+      "layout": 18,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 2,
+      "typography_case": 5,
+      "button_radius": 6,
+      "mood": 11.2
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Expo",
+      "preview_url": "https://getdesign.md/design-md/expo/preview.html",
+      "colors": {
+        "background": "#000000",
+        "panel": "#1C2024",
+        "text": "#F2F2F2",
+        "accent": "#0D74CE"
+      },
+      "brightness": "dark",
+      "accent_family": "blue",
+      "accent_mode": "color",
+      "layout_hint": "docs-grid",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "brand",
+        "developer",
+        "precise",
+        "tooling"
+      ],
+      "excerpt": "Design System Inspired by Expo\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nSpacing\n \nElevation\n \n All Systems Operational\n \n \n \nSign Up\n \nDesign System\nInspired by Expo\n \nAuto-generated design token catalog from DESIGN.md\n \n \nExplore Tokens\n \nView Source\n \n \n01 / Color Palette\n \nColor Palette & Roles\n \n \nPrimary\n \n \nExpo Black\n#000000\nPrimary headlines, CTA buttons, brand anchor\n \nNear Black\n#1c2024\nBody text, softer than pure black for reading\n \n \n \n \nSecondary &"
+    },
+    "svg": {
+      "layout": "editor-workbench",
+      "layout_group": "tooling",
+      "colors": {
+        "background": "#0D1117",
+        "panel": "#1B1F24",
+        "text": "#F5F7FB",
+        "accent": "#7C6CFF"
+      },
+      "brightness": "dark",
+      "accent_family": "purple",
+      "accent_mode": "color",
+      "headline": "Expo",
+      "uppercase_title": false,
+      "headline_size": 48,
+      "button_radius": "soft",
+      "moods": [
+        "developer",
+        "precise",
+        "tooling"
+      ]
+    }
+  },
+  {
+    "name": "Ferrari",
+    "slug": "ferrari",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/ferrari.svg",
+    "preview_url": "https://getdesign.md/design-md/ferrari/preview.html",
+    "status": "pass",
+    "score": 74.5,
+    "breakdown": {
+      "layout": 18,
+      "brightness": 4,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 10,
+      "mood": 12.5
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Ferrari",
+      "preview_url": "https://getdesign.md/design-md/ferrari/preview.html",
+      "colors": {
+        "background": "#FFFFFF",
+        "panel": "#000000",
+        "text": "#F5F5F5",
+        "accent": "#DA291C"
+      },
+      "brightness": "light",
+      "accent_family": "red",
+      "accent_mode": "color",
+      "layout_hint": "poster",
+      "button_radius": "soft",
+      "uppercase_title": false,
+      "moods": [
+        "brand",
+        "cinematic",
+        "developer",
+        "editorial",
+        "luxury",
+        "monumental"
+      ],
+      "excerpt": "Design System Inspired by Ferrari\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \n \n \nExplore\n \nDesign System Inspired by Ferrari\n \nDesign System Inspired by Ferrari\n \nA visual reference generated from DESIGN.md — every color, type rule, and component token documented\n \nPrecision Engineering Meets Editorial Design\n \n \nSubscribe\n \nConfigure\n \n \nColor Palette\n \nEvery color extracted from Ferrari's design system with semantic names, hex values, and funct"
+    },
+    "svg": {
+      "layout": "luxury-banner",
+      "layout_group": "showcase",
+      "colors": {
+        "background": "#0B0B0C",
+        "panel": "#141518",
+        "text": "#F5F5F5",
+        "accent": "#EF4444"
+      },
+      "brightness": "dark",
+      "accent_family": "red",
+      "accent_mode": "color",
+      "headline": "红色点缀，编辑感、层级明显，整体更偏电影…",
+      "uppercase_title": false,
+      "headline_size": 20,
+      "button_radius": "soft",
+      "moods": [
+        "brand",
+        "cinematic",
+        "editorial",
+        "luxury",
+        "monumental"
+      ]
+    }
+  },
+  {
+    "name": "Figma",
+    "slug": "figma",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/figma.svg",
+    "preview_url": "https://getdesign.md/design-md/figma/preview.html",
+    "status": "pass",
+    "score": 88.0,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 10,
+      "mood": 3.0
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Figma",
+      "preview_url": "https://getdesign.md/design-md/figma/preview.html",
+      "colors": {
+        "background": "#000000",
+        "panel": "#FFFFFF",
+        "text": "#FFFFFF",
+        "accent": "#0ACF83"
+      },
+      "brightness": "light",
+      "accent_family": "purple",
+      "accent_mode": "color",
+      "layout_hint": "creative",
+      "button_radius": "soft",
+      "uppercase_title": false,
+      "moods": [
+        "creative",
+        "expressive",
+        "product"
+      ],
+      "excerpt": "Design System Inspired by Figma\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nSpacing\n \nElevation\n \n \n \nGet started\n \n \nDesign\n \nDev Mode\n \nPrototyping\n \nSlides\n \n \nDesign System\nInspired by Figma\n \nAuto-generated design token catalog from DESIGN.md\n \n \nExplore Tokens\n \nView Source\n \n \n01 / COLOR PALETTE\n \nColor Palette & Roles\n \n \nPrimary\n \n \n \n \n \nPure Black\n \n#000000\n \nAll text, solid buttons, all borders. The sole interface color.\n \n \n \n \n \n \nPure White\n \n#ffffff"
+    },
+    "svg": {
+      "layout": "creative",
+      "layout_group": "editorial",
+      "colors": {
+        "background": "#F4F1FF",
+        "panel": "#FFFFFF",
+        "text": "#13111C",
+        "accent": "#7B61FF"
+      },
+      "brightness": "light",
+      "accent_family": "purple",
+      "accent_mode": "color",
+      "headline": "Figma",
+      "uppercase_title": false,
+      "headline_size": 62,
+      "button_radius": "soft",
+      "moods": [
+        "creative",
+        "playful",
+        "tooling"
+      ]
+    }
+  },
+  {
+    "name": "Framer",
+    "slug": "framer",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/framer.svg",
+    "preview_url": "https://getdesign.md/design-md/framer/preview.html",
+    "status": "pass",
+    "score": 77.6,
+    "breakdown": {
+      "layout": 18,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 6,
+      "mood": 8.6
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Framer",
+      "preview_url": "https://getdesign.md/design-md/framer/preview.html",
+      "colors": {
+        "background": "#000000",
+        "panel": "#FFFFFF",
+        "text": "#090909",
+        "accent": "#0099FF"
+      },
+      "brightness": "dark",
+      "accent_family": "blue",
+      "accent_mode": "color",
+      "layout_hint": "docs-grid",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "bold",
+        "brand",
+        "creative",
+        "expressive",
+        "minimal",
+        "premium",
+        "tooling"
+      ],
+      "excerpt": "Design System Inspired by Framer\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nElevation\n \n \n \nGet Started\n \nDesign System\nInspired by Framer\n \nA complete visual catalog of design tokens, components, and patterns extracted from Framer's marketing site and documented in DESIGN.md.\n \n \nExplore Tokens\n \nView Components\n \n \nColor Palette\n \nEvery color from Framer's dark-first identity — pure black void, electric blue accent, and frosted white surfaces.\n \n \nPrimar"
+    },
+    "svg": {
+      "layout": "editor-workbench",
+      "layout_group": "tooling",
+      "colors": {
+        "background": "#0D1117",
+        "panel": "#1B1F24",
+        "text": "#F5F7FB",
+        "accent": "#3B82F6"
+      },
+      "brightness": "dark",
+      "accent_family": "blue",
+      "accent_mode": "color",
+      "headline": "Framer",
+      "uppercase_title": false,
+      "headline_size": 48,
+      "button_radius": "soft",
+      "moods": [
+        "bold",
+        "creative",
+        "expressive",
+        "tooling"
+      ]
+    }
+  },
+  {
+    "name": "HashiCorp",
+    "slug": "hashicorp",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/hashicorp.svg",
+    "preview_url": "https://getdesign.md/design-md/hashicorp/preview.html",
+    "status": "pass",
+    "score": 88.5,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 6,
+      "mood": 7.5
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "HashiCorp",
+      "preview_url": "https://getdesign.md/design-md/hashicorp/preview.html",
+      "colors": {
+        "background": "#000000",
+        "panel": "#15181E",
+        "text": "#FFFFFF",
+        "accent": "#656A76"
+      },
+      "brightness": "dark",
+      "accent_family": "blue",
+      "accent_mode": "color",
+      "layout_hint": "docs-grid",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "brand",
+        "dense",
+        "developer",
+        "minimal",
+        "structured",
+        "technical"
+      ],
+      "excerpt": "Design System Inspired by HashiCorp\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \n \nGet Started →\n \nDesign System Preview\n \nDesign System Inspired by HashiCorp\n \nEnterprise infrastructure typography, product color systems, and whisper-level shadows — all distilled into a single-page design reference.\n \n \nGet Started →\n \nView Documentation\n \n \nSection 1\n \nColor Palette\n \nA multi-product color system using CSS custom properties. The parent brand is bl"
+    },
+    "svg": {
+      "layout": "docs-grid",
+      "layout_group": "tooling",
+      "colors": {
+        "background": "#000000",
+        "panel": "#15181E",
+        "text": "#FFFFFF",
+        "accent": "#656A76"
+      },
+      "brightness": "dark",
+      "accent_family": "blue",
+      "accent_mode": "color",
+      "headline": "HashiCorp",
+      "uppercase_title": false,
+      "headline_size": 56,
+      "button_radius": "soft",
+      "moods": [
+        "dense",
+        "structured",
+        "technical"
+      ]
+    }
+  },
+  {
+    "name": "IBM",
+    "slug": "ibm",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/ibm.svg",
+    "preview_url": "https://getdesign.md/design-md/ibm/preview.html",
+    "status": "pass",
+    "score": 96.0,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 1,
+      "button_radius": 10,
+      "mood": 15.0
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "IBM",
+      "preview_url": "https://getdesign.md/design-md/ibm/preview.html",
+      "colors": {
+        "background": "#FFFFFF",
+        "panel": "#F4F4F4",
+        "text": "#FFF1F1",
+        "accent": "#EDF5FF"
+      },
+      "brightness": "light",
+      "accent_family": "purple",
+      "accent_mode": "color",
+      "layout_hint": "docs-grid",
+      "button_radius": "soft",
+      "uppercase_title": true,
+      "moods": [
+        "brand",
+        "editorial",
+        "narrative"
+      ],
+      "excerpt": "Design System Inspired by IBM\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \n \nGet started\n \n \nDesign System Inspired by IBM\n \nA design token catalog generated from DESIGN.md. Every color, font, component, and spacing value from the Carbon Design System — visualized.\n \n \nExplore tokens\n \nView documentation\n \n \n \n01 / Colors\n \nColor Palette\n \nPrimary\n \n \nBlue 60\n#0f62fe\nPrimary interactive\n \nWhite\n#ffffff\nPage background\n \nGray 100\n#161616\nPrimary tex"
+    },
+    "svg": {
+      "layout": "token-catalog-light",
+      "layout_group": "tooling",
+      "colors": {
+        "background": "#FFFFFF",
+        "panel": "#F4F4F4",
+        "text": "#FFF1F1",
+        "accent": "#EDF5FF"
+      },
+      "brightness": "light",
+      "accent_family": "purple",
+      "accent_mode": "color",
+      "headline": "preview",
+      "uppercase_title": false,
+      "headline_size": 12,
+      "button_radius": "soft",
+      "moods": [
+        "brand",
+        "editorial",
+        "narrative"
+      ]
+    }
+  },
+  {
+    "name": "Intercom",
+    "slug": "intercom",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/intercom.svg",
+    "preview_url": "https://getdesign.md/design-md/intercom/preview.html",
+    "status": "pass",
+    "score": 84.2,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 2,
+      "typography_case": 5,
+      "button_radius": 6,
+      "mood": 11.2
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Intercom",
+      "preview_url": "https://getdesign.md/design-md/intercom/preview.html",
+      "colors": {
+        "background": "#FAF9F6",
+        "panel": "#111111",
+        "text": "#D3CEC6",
+        "accent": "#FF5600"
+      },
+      "brightness": "light",
+      "accent_family": "red",
+      "accent_mode": "color",
+      "layout_hint": "dashboard",
+      "button_radius": "soft",
+      "uppercase_title": false,
+      "moods": [
+        "brand",
+        "efficient",
+        "friendly",
+        "product"
+      ],
+      "excerpt": "Design System Inspired by Intercom\n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \nColors\nTypography\nButtons\nCards\nForms\nStart free trial\nDesign System\nInspired by \nIntercom\nEvery color, font, and component — visualized with warm precision.\nGet a demo\nStart free trial\n01 / Colors\nColor Palette\nPrimary\nOff Black\n#111111\nPrimary text, buttons\nWarm Cream\n#faf9f6\nPage background\nFin Orange\n#ff5600\nBrand accent\nReport Palette\nBlue\n#65b5ff\nReport blue\nGreen\n#0bdf50\nReport green\nRed\n#c41c1c\nReport red\nPink\n#ff2067\nReport"
+    },
+    "svg": {
+      "layout": "dashboard",
+      "layout_group": "tooling",
+      "colors": {
+        "background": "#F5F7FB",
+        "panel": "#FFFFFF",
+        "text": "#0F172A",
+        "accent": "#3B82F6"
+      },
+      "brightness": "light",
+      "accent_family": "blue",
+      "accent_mode": "color",
+      "headline": "Intercom",
+      "uppercase_title": false,
+      "headline_size": 64,
+      "button_radius": "pill",
+      "moods": [
+        "efficient",
+        "friendly",
+        "product"
+      ]
+    }
+  },
+  {
+    "name": "Kraken",
+    "slug": "kraken",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/kraken.svg",
+    "preview_url": "https://getdesign.md/design-md/kraken/preview.html",
+    "status": "pass",
+    "score": 96.2,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 10,
+      "mood": 11.2
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Kraken",
+      "preview_url": "https://getdesign.md/design-md/kraken/preview.html",
+      "colors": {
+        "background": "#101114",
+        "panel": "#DEDEE5",
+        "text": "#DEDEE5",
+        "accent": "#7132F5"
+      },
+      "brightness": "dark",
+      "accent_family": "purple",
+      "accent_mode": "color",
+      "layout_hint": "dashboard",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "brand",
+        "finance",
+        "precision",
+        "trust"
+      ],
+      "excerpt": "Design System Inspired by Kraken\n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \nColors\nTypography\nButtons\nCards\nForms\nSign Up\nDesign System\nInspired by \nKraken\nEvery color, font, and component — visualized with crypto-exchange precision.\nCreate Account\nExplore\n01 / Colors\nColor Palette\nBrand\nKraken Purple\n#7132f5\nPrimary CTA\nPurple Dark\n#5741d8\nBorders, outlined\nPurple Deep\n#5b1ecf\nDeepest variant\nPurple Subtle\nrgba(133,91,251,0.16)\nSubtle button bg\nNeutral\nNear Black\n#101114\nPrimary text\nCool Gray\n#686b82\nBorder"
+    },
+    "svg": {
+      "layout": "dashboard",
+      "layout_group": "tooling",
+      "colors": {
+        "background": "#0D1117",
+        "panel": "#1B1F24",
+        "text": "#F5F7FB",
+        "accent": "#7C6CFF"
+      },
+      "brightness": "dark",
+      "accent_family": "purple",
+      "accent_mode": "color",
+      "headline": "Kraken",
+      "uppercase_title": false,
+      "headline_size": 64,
+      "button_radius": "pill",
+      "moods": [
+        "finance",
+        "precision",
+        "trust"
+      ]
+    }
+  },
+  {
+    "name": "Lamborghini",
+    "slug": "lamborghini",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/lamborghini.svg",
+    "preview_url": "https://getdesign.md/design-md/lamborghini/preview.html",
+    "status": "pass",
+    "score": 95.0,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 10,
+      "mood": 10.0
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Lamborghini",
+      "preview_url": "https://getdesign.md/design-md/lamborghini/preview.html",
+      "colors": {
+        "text": "#202020",
+        "accent": "#FFC000",
+        "background": "#FFFFFF",
+        "panel": "#000000"
+      },
+      "brightness": "light",
+      "accent_family": "neutral",
+      "accent_mode": "monochrome",
+      "layout_hint": "editorial",
+      "button_radius": "soft",
+      "uppercase_title": false,
+      "moods": [
+        "cinematic",
+        "editorial",
+        "luxury",
+        "monumental",
+        "premium"
+      ],
+      "excerpt": "Design System Inspired by Lamborghini\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nModels\n \nMotorsport\n \nOwnership\n \nDiscover\n \n \n \nConfigure\n \nDesign System Inspired by Lamborghini\n \nA visual catalog generated from DESIGN.md — darkness, gold, and uncompromising angles.\n \n \nDiscover More\n \nView Models\n \n \nColor Palette\n \nMonochrome darkness punctuated by Lamborghini Gold. The only chromatic color in the system.\n \nPrimary\n \n \nLamborghini Gold\n#FFC000\nPrimary CTA accent\n \nPure White\n#FFFFFF\nText, logo, nav"
+    },
+    "svg": {
+      "layout": "editorial-cascade",
+      "layout_group": "editorial",
+      "colors": {
+        "background": "#FFFFFF",
+        "panel": "#000000",
+        "text": "#202020",
+        "accent": "#111111"
+      },
+      "brightness": "light",
+      "accent_family": "neutral",
+      "accent_mode": "monochrome",
+      "headline": "Lamborghini",
+      "uppercase_title": false,
+      "headline_size": 68,
+      "button_radius": "soft",
+      "moods": [
+        "brand",
+        "cinematic",
+        "editorial",
+        "luxury",
+        "monumental"
+      ]
+    }
+  },
+  {
+    "name": "Linear",
+    "slug": "linear.app",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/linear.app.svg",
+    "preview_url": "https://getdesign.md/design-md/linear.app/preview.html",
+    "status": "pass",
+    "score": 88.5,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 6,
+      "mood": 7.5
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Linear",
+      "preview_url": "https://getdesign.md/design-md/linear.app/preview.html",
+      "colors": {
+        "background": "#F7F8F8",
+        "panel": "#FFFFFF",
+        "text": "#3E3E44",
+        "accent": "#5E6AD2"
+      },
+      "brightness": "dark",
+      "accent_family": "purple",
+      "accent_mode": "color",
+      "layout_hint": "dashboard",
+      "button_radius": "soft",
+      "uppercase_title": false,
+      "moods": [
+        "developer",
+        "precise",
+        "tooling"
+      ],
+      "excerpt": "Design System Inspired by Linear\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \n \nStart Building\n \nDesign System\nInspired by Linear\n \nA design token catalog generated from DESIGN.md. Every color, font, component, and spacing value — visualized.\n \n \nStart Building\n \nView Documentation\n \n \n01 / Colors\n \nColor Palette\n \nBackground Surfaces\n \n \nMarketing Black\n#08090a\nHero backgrounds\n \nPanel Dark\n#0f1011\nSidebar, panels\n \nLevel 3\n#191a1b\nElevated surfac"
+    },
+    "svg": {
+      "layout": "dashboard",
+      "layout_group": "tooling",
+      "colors": {
+        "background": "#0B0C10",
+        "panel": "#151826",
+        "text": "#F4F7FF",
+        "accent": "#7C6CFF"
+      },
+      "brightness": "dark",
+      "accent_family": "purple",
+      "accent_mode": "color",
+      "headline": "Linear",
+      "uppercase_title": false,
+      "headline_size": 64,
+      "button_radius": "pill",
+      "moods": [
+        "minimal",
+        "precise",
+        "tooling"
+      ]
+    }
+  },
+  {
+    "name": "Lovable",
+    "slug": "lovable",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/lovable.svg",
+    "preview_url": "https://getdesign.md/design-md/lovable/preview.html",
+    "status": "pass",
+    "score": 92.2,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 6,
+      "mood": 11.2
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Lovable",
+      "preview_url": "https://getdesign.md/design-md/lovable/preview.html",
+      "colors": {
+        "background": "#F7F4ED",
+        "panel": "#1C1C1C",
+        "text": "#5F5F5D",
+        "accent": "#EF4444"
+      },
+      "brightness": "light",
+      "accent_family": "red",
+      "accent_mode": "color",
+      "layout_hint": "dashboard",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "developer",
+        "editorial",
+        "friendly",
+        "gradient",
+        "minimal",
+        "playful",
+        "precise",
+        "tooling"
+      ],
+      "excerpt": "Design System Inspired by Lovable\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \n \nStart Building\n \nDesign System\nInspired by Lovable\n \nA design token catalog generated from DESIGN.md. Every color, font, component, and spacing value — visualized.\n \n \nStart Building\n \nView Documentation\n \n \n01 / Colors\n \nColor Palette\n \nPrimary\n \n \nCream\n#f7f4ed\nPage background\n \nCharcoal\n#1c1c1c\nPrimary text, headings\n \nOff-White\n#fcfbf8\nButton text on dark\n \n \nNeutr"
+    },
+    "svg": {
+      "layout": "dashboard-slab",
+      "layout_group": "tooling",
+      "colors": {
+        "background": "#F7F4ED",
+        "panel": "#1C1C1C",
+        "text": "#5F5F5D",
+        "accent": "#EF4444"
+      },
+      "brightness": "light",
+      "accent_family": "red",
+      "accent_mode": "color",
+      "headline": "Lovable",
+      "uppercase_title": false,
+      "headline_size": 64,
+      "button_radius": "soft",
+      "moods": [
+        "developer",
+        "friendly",
+        "gradient",
+        "playful",
+        "precise",
+        "tooling"
+      ]
+    }
+  },
+  {
+    "name": "Mastercard",
+    "slug": "mastercard",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/mastercard.svg",
+    "preview_url": "https://getdesign.md/design-md/mastercard/preview.html",
+    "status": "pass",
+    "score": 91.0,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 6,
+      "mood": 10.0
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Mastercard",
+      "preview_url": "https://getdesign.md/design-md/mastercard/preview.html",
+      "colors": {
+        "text": "#F3F0EE",
+        "background": "#F3F0EE",
+        "panel": "#FCFBFA",
+        "accent": "#CF4500"
+      },
+      "brightness": "light",
+      "accent_family": "red",
+      "accent_mode": "color",
+      "layout_hint": "editorial",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "brand",
+        "editorial",
+        "finance",
+        "friendly",
+        "precision",
+        "trust"
+      ],
+      "excerpt": "Design System Inspiration of Mastercard\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nPalette\n \nTypography\n \nButtons\n \nCards\n \nElevation\n \n \nGet Started\n \n \n \n \nDesign System Catalog\n \nDesign System Inspiration of Mastercard\n \nA complete, token-level catalog generated from \nDESIGN.md\n. Every color, type scale, button, card, and radius below is rendered using the same values documented for downstream agents.\n \n \nExplore palette\n \nView typography\n \n \n \nSection 01\n \nColor Palette\n \nSix role groups built on a"
+    },
+    "svg": {
+      "layout": "editorial-cascade",
+      "layout_group": "editorial",
+      "colors": {
+        "background": "#F3F0EE",
+        "panel": "#FCFBFA",
+        "text": "#F3F0EE",
+        "accent": "#CF4500"
+      },
+      "brightness": "light",
+      "accent_family": "red",
+      "accent_mode": "color",
+      "headline": "Mastercard",
+      "uppercase_title": false,
+      "headline_size": 68,
+      "button_radius": "soft",
+      "moods": [
+        "editorial",
+        "finance",
+        "precision",
+        "trust"
+      ]
+    }
+  },
+  {
+    "name": "Meta",
+    "slug": "meta",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/meta.svg",
+    "preview_url": "https://getdesign.md/design-md/meta/preview.html",
+    "status": "pass",
+    "score": 93.0,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 6,
+      "mood": 12.0
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Meta",
+      "preview_url": "https://getdesign.md/design-md/meta/preview.html",
+      "colors": {
+        "text": "#8595A4",
+        "background": "#FFFFFF",
+        "panel": "#F1F4F7",
+        "accent": "#0064E0"
+      },
+      "brightness": "light",
+      "accent_family": "blue",
+      "accent_mode": "color",
+      "layout_hint": "creative",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "conversion",
+        "creative",
+        "friendly",
+        "heroic",
+        "product"
+      ],
+      "excerpt": "Design System Inspired by Meta\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \n \n \nGet Started\n \nDesign System Inspired by Meta\n \nA visual token catalog generated from DESIGN.md — every color, type scale, and component in one page.\n \n \nExplore Tokens\n \nView Source\n \n \n \nColor Palette\n \nEvery color from the Meta Store design system with semantic roles.\n \n \nPrimary\n \n \nMeta Blue\n#0064E0\nPrimary CTA\n \nMeta Blue Hover\n#0143B5\nHover state\n \nMeta Blue Pressed\n#004BB9\nActive"
+    },
+    "svg": {
+      "layout": "creative",
+      "layout_group": "editorial",
+      "colors": {
+        "background": "#FFFFFF",
+        "panel": "#F1F4F7",
+        "text": "#8595A4",
+        "accent": "#0064E0"
+      },
+      "brightness": "light",
+      "accent_family": "blue",
+      "accent_mode": "color",
+      "headline": "Meta",
+      "uppercase_title": false,
+      "headline_size": 62,
+      "button_radius": "soft",
+      "moods": [
+        "conversion",
+        "creative",
+        "heroic",
+        "product"
+      ]
+    }
+  },
+  {
+    "name": "Minimax",
+    "slug": "minimax",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/minimax.svg",
+    "preview_url": "https://getdesign.md/design-md/minimax/preview.html",
+    "status": "pass",
+    "score": 88.5,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 6,
+      "mood": 7.5
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Minimax",
+      "preview_url": "https://getdesign.md/design-md/minimax/preview.html",
+      "colors": {
+        "background": "#222222",
+        "panel": "#18181B",
+        "text": "#E5E5E5",
+        "accent": "#1456F0"
+      },
+      "brightness": "dark",
+      "accent_family": "blue",
+      "accent_mode": "color",
+      "layout_hint": "docs-grid",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "bold",
+        "brand",
+        "creative",
+        "developer",
+        "friendly",
+        "future-facing",
+        "minimal",
+        "technical"
+      ],
+      "excerpt": "Design System Inspired by MiniMax\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \n \nGet Started\n \nDesign System\nInspired by MiniMax\n \nA clean, approachable design language that bridges consumer-friendly appeal with technical credibility through white-space-driven layouts and colorful product accents.\n \n \nGet Started\n \nView Documentation\n \n \n1. Color Palette\n \nMiniMax uses a white-dominant foundation with a blue brand spectrum and colorful product card"
+    },
+    "svg": {
+      "layout": "token-catalog-dark",
+      "layout_group": "tooling",
+      "colors": {
+        "background": "#222222",
+        "panel": "#18181B",
+        "text": "#E5E5E5",
+        "accent": "#1456F0"
+      },
+      "brightness": "dark",
+      "accent_family": "blue",
+      "accent_mode": "color",
+      "headline": "preview",
+      "uppercase_title": false,
+      "headline_size": 12,
+      "button_radius": "soft",
+      "moods": [
+        "bold",
+        "developer",
+        "future-facing",
+        "technical"
+      ]
+    }
+  },
+  {
+    "name": "Mintlify",
+    "slug": "mintlify",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/mintlify.svg",
+    "preview_url": "https://getdesign.md/design-md/mintlify/preview.html",
+    "status": "pass",
+    "score": 79.0,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 4,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 6,
+      "mood": 9.0
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Mintlify",
+      "preview_url": "https://getdesign.md/design-md/mintlify/preview.html",
+      "colors": {
+        "background": "#0D0D0D",
+        "panel": "#FFFFFF",
+        "text": "#F0FDF6",
+        "accent": "#18E299"
+      },
+      "brightness": "dark",
+      "accent_family": "green",
+      "accent_mode": "color",
+      "layout_hint": "docs-grid",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "brand",
+        "developer",
+        "efficient",
+        "friendly",
+        "product"
+      ],
+      "excerpt": "Design System Inspired by Mintlify\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \n \nGet Started\n \nDesign System\nInspired by Mintlify\n \nA design token catalog generated from DESIGN.md. Every color, font, component, and spacing value — visualized.\n \n \nGet Started\n \nView Documentation\n \n \n01 / Colors\n \nColor Palette\n \nPrimary\n \n \nNear Black\n#0d0d0d\nPrimary text, headings\n \nPure White\n#ffffff\nPage background\n \nBrand Green\n#18E299\nBrand accent, CTAs\n \n \nB"
+    },
+    "svg": {
+      "layout": "docs-grid",
+      "layout_group": "tooling",
+      "colors": {
+        "background": "#F5F7FB",
+        "panel": "#FFFFFF",
+        "text": "#0F172A",
+        "accent": "#3ECF8E"
+      },
+      "brightness": "light",
+      "accent_family": "green",
+      "accent_mode": "color",
+      "headline": "Mintlify",
+      "uppercase_title": false,
+      "headline_size": 56,
+      "button_radius": "soft",
+      "moods": [
+        "efficient",
+        "friendly",
+        "product"
+      ]
+    }
+  },
+  {
+    "name": "Miro",
+    "slug": "miro",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/miro.svg",
+    "preview_url": "https://getdesign.md/design-md/miro/preview.html",
+    "status": "pass",
+    "score": 81.0,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 4,
+      "accent_mode": 15,
+      "accent_family": 2,
+      "typography_case": 5,
+      "button_radius": 10,
+      "mood": 15.0
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Miro",
+      "preview_url": "https://getdesign.md/design-md/miro/preview.html",
+      "colors": {
+        "background": "#1C1C1E",
+        "panel": "#A5A8B5",
+        "text": "#E9EAEF",
+        "accent": "#5B76FE"
+      },
+      "brightness": "dark",
+      "accent_family": "blue",
+      "accent_mode": "color",
+      "layout_hint": "creative",
+      "button_radius": "soft",
+      "uppercase_title": false,
+      "moods": [
+        "creative",
+        "expressive",
+        "tooling"
+      ],
+      "excerpt": "Design System Inspired by Miro\n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \nColors\nTypography\nButtons\nCards\nForms\nSign up free\nDesign System\nInspired by \nMiro\nEvery color, font, and component — visualized with collaborative precision.\nSign up free\nContact sales\n01 / Colors\nColor Palette\nPrimary\nNear Black\n#1c1c1e\nBlue 450\n#5b76fe\nSuccess\n#00b473\nPastel Accents\nCoral Light\n#ffc6c6\nRose Light\n#ffd8f4\nTeal Light\n#c3faf5\nOrange Light\n#ffe6cd\nPink\n#fde0f0\nRed Light\n#fbd4d4\nNeutral\nSlate\n#555a6a\nPlaceholder\n#a5a8b5\nB"
+    },
+    "svg": {
+      "layout": "creative",
+      "layout_group": "editorial",
+      "colors": {
+        "background": "#F5F7FB",
+        "panel": "#FFFFFF",
+        "text": "#0F172A",
+        "accent": "#FACC15"
+      },
+      "brightness": "light",
+      "accent_family": "yellow",
+      "accent_mode": "color",
+      "headline": "Miro",
+      "uppercase_title": false,
+      "headline_size": 62,
+      "button_radius": "soft",
+      "moods": [
+        "creative",
+        "expressive",
+        "tooling"
+      ]
+    }
+  },
+  {
+    "name": "Mistral AI",
+    "slug": "mistral.ai",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/mistral.ai.svg",
+    "preview_url": "https://getdesign.md/design-md/mistral.ai/preview.html",
+    "status": "pass",
+    "score": 87.0,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 2,
+      "typography_case": 5,
+      "button_radius": 10,
+      "mood": 10.0
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Mistral AI",
+      "preview_url": "https://getdesign.md/design-md/mistral.ai/preview.html",
+      "colors": {
+        "background": "#FFFFFF",
+        "panel": "#1F1F1F",
+        "text": "#1F1F1F",
+        "accent": "#FA520F"
+      },
+      "brightness": "light",
+      "accent_family": "red",
+      "accent_mode": "color",
+      "layout_hint": "ai-capsule",
+      "button_radius": "soft",
+      "uppercase_title": false,
+      "moods": [
+        "brand",
+        "developer",
+        "friendly",
+        "future-facing",
+        "minimal",
+        "technical"
+      ],
+      "excerpt": "Design System Inspired by Mistral AI\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nSpacing\n \nElevation\n \n \n \nGet Started\n \n \n \n \n \n \n \n \n \nDesign System\nInspired by Mistral AI\n \nWarm golden tokens from the sunshine gradient design system\n \n \nExplore Tokens\n \nView Source\n \n \n01 / Color Palette\n \nColor Palette & Roles\n \n \nPrimary\n \n \n \n \n \nMistral Orange\n \n#fa520f\n \nCore brand color, primary emphasis, signal fire\n \n \n \n \n \n \nMistral Flame\n \n#fb6424\n \nHover states, seco"
+    },
+    "svg": {
+      "layout": "ai-capsule",
+      "layout_group": "editorial",
+      "colors": {
+        "background": "#F4F3FF",
+        "panel": "#FFFFFF",
+        "text": "#111827",
+        "accent": "#7C6CFF"
+      },
+      "brightness": "light",
+      "accent_family": "purple",
+      "accent_mode": "color",
+      "headline": "Mistral AI",
+      "uppercase_title": false,
+      "headline_size": 68,
+      "button_radius": "soft",
+      "moods": [
+        "developer",
+        "future-facing",
+        "minimal",
+        "technical"
+      ]
+    }
+  },
+  {
+    "name": "MongoDB",
+    "slug": "mongodb",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/mongodb.svg",
+    "preview_url": "https://getdesign.md/design-md/mongodb/preview.html",
+    "status": "pass",
+    "score": 75.0,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 4,
+      "accent_mode": 15,
+      "accent_family": 2,
+      "typography_case": 5,
+      "button_radius": 10,
+      "mood": 9.0
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "MongoDB",
+      "preview_url": "https://getdesign.md/design-md/mongodb/preview.html",
+      "colors": {
+        "background": "#B8C4C2",
+        "panel": "#FFFFFF",
+        "text": "#000000",
+        "accent": "#001E2B"
+      },
+      "brightness": "mixed",
+      "accent_family": "blue",
+      "accent_mode": "color",
+      "layout_hint": "dashboard",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "brand",
+        "dense",
+        "developer",
+        "structured",
+        "technical"
+      ],
+      "excerpt": "Design System Inspired by MongoDB\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \n \nTry Free\n \nDesign System\nInspired by \nMongoDB\n \nA design token catalog generated from DESIGN.md. Every color, font, component, and spacing value — visualized.\n \n \nTry Free\n \nContact Sales\n \n \n01 / Colors\n \nColor Palette\n \nBrand\n \n \nForest Black\n#001e2b\nDark background\n \nMongoDB Green\n#00ed64\nBrand accent\n \nDark Green\n#00684a\nButtons, links\n \nAction Blue\n#006cfa\nLinks,"
+    },
+    "svg": {
+      "layout": "dashboard",
+      "layout_group": "tooling",
+      "colors": {
+        "background": "#F5F7FB",
+        "panel": "#FFFFFF",
+        "text": "#0F172A",
+        "accent": "#3ECF8E"
+      },
+      "brightness": "light",
+      "accent_family": "green",
+      "accent_mode": "color",
+      "headline": "MongoDB",
+      "uppercase_title": false,
+      "headline_size": 64,
+      "button_radius": "pill",
+      "moods": [
+        "dense",
+        "structured",
+        "technical"
+      ]
+    }
+  },
+  {
+    "name": "Nike",
+    "slug": "nike",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/nike.svg",
+    "preview_url": "https://getdesign.md/design-md/nike/preview.html",
+    "status": "pass",
+    "score": 88.5,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 1,
+      "button_radius": 10,
+      "mood": 7.5
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Nike",
+      "preview_url": "https://getdesign.md/design-md/nike/preview.html",
+      "colors": {
+        "background": "#111111",
+        "panel": "#FFFFFF",
+        "text": "#1F1F21",
+        "accent": "#D30005"
+      },
+      "brightness": "dark",
+      "accent_family": "neutral",
+      "accent_mode": "monochrome",
+      "layout_hint": "poster",
+      "button_radius": "soft",
+      "uppercase_title": true,
+      "moods": [
+        "bold",
+        "conversion",
+        "heroic"
+      ],
+      "excerpt": "Design System Inspired by Nike\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \n \nJust Do It\n \n \nDesign System Inspired by Nike\n \nA complete design token catalog extracted from Nike.com — Podium CDS typography, color palette, and component patterns.\n \n \nExplore Tokens\n \nView Source\n \n \n \nColor Palette\n \nNike's monochromatic foundation — the UI disappears into black, white, and grey so product photography provides all color.\n \n \nPrimary\n \n \n \n \n \nNike B"
+    },
+    "svg": {
+      "layout": "poster",
+      "layout_group": "showcase",
+      "colors": {
+        "background": "#0B0B0B",
+        "panel": "#151515",
+        "text": "#FFFFFF",
+        "accent": "#FFFFFF"
+      },
+      "brightness": "dark",
+      "accent_family": "neutral",
+      "accent_mode": "monochrome",
+      "headline": "超大标题 + 满版视觉冲击",
+      "uppercase_title": false,
+      "headline_size": 22,
+      "button_radius": "soft",
+      "moods": [
+        "bold",
+        "heroic",
+        "kinetic"
+      ]
+    }
+  },
+  {
+    "name": "Notion",
+    "slug": "notion",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/notion.svg",
+    "preview_url": "https://getdesign.md/design-md/notion/preview.html",
+    "status": "pass",
+    "score": 72.0,
+    "breakdown": {
+      "layout": 18,
+      "brightness": 4,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 10,
+      "mood": 10.0
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Notion",
+      "preview_url": "https://getdesign.md/design-md/notion/preview.html",
+      "colors": {
+        "background": "#000000",
+        "panel": "#FFFFFF",
+        "text": "#DDDDDD",
+        "accent": "#0075DE"
+      },
+      "brightness": "dark",
+      "accent_family": "blue",
+      "accent_mode": "color",
+      "layout_hint": "docs-grid",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "brand",
+        "efficient",
+        "friendly",
+        "minimal",
+        "premium",
+        "product"
+      ],
+      "excerpt": "Design System Inspired by Notion\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \n \nGet Notion free\n \nDesign System\nInspired by Notion\n \nA design token catalog generated from DESIGN.md. Every color, font, component, and spacing value — visualized.\n \n \nGet Notion free\n \nView Documentation\n \n \n01 / Colors\n \nColor Palette\n \nPrimary\n \n \nNotion Black\nrgba(0,0,0,0.95)\nPrimary text, headings\n \nPure White\n#ffffff\nPage background\n \nNotion Blue\n#0075de\nPrimary C"
+    },
+    "svg": {
+      "layout": "dashboard",
+      "layout_group": "tooling",
+      "colors": {
+        "background": "#F3F3F4",
+        "panel": "#FFFFFF",
+        "text": "#111827",
+        "accent": "#6B7280"
+      },
+      "brightness": "light",
+      "accent_family": "blue",
+      "accent_mode": "color",
+      "headline": "Notion",
+      "uppercase_title": false,
+      "headline_size": 64,
+      "button_radius": "pill",
+      "moods": [
+        "efficient",
+        "friendly",
+        "minimal",
+        "product"
+      ]
+    }
+  },
+  {
+    "name": "NVIDIA",
+    "slug": "nvidia",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/nvidia.svg",
+    "preview_url": "https://getdesign.md/design-md/nvidia/preview.html",
+    "status": "pass",
+    "score": 91.0,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 1,
+      "button_radius": 10,
+      "mood": 10.0
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "NVIDIA",
+      "preview_url": "https://getdesign.md/design-md/nvidia/preview.html",
+      "colors": {
+        "background": "#000000",
+        "panel": "#FFFFFF",
+        "text": "#E5E5E5",
+        "accent": "#76B900"
+      },
+      "brightness": "dark",
+      "accent_family": "green",
+      "accent_mode": "color",
+      "layout_hint": "docs-grid",
+      "button_radius": "soft",
+      "uppercase_title": true,
+      "moods": [
+        "brand",
+        "editorial",
+        "friendly",
+        "narrative",
+        "premium",
+        "technical"
+      ],
+      "excerpt": "Design System Inspired by NVIDIA\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \n \nExplore GPUs\n \nDesign System\nInspired by \nNVIDIA\n \nA design token catalog generated from DESIGN.md. Every color, font, component, and spacing value -- visualized.\n \n \nExplore Solutions\n \nView Documentation\n \n \n01 / Colors\n \nColor Palette\n \nPrimary Brand\n \n \nNVIDIA Green\n#76b900\nAccent, borders, CTAs\n \nTrue Black\n#000000\nPrimary background\n \nPure White\n#ffffff\nLight back"
+    },
+    "svg": {
+      "layout": "token-catalog-dark",
+      "layout_group": "tooling",
+      "colors": {
+        "background": "#000000",
+        "panel": "#FFFFFF",
+        "text": "#E5E5E5",
+        "accent": "#76B900"
+      },
+      "brightness": "dark",
+      "accent_family": "green",
+      "accent_mode": "color",
+      "headline": "preview",
+      "uppercase_title": false,
+      "headline_size": 12,
+      "button_radius": "soft",
+      "moods": [
+        "brand",
+        "editorial",
+        "narrative",
+        "technical"
+      ]
+    }
+  },
+  {
+    "name": "Ollama",
+    "slug": "ollama",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/ollama.svg",
+    "preview_url": "https://getdesign.md/design-md/ollama/preview.html",
+    "status": "pass",
+    "score": 92.2,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 6,
+      "mood": 11.2
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Ollama",
+      "preview_url": "https://getdesign.md/design-md/ollama/preview.html",
+      "colors": {
+        "background": "#000000",
+        "panel": "#262626",
+        "text": "#D4D4D4",
+        "accent": "#F5F5F5"
+      },
+      "brightness": "dark",
+      "accent_family": "neutral",
+      "accent_mode": "monochrome",
+      "layout_hint": "ai-capsule",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "developer",
+        "future-facing",
+        "minimal",
+        "technical"
+      ],
+      "excerpt": "Design System Inspired by Ollama\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nSpacing\n \nElevation\n \n \n \nDownload\n \nDesign System\nInspired by Ollama\n \nRadical minimalism in pure grayscale. Zero color, zero shadows, zero excess.\n \n \nExplore Tokens\n \nView Source\n \n \n01 / Color Palette\n \nGrayscale Palette\n \n \nPrimary\n \n \n \n \n \nPure Black\n \n#000000\n \nPrimary headlines, links, max emphasis\n \n \n \n \n \n \nNear Black\n \n#262626\n \nButton text on light surfaces\n \n \n \n \n \n \nDarkes"
+    },
+    "svg": {
+      "layout": "ai-capsule",
+      "layout_group": "editorial",
+      "colors": {
+        "background": "#0B0B0C",
+        "panel": "#141518",
+        "text": "#F5F5F5",
+        "accent": "#F5F5F5"
+      },
+      "brightness": "dark",
+      "accent_family": "neutral",
+      "accent_mode": "monochrome",
+      "headline": "Ollama",
+      "uppercase_title": false,
+      "headline_size": 68,
+      "button_radius": "soft",
+      "moods": [
+        "developer",
+        "future-facing",
+        "technical"
+      ]
+    }
+  },
+  {
+    "name": "OpenCode AI",
+    "slug": "opencode.ai",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/opencode.ai.svg",
+    "preview_url": "https://getdesign.md/design-md/opencode.ai/preview.html",
+    "status": "pass",
+    "score": 96.2,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 10,
+      "mood": 11.2
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "OpenCode AI",
+      "preview_url": "https://getdesign.md/design-md/opencode.ai/preview.html",
+      "colors": {
+        "background": "#201D1D",
+        "panel": "#FDFCFC",
+        "text": "#FFFFFF",
+        "accent": "#007AFF"
+      },
+      "brightness": "dark",
+      "accent_family": "blue",
+      "accent_mode": "color",
+      "layout_hint": "docs-grid",
+      "button_radius": "soft",
+      "uppercase_title": false,
+      "moods": [
+        "developer",
+        "friendly",
+        "future-facing",
+        "technical"
+      ],
+      "excerpt": "Design System Inspired by OpenCode.ai\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \n \nGet Started\n \nDesign System\nInspired by OpenCode\n \nA design token catalog generated from DESIGN.md. Every color, font, component, and spacing value -- visualized in monospace precision.\n \n \nInstall OpenCode\n \nView on GitHub\n \n \n01 / Colors\n \nColor Palette\n \nPrimary\n \n \nOpenCode Dark\n#201d1d\nBackground, buttons\n \nOpenCode Light\n#fdfcfc\nPrimary text\n \nMid Gray\n#9a989"
+    },
+    "svg": {
+      "layout": "token-catalog-dark",
+      "layout_group": "tooling",
+      "colors": {
+        "background": "#201D1D",
+        "panel": "#FDFCFC",
+        "text": "#FFFFFF",
+        "accent": "#007AFF"
+      },
+      "brightness": "dark",
+      "accent_family": "blue",
+      "accent_mode": "color",
+      "headline": "preview",
+      "uppercase_title": false,
+      "headline_size": 12,
+      "button_radius": "soft",
+      "moods": [
+        "developer",
+        "future-facing",
+        "technical"
+      ]
+    }
+  },
+  {
+    "name": "Pinterest",
+    "slug": "pinterest",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/pinterest.svg",
+    "preview_url": "https://getdesign.md/design-md/pinterest/preview.html",
+    "status": "pass",
+    "score": 92.5,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 10,
+      "mood": 7.5
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Pinterest",
+      "preview_url": "https://getdesign.md/design-md/pinterest/preview.html",
+      "colors": {
+        "background": "#FFFFFF",
+        "panel": "#211922",
+        "text": "#33332E",
+        "accent": "#E60023"
+      },
+      "brightness": "light",
+      "accent_family": "red",
+      "accent_mode": "color",
+      "layout_hint": "editorial",
+      "button_radius": "soft",
+      "uppercase_title": false,
+      "moods": [
+        "brand",
+        "creative",
+        "editorial",
+        "friendly",
+        "minimal",
+        "narrative"
+      ],
+      "excerpt": "Design System Inspired by Pinterest\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \n \nSign up\n \nDesign System\nInspired by \nPinterest\n \nA design token catalog generated from DESIGN.md. Every color, font, and component — visualized with warm craft.\n \n \nSign up\n \nLog in\n \n \n01 / Colors\nColor Palette\n \nBrand\n \n \nPinterest Red\n#e60023\nPrimary CTA\n \nPlum Black\n#211922\nPrimary text\n \nGreen 700\n#103c25\nSuccess\n \n \nWarm Neutrals\n \n \nOlive Gray\n#62625b\nSecondary text\n \nW"
+    },
+    "svg": {
+      "layout": "editorial",
+      "layout_group": "editorial",
+      "colors": {
+        "background": "#F5F7FB",
+        "panel": "#FFFFFF",
+        "text": "#0F172A",
+        "accent": "#EF4444"
+      },
+      "brightness": "light",
+      "accent_family": "red",
+      "accent_mode": "color",
+      "headline": "Pinterest",
+      "uppercase_title": false,
+      "headline_size": 70,
+      "button_radius": "soft",
+      "moods": [
+        "brand",
+        "editorial",
+        "narrative"
+      ]
+    }
+  },
+  {
+    "name": "PlayStation",
+    "slug": "playstation",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/playstation.svg",
+    "preview_url": "https://getdesign.md/design-md/playstation/preview.html",
+    "status": "pass",
+    "score": 90.0,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 6,
+      "mood": 9.0
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "PlayStation",
+      "preview_url": "https://getdesign.md/design-md/playstation/preview.html",
+      "colors": {
+        "background": "#000000",
+        "panel": "#121314",
+        "text": "#DEDEDE",
+        "accent": "#0070CC"
+      },
+      "brightness": "dark",
+      "accent_family": "blue",
+      "accent_mode": "color",
+      "layout_hint": "dashboard",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "brand",
+        "conversion",
+        "editorial",
+        "narrative",
+        "tooling"
+      ],
+      "excerpt": "Design System Inspiration of PlayStation\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nPalette\n \nType\n \nComponents\n \nLayout\n \n \nSign In\n \nDesign System / Console Retail\n \nDesign System Inspiration of PlayStation\n \nQuiet-authority display type, cyan hover-scale interactions, and a three-surface channel layout anchored by PlayStation Blue. Generated from DESIGN.md.\n \n \nExplore the System\n \nAdd to Cart\n \n \nSection 01 / Palette\n \nColor Palette\n \nPlayStation Blue as the anchor, Cyan reserved for hover states, C"
+    },
+    "svg": {
+      "layout": "dashboard-slab",
+      "layout_group": "tooling",
+      "colors": {
+        "background": "#000000",
+        "panel": "#121314",
+        "text": "#DEDEDE",
+        "accent": "#0070CC"
+      },
+      "brightness": "dark",
+      "accent_family": "blue",
+      "accent_mode": "color",
+      "headline": "PlayStation",
+      "uppercase_title": false,
+      "headline_size": 64,
+      "button_radius": "soft",
+      "moods": [
+        "brand",
+        "editorial",
+        "narrative"
+      ]
+    }
+  },
+  {
+    "name": "PostHog",
+    "slug": "posthog",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/posthog.svg",
+    "preview_url": "https://getdesign.md/design-md/posthog/preview.html",
+    "status": "pass",
+    "score": 92.2,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 6,
+      "mood": 11.2
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "PostHog",
+      "preview_url": "https://getdesign.md/design-md/posthog/preview.html",
+      "colors": {
+        "background": "#4D4F46",
+        "panel": "#23251D",
+        "text": "#FFFFFF",
+        "accent": "#F54E00"
+      },
+      "brightness": "mixed",
+      "accent_family": "red",
+      "accent_mode": "color",
+      "layout_hint": "editorial",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "brand",
+        "dense",
+        "editorial",
+        "friendly",
+        "minimal",
+        "playful",
+        "structured",
+        "technical"
+      ],
+      "excerpt": "Design System Inspired by PostHog\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \nRadius\n \nElevation\n \n \nGet started - free\n \n \nDesign System Inspired by PostHog\n \nA visual catalog of design tokens extracted from PostHog's website — warm, earthy, and deliberately anti-corporate.\n \n \nExplore Tokens\n \nView DESIGN.md\n \n \n \nColor Palette\n \nPostHog's warm olive/sage palette — no blues, no purples, just earthy warmth.\n \n \nPrimary\n \n \nOlive Ink\n#4d4f46\nPrima"
+    },
+    "svg": {
+      "layout": "editorial-cascade",
+      "layout_group": "editorial",
+      "colors": {
+        "background": "#4D4F46",
+        "panel": "#23251D",
+        "text": "#FFFFFF",
+        "accent": "#F54E00"
+      },
+      "brightness": "mixed",
+      "accent_family": "red",
+      "accent_mode": "color",
+      "headline": "PostHog",
+      "uppercase_title": false,
+      "headline_size": 68,
+      "button_radius": "soft",
+      "moods": [
+        "dense",
+        "editorial",
+        "friendly",
+        "playful",
+        "structured",
+        "technical"
+      ]
+    }
+  },
+  {
+    "name": "Raycast",
+    "slug": "raycast",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/raycast.svg",
+    "preview_url": "https://getdesign.md/design-md/raycast/preview.html",
+    "status": "pass",
+    "score": 91.7,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 6,
+      "mood": 10.7
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Raycast",
+      "preview_url": "https://getdesign.md/design-md/raycast/preview.html",
+      "colors": {
+        "background": "#07080A",
+        "panel": "#101111",
+        "text": "#18191A",
+        "accent": "#FF6363"
+      },
+      "brightness": "dark",
+      "accent_family": "red",
+      "accent_mode": "color",
+      "layout_hint": "editorial",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "brand",
+        "developer",
+        "editorial",
+        "gradient",
+        "minimal",
+        "precise",
+        "tooling"
+      ],
+      "excerpt": "Design System Inspired by Raycast\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nElevation\n \n \n \nDownload\n \nDesign System\nInspired by Raycast\n \nA visual catalog of design tokens, components, and patterns extracted from Raycast's marketing site and documented in DESIGN.md.\n \n \nExplore Tokens\n \nView Components\n \n \nColor Palette\n \nNear-black blue-tinted backgrounds, precision grays, and bold semantic accents.\n \n \nPrimary\n \n \n \n \n \nNear-Black Blue\n \n#07080a\n \nPage"
+    },
+    "svg": {
+      "layout": "editorial-cascade",
+      "layout_group": "editorial",
+      "colors": {
+        "background": "#07080A",
+        "panel": "#101111",
+        "text": "#18191A",
+        "accent": "#FF6363"
+      },
+      "brightness": "dark",
+      "accent_family": "red",
+      "accent_mode": "color",
+      "headline": "Raycast",
+      "uppercase_title": false,
+      "headline_size": 68,
+      "button_radius": "soft",
+      "moods": [
+        "developer",
+        "editorial",
+        "gradient",
+        "precise",
+        "tooling"
+      ]
+    }
+  },
+  {
+    "name": "Renault",
+    "slug": "renault",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/renault.svg",
+    "preview_url": "https://getdesign.md/design-md/renault/preview.html",
+    "status": "pass",
+    "score": 93.5,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 6,
+      "mood": 12.5
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Renault",
+      "preview_url": "https://getdesign.md/design-md/renault/preview.html",
+      "colors": {
+        "background": "#000000",
+        "panel": "#FFFFFF",
+        "text": "#D1D1D1",
+        "accent": "#EFDF00"
+      },
+      "brightness": "dark",
+      "accent_family": "yellow",
+      "accent_mode": "color",
+      "layout_hint": "poster",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "brand",
+        "cinematic",
+        "friendly",
+        "gradient",
+        "luxury",
+        "monumental"
+      ],
+      "excerpt": "Design System Inspired by Renault\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \n \n \nExplore\n \nDesign System\nInspired by Renault\n \nA visual reference generated from DESIGN.md — every color, type rule, and component token documented from Renault's design system.\n \n \nConfigure\n \nExplore\n \n \nColor Palette\n \nEvery color extracted from Renault's design system with semantic names, hex values, and functional roles.\n \nPrimary\n \n \n \n \nRenault Yellow\n#EFDF00\nS"
+    },
+    "svg": {
+      "layout": "poster",
+      "layout_group": "showcase",
+      "colors": {
+        "background": "#000000",
+        "panel": "#FFFFFF",
+        "text": "#D1D1D1",
+        "accent": "#EFDF00"
+      },
+      "brightness": "dark",
+      "accent_family": "yellow",
+      "accent_mode": "color",
+      "headline": "中性色基底，现代、清晰，整体更偏电影感、…",
+      "uppercase_title": false,
+      "headline_size": 22,
+      "button_radius": "soft",
+      "moods": [
+        "brand",
+        "cinematic",
+        "gradient",
+        "luxury",
+        "monumental"
+      ]
+    }
+  },
+  {
+    "name": "Replicate",
+    "slug": "replicate",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/replicate.svg",
+    "preview_url": "https://getdesign.md/design-md/replicate/preview.html",
+    "status": "pass",
+    "score": 90.0,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 6,
+      "mood": 9.0
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Replicate",
+      "preview_url": "https://getdesign.md/design-md/replicate/preview.html",
+      "colors": {
+        "background": "#202020",
+        "panel": "#24292E",
+        "text": "#E6EDF3",
+        "accent": "#EA2804"
+      },
+      "brightness": "dark",
+      "accent_family": "red",
+      "accent_mode": "color",
+      "layout_hint": "docs-grid",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "brand",
+        "developer",
+        "friendly",
+        "future-facing",
+        "technical"
+      ],
+      "excerpt": "Design System Inspired by Replicate\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nSpacing\n \nElevation\n \n \n \nSign In\n \nDesign System\nInspired by Replicate\n \nAuto-generated design token catalog from DESIGN.md\n \n \nExplore Tokens\n \nView Source\n \n \n01 / Color Palette\n \nColor Palette & Roles\n \n \nPrimary\n \n \n \n \n \nReplicate Dark\n \n#202020\n \nPrimary text, dark surfaces, borders\n \n \n \n \n \n \nReplicate Red\n \n#ea2804\n \nCore brand, hero gradient, accent borders\n \n \n \n \n \n \nSecond"
+    },
+    "svg": {
+      "layout": "token-catalog-dark",
+      "layout_group": "tooling",
+      "colors": {
+        "background": "#202020",
+        "panel": "#24292E",
+        "text": "#E6EDF3",
+        "accent": "#EA2804"
+      },
+      "brightness": "dark",
+      "accent_family": "red",
+      "accent_mode": "color",
+      "headline": "preview",
+      "uppercase_title": false,
+      "headline_size": 12,
+      "button_radius": "soft",
+      "moods": [
+        "developer",
+        "future-facing",
+        "technical"
+      ]
+    }
+  },
+  {
+    "name": "Resend",
+    "slug": "resend",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/resend.svg",
+    "preview_url": "https://getdesign.md/design-md/resend/preview.html",
+    "status": "pass",
+    "score": 75.0,
+    "breakdown": {
+      "layout": 18,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 2,
+      "typography_case": 5,
+      "button_radius": 10,
+      "mood": 10.0
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Resend",
+      "preview_url": "https://getdesign.md/design-md/resend/preview.html",
+      "colors": {
+        "background": "#000000",
+        "panel": "#F0F0F0",
+        "text": "#5C5C5C",
+        "accent": "#FF801F"
+      },
+      "brightness": "dark",
+      "accent_family": "yellow",
+      "accent_mode": "color",
+      "layout_hint": "docs-grid",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "brand",
+        "developer",
+        "efficient",
+        "friendly",
+        "minimal",
+        "product"
+      ],
+      "excerpt": "Design System Inspired by Resend\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \n \nGet Started\n \n \nDesign System\nInspired by Resend\n \nA design token catalog generated from DESIGN.md. Every color, font, component, and spacing value — visualized.\n \n \nGet Started\n \nDocumentation\n \n \n \n01 / Colors\n \nColor Palette\n \nPrimary\n \n \nVoid Black\n#000000\nPage background\n \nNear White\n#f0f0f0\nPrimary text\n \nPure White\n#ffffff\nMaximum emphasis\n \n \nAccent Scale\n \n \nOr"
+    },
+    "svg": {
+      "layout": "dashboard",
+      "layout_group": "tooling",
+      "colors": {
+        "background": "#0D1117",
+        "panel": "#1B1F24",
+        "text": "#F5F7FB",
+        "accent": "#7C6CFF"
+      },
+      "brightness": "dark",
+      "accent_family": "purple",
+      "accent_mode": "color",
+      "headline": "Resend",
+      "uppercase_title": false,
+      "headline_size": 64,
+      "button_radius": "pill",
+      "moods": [
+        "efficient",
+        "friendly",
+        "minimal",
+        "product"
+      ]
+    }
+  },
+  {
+    "name": "Revolut",
+    "slug": "revolut",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/revolut.svg",
+    "preview_url": "https://getdesign.md/design-md/revolut/preview.html",
+    "status": "pass",
+    "score": 78.0,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 4,
+      "accent_mode": 15,
+      "accent_family": 2,
+      "typography_case": 5,
+      "button_radius": 10,
+      "mood": 12.0
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Revolut",
+      "preview_url": "https://getdesign.md/design-md/revolut/preview.html",
+      "colors": {
+        "background": "#FFFFFF",
+        "panel": "#191C1F",
+        "text": "#C9C9CD",
+        "accent": "#494FDF"
+      },
+      "brightness": "light",
+      "accent_family": "blue",
+      "accent_mode": "color",
+      "layout_hint": "dashboard",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "brand",
+        "finance",
+        "gradient",
+        "precision",
+        "trust"
+      ],
+      "excerpt": "Design System Inspired by Revolut\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \n \nGet Started\n \nDesign System\nInspired by Revolut\n \nA design token catalog generated from DESIGN.md. Every color, font, and component — visualized with fintech precision.\n \n \nGet Started\n \nLearn More\n \n \n01 / Colors\nColor Palette\n \nPrimary\n \n \nRevolut Dark\n#191c1f\nDark surface, text\n \nWhite\n#ffffff\nLight surface\n \nLight\n#f4f4f4\nSecondary surface\n \n \nSemantic\n \n \nBlue\n#494fdf\nBrand"
+    },
+    "svg": {
+      "layout": "dashboard",
+      "layout_group": "tooling",
+      "colors": {
+        "background": "#0D1117",
+        "panel": "#1B1F24",
+        "text": "#F5F7FB",
+        "accent": "#7C6CFF"
+      },
+      "brightness": "dark",
+      "accent_family": "purple",
+      "accent_mode": "color",
+      "headline": "Revolut",
+      "uppercase_title": false,
+      "headline_size": 64,
+      "button_radius": "pill",
+      "moods": [
+        "finance",
+        "gradient",
+        "precision",
+        "trust"
+      ]
+    }
+  },
+  {
+    "name": "RunwayML",
+    "slug": "runwayml",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/runwayml.svg",
+    "preview_url": "https://getdesign.md/design-md/runwayml/preview.html",
+    "status": "pass",
+    "score": 91.7,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 6,
+      "mood": 10.7
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "RunwayML",
+      "preview_url": "https://getdesign.md/design-md/runwayml/preview.html",
+      "colors": {
+        "panel": "#1A1A1A",
+        "background": "#000000",
+        "text": "#27272A",
+        "accent": "#767D88"
+      },
+      "brightness": "dark",
+      "accent_family": "purple",
+      "accent_mode": "color",
+      "layout_hint": "editorial",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "cinematic",
+        "developer",
+        "editorial",
+        "future-facing",
+        "minimal",
+        "technical"
+      ],
+      "excerpt": "Design System Inspired by RunwayML\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nCards\n \nSpacing\n \nElevation\n \n \n \nTry Runway\n \nDesign System\nInspired by RunwayML\n \nCinematic, minimal, editorial design tokens from DESIGN.md\n \n \nExplore Tokens\n \nView Source\n \n \n01 / Color Palette\n \nColor Palette & Roles\n \n \nPrimary\n \n \n \n \n \nRunway Black\n \n#000000\n \nPrimary page background, maximum-emphasis text\n \n \n \n \n \n \nDeep Black\n \n#030303\n \nLayered dark surfaces\n \n \n \n \n \n \nDark Surface\n \n#1a1a1a"
+    },
+    "svg": {
+      "layout": "editorial",
+      "layout_group": "editorial",
+      "colors": {
+        "background": "#0D1117",
+        "panel": "#1B1F24",
+        "text": "#F5F7FB",
+        "accent": "#7C6CFF"
+      },
+      "brightness": "dark",
+      "accent_family": "purple",
+      "accent_mode": "color",
+      "headline": "RunwayML",
+      "uppercase_title": false,
+      "headline_size": 70,
+      "button_radius": "soft",
+      "moods": [
+        "brand",
+        "cinematic",
+        "developer",
+        "editorial",
+        "future-facing",
+        "technical"
+      ]
+    }
+  },
+  {
+    "name": "Sanity",
+    "slug": "sanity",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/sanity.svg",
+    "preview_url": "https://getdesign.md/design-md/sanity/preview.html",
+    "status": "pass",
+    "score": 87.7,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 6,
+      "mood": 6.7
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Sanity",
+      "preview_url": "https://getdesign.md/design-md/sanity/preview.html",
+      "colors": {
+        "background": "#F7F7F7",
+        "panel": "#FFFFFF",
+        "text": "#000000",
+        "accent": "#F36458"
+      },
+      "brightness": "light",
+      "accent_family": "red",
+      "accent_mode": "color",
+      "layout_hint": "dashboard",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "brand",
+        "dense",
+        "developer",
+        "editorial",
+        "friendly",
+        "minimal",
+        "structured",
+        "technical",
+        "tooling"
+      ],
+      "excerpt": "Design System Inspired by Sanity\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \n \nDesign System Inspired by Sanity\n \nStructured content meets precise design. A dark-first, engineering-grade design language built on achromatic neutrals, tight typography, and vivid accent punctuation.\n \n \nGet Started\n \nContact Sales\n \n \nColor Palette\n \nPure achromatic gray scale with vivid accent punctuation. No warm or cool bias in the neutral range.\n \n \n \n \n \nSanity"
+    },
+    "svg": {
+      "layout": "dashboard-slab",
+      "layout_group": "tooling",
+      "colors": {
+        "background": "#F7F7F7",
+        "panel": "#FFFFFF",
+        "text": "#000000",
+        "accent": "#F36458"
+      },
+      "brightness": "light",
+      "accent_family": "red",
+      "accent_mode": "color",
+      "headline": "Sanity",
+      "uppercase_title": false,
+      "headline_size": 64,
+      "button_radius": "soft",
+      "moods": [
+        "dense",
+        "editorial",
+        "structured",
+        "technical"
+      ]
+    }
+  },
+  {
+    "name": "Sentry",
+    "slug": "sentry",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/sentry.svg",
+    "preview_url": "https://getdesign.md/design-md/sentry/preview.html",
+    "status": "pass",
+    "score": 82.0,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 2,
+      "typography_case": 1,
+      "button_radius": 10,
+      "mood": 9.0
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Sentry",
+      "preview_url": "https://getdesign.md/design-md/sentry/preview.html",
+      "colors": {
+        "background": "#FFFFFF",
+        "panel": "#F1EEF9",
+        "text": "#1F1633",
+        "accent": "#6C5CE7"
+      },
+      "brightness": "light",
+      "accent_family": "purple",
+      "accent_mode": "color",
+      "layout_hint": "sentry-docs",
+      "button_radius": "soft",
+      "uppercase_title": false,
+      "moods": [
+        "brand",
+        "dense",
+        "developer",
+        "structured",
+        "technical"
+      ],
+      "excerpt": "Design System Inspired by Sentry\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \n \nGet Started\n \n \nDesign System\nInspired by \nSentry\n \nA design token catalog generated from DESIGN.md. Every color, font, component, and spacing value — visualized.\n \n \nStart Building\n \nView Tokens\n \n \n \nSection 01\n \nColor Palette\n \nPrimary Brand\n \n \n \n \n \nDeep Purple\n \n#1f1633\n \nPrimary background\n \n \n \n \n \n \nDarker Purple\n \n#150f23\n \nDeeper sections, footer"
+    },
+    "svg": {
+      "layout": "sentry-docs",
+      "layout_group": "tooling",
+      "colors": {
+        "background": "#FFFFFF",
+        "panel": "#F1EEF9",
+        "text": "#1F1633",
+        "accent": "#6C5CE7"
+      },
+      "brightness": "light",
+      "accent_family": "blue",
+      "accent_mode": "color",
+      "headline": "TRACES",
+      "uppercase_title": true,
+      "headline_size": 12,
+      "button_radius": "soft",
+      "moods": [
+        "dense",
+        "structured",
+        "technical"
+      ]
+    }
+  },
+  {
+    "name": "Shopify",
+    "slug": "shopify",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/shopify.svg",
+    "preview_url": "https://getdesign.md/design-md/shopify/preview.html",
+    "status": "pass",
+    "score": 93.5,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 6,
+      "mood": 12.5
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Shopify",
+      "preview_url": "https://getdesign.md/design-md/shopify/preview.html",
+      "colors": {
+        "background": "#FFFFFF",
+        "panel": "#000000",
+        "text": "#9797A2",
+        "accent": "#36F4A4"
+      },
+      "brightness": "light",
+      "accent_family": "green",
+      "accent_mode": "color",
+      "layout_hint": "dashboard",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "brand",
+        "cinematic",
+        "conversion",
+        "heroic",
+        "product",
+        "tooling"
+      ],
+      "excerpt": "Design System Inspired by Shopify\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \n \nStart for free\n \n \nDesign System Inspired by \nShopify\n \nA complete design token catalog extracted from Shopify.com — NeueHaasGrotesk display typography, dark-first surfaces, and neon green accents.\n \n \nExplore Tokens\n \nView Source\n \n \n \nColor Palette\n \nDark-first surfaces with deep teal undertones. Neon Green is the singular high-energy accent.\n \n \nPrimary & Accent"
+    },
+    "svg": {
+      "layout": "dashboard-slab",
+      "layout_group": "tooling",
+      "colors": {
+        "background": "#FFFFFF",
+        "panel": "#000000",
+        "text": "#9797A2",
+        "accent": "#36F4A4"
+      },
+      "brightness": "light",
+      "accent_family": "green",
+      "accent_mode": "color",
+      "headline": "Shopify",
+      "uppercase_title": false,
+      "headline_size": 64,
+      "button_radius": "soft",
+      "moods": [
+        "brand",
+        "cinematic",
+        "conversion",
+        "heroic",
+        "product"
+      ]
+    }
+  },
+  {
+    "name": "SpaceX",
+    "slug": "spacex",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/spacex.svg",
+    "preview_url": "https://getdesign.md/design-md/spacex/preview.html",
+    "status": "pass",
+    "score": 73.2,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 0,
+      "accent_family": 2,
+      "typography_case": 5,
+      "button_radius": 10,
+      "mood": 11.2
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "SpaceX",
+      "preview_url": "https://getdesign.md/design-md/spacex/preview.html",
+      "colors": {
+        "background": "#000000",
+        "panel": "#F0F0FA",
+        "text": "#F0F0FA",
+        "accent": "#FF4444"
+      },
+      "brightness": "dark",
+      "accent_family": "red",
+      "accent_mode": "color",
+      "layout_hint": "editorial",
+      "button_radius": "soft",
+      "uppercase_title": false,
+      "moods": [
+        "brand",
+        "editorial",
+        "minimal",
+        "narrative"
+      ],
+      "excerpt": "Design System Inspired by SpaceX\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nSpacing\n \n \nLearn More\n \nDesign System\nInspired by SpaceX\n \nA design token catalog generated from DESIGN.md. Every color, font, and spacing value — visualized against the void.\n \n \nExplore Tokens\n \nView Source\n \n \n01 / Colors\n \nColor Palette\n \n \nSpace Black\n#000000\nPage background\n \nSpectral White\n#f0f0fa\nText, headings\n \nGhost Surface\nrgba(f0f0fa, 0.1)\nButton background\n \nDark Overlay\nrgb"
+    },
+    "svg": {
+      "layout": "editorial",
+      "layout_group": "editorial",
+      "colors": {
+        "background": "#0B0B0C",
+        "panel": "#141518",
+        "text": "#F5F5F5",
+        "accent": "#F5F5F5"
+      },
+      "brightness": "dark",
+      "accent_family": "neutral",
+      "accent_mode": "monochrome",
+      "headline": "SpaceX",
+      "uppercase_title": false,
+      "headline_size": 70,
+      "button_radius": "soft",
+      "moods": [
+        "brand",
+        "editorial",
+        "narrative"
+      ]
+    }
+  },
+  {
+    "name": "Spotify",
+    "slug": "spotify",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/spotify.svg",
+    "preview_url": "https://getdesign.md/design-md/spotify/preview.html",
+    "status": "pass",
+    "score": 96.0,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 6,
+      "mood": 15.0
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Spotify",
+      "preview_url": "https://getdesign.md/design-md/spotify/preview.html",
+      "colors": {
+        "background": "#121212",
+        "panel": "#181818",
+        "text": "#4D4D4D",
+        "accent": "#1ED760"
+      },
+      "brightness": "dark",
+      "accent_family": "green",
+      "accent_mode": "color",
+      "layout_hint": "editorial",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "bold",
+        "brand",
+        "editorial",
+        "narrative"
+      ],
+      "excerpt": "Design System Inspired by Spotify\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \n \nOpen Spotify\n \nDesign System Inspired by \nSpotify\n \nA design token catalog generated from DESIGN.md. Every color, font, and component — visualized in the dark.\n \n \nGet Spotify Free\n \nLearn More\n \n \n01 / Colors\nColor Palette\n \nBrand\n \n \nSpotify Green\n#1ed760\nBrand accent\n \nNear Black\n#121212\nPage background\n \nSurface\n#181818\nCards, containers\n \nMid Dark\n#1f1f1f\nButtons, inputs"
+    },
+    "svg": {
+      "layout": "editorial",
+      "layout_group": "editorial",
+      "colors": {
+        "background": "#0D1117",
+        "panel": "#1B1F24",
+        "text": "#F5F7FB",
+        "accent": "#3ECF8E"
+      },
+      "brightness": "dark",
+      "accent_family": "green",
+      "accent_mode": "color",
+      "headline": "Spotify",
+      "uppercase_title": false,
+      "headline_size": 70,
+      "button_radius": "soft",
+      "moods": [
+        "bold",
+        "brand",
+        "editorial",
+        "narrative"
+      ]
+    }
+  },
+  {
+    "name": "Stripe",
+    "slug": "stripe",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/stripe.svg",
+    "preview_url": "https://getdesign.md/design-md/stripe/preview.html",
+    "status": "pass",
+    "score": 86.0,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 2,
+      "typography_case": 5,
+      "button_radius": 10,
+      "mood": 9.0
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Stripe",
+      "preview_url": "https://getdesign.md/design-md/stripe/preview.html",
+      "colors": {
+        "background": "#F7F4FF",
+        "panel": "#FFFFFF",
+        "text": "#1F1235",
+        "accent": "#635BFF"
+      },
+      "brightness": "light",
+      "accent_family": "purple",
+      "accent_mode": "color",
+      "layout_hint": "hero-light",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "developer-brand",
+        "elegant",
+        "gradient"
+      ],
+      "excerpt": "Payment infrastructure. Signature purple gradients, weight-300 elegance"
+    },
+    "svg": {
+      "layout": "hero-light",
+      "layout_group": "showcase",
+      "colors": {
+        "background": "#F7F4FF",
+        "panel": "#FFFFFF",
+        "text": "#1F1235",
+        "accent": "#635BFF"
+      },
+      "brightness": "light",
+      "accent_family": "blue",
+      "accent_mode": "color",
+      "headline": "Stripe",
+      "uppercase_title": false,
+      "headline_size": 64,
+      "button_radius": "pill",
+      "moods": [
+        "brand",
+        "developer",
+        "developer-brand",
+        "elegant",
+        "gradient"
+      ]
+    }
+  },
+  {
+    "name": "Supabase",
+    "slug": "supabase",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/supabase.svg",
+    "preview_url": "https://getdesign.md/design-md/supabase/preview.html",
+    "status": "pass",
+    "score": 92.5,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 10,
+      "mood": 7.5
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Supabase",
+      "preview_url": "https://getdesign.md/design-md/supabase/preview.html",
+      "colors": {
+        "background": "#171717",
+        "panel": "#171717",
+        "text": "#FAFAFA",
+        "accent": "#3ECF8E"
+      },
+      "brightness": "dark",
+      "accent_family": "green",
+      "accent_mode": "color",
+      "layout_hint": "dashboard",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "code-first",
+        "developer",
+        "tooling"
+      ],
+      "excerpt": "Design System Inspired by Supabase\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \nElevation\n \n \n \nStart your project\n \nDesign System Preview\n \nDesign System\nInspired by Supabase\n \nDark-mode-native developer platform aesthetic. Emerald green accents on near-black surfaces with border-defined depth.\n \n \nStart your project\n \nView Documentation\n \n \n01 / Color Palette\n \nColor Palette\n \n \nBrand\n \n \n \n \n \nSupabase Green\n \n#3ecf8e\n \nPrimary brand, logo, acce"
+    },
+    "svg": {
+      "layout": "dashboard",
+      "layout_group": "tooling",
+      "colors": {
+        "background": "#0F1720",
+        "panel": "#111827",
+        "text": "#EEFAF4",
+        "accent": "#3ECF8E"
+      },
+      "brightness": "dark",
+      "accent_family": "green",
+      "accent_mode": "color",
+      "headline": "Supabase",
+      "uppercase_title": false,
+      "headline_size": 64,
+      "button_radius": "pill",
+      "moods": [
+        "code-first",
+        "emerald",
+        "tooling"
+      ]
+    }
+  },
+  {
+    "name": "Superhuman",
+    "slug": "superhuman",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/superhuman.svg",
+    "preview_url": "https://getdesign.md/design-md/superhuman/preview.html",
+    "status": "pass",
+    "score": 86.0,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 2,
+      "typography_case": 5,
+      "button_radius": 10,
+      "mood": 9.0
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Superhuman",
+      "preview_url": "https://getdesign.md/design-md/superhuman/preview.html",
+      "colors": {
+        "background": "#292827",
+        "panel": "#FFFFFF",
+        "text": "#F5F4F2",
+        "accent": "#1B1938"
+      },
+      "brightness": "dark",
+      "accent_family": "blue",
+      "accent_mode": "color",
+      "layout_hint": "dashboard",
+      "button_radius": "soft",
+      "uppercase_title": false,
+      "moods": [
+        "developer",
+        "friendly",
+        "minimal",
+        "precise",
+        "tooling"
+      ],
+      "excerpt": "Design System Inspired by Superhuman\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \nRadius\n \nElevation\n \n \nGet Started\n \nDesign System Inspired by Superhuman\n \nA visual catalog of design tokens extracted from Superhuman's website, rendered as a living style guide.\n \n \nExplore Tokens\n \nView DESIGN.md\n \n \nColor Palette\n \nEvery color token from the Superhuman design system with semantic naming and roles.\n \n \nPrimary\n \n \n \n \n \nMysteria Purple\n \n#1b1938"
+    },
+    "svg": {
+      "layout": "editor-workbench",
+      "layout_group": "tooling",
+      "colors": {
+        "background": "#0D1117",
+        "panel": "#1B1F24",
+        "text": "#F5F7FB",
+        "accent": "#7C6CFF"
+      },
+      "brightness": "dark",
+      "accent_family": "purple",
+      "accent_mode": "color",
+      "headline": "Superhuman",
+      "uppercase_title": false,
+      "headline_size": 48,
+      "button_radius": "soft",
+      "moods": [
+        "developer",
+        "precise",
+        "tooling"
+      ]
+    }
+  },
+  {
+    "name": "Tesla",
+    "slug": "tesla",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/tesla.svg",
+    "preview_url": "https://getdesign.md/design-md/tesla/preview.html",
+    "status": "pass",
+    "score": 90.0,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 6,
+      "mood": 9.0
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Tesla",
+      "preview_url": "https://getdesign.md/design-md/tesla/preview.html",
+      "colors": {
+        "text": "#5C5E62",
+        "background": "#FFFFFF",
+        "panel": "#171A20",
+        "accent": "#3E6AE1"
+      },
+      "brightness": "light",
+      "accent_family": "neutral",
+      "accent_mode": "monochrome",
+      "layout_hint": "luxury-banner",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "cinematic",
+        "luxury",
+        "minimal",
+        "monumental"
+      ],
+      "excerpt": "Design System Inspired by Tesla\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nVehicles\n \nEnergy\n \nCharging\n \nDiscover\n \n \n \nShop\n \nDesign System Inspired by Tesla\n \nPhotography-first. Interface-invisible.\n \nA visual catalog generated from DESIGN.md — every token, every value, every design decision.\n \n \nOrder Now\n \nView Inventory\n \n \nColor Palette\n \nTesla's palette is almost ascetic — one blue, three grays, and white. Every surface is monochrome to let photography dominate.\n \nPrimary\n \n \n \n \n \nElectric Blue"
+    },
+    "svg": {
+      "layout": "luxury-banner",
+      "layout_group": "showcase",
+      "colors": {
+        "background": "#FFFFFF",
+        "panel": "#171A20",
+        "text": "#5C5E62",
+        "accent": "#111111"
+      },
+      "brightness": "light",
+      "accent_family": "neutral",
+      "accent_mode": "monochrome",
+      "headline": "中性色基底，电影感、画面驱动，整体更偏电…",
+      "uppercase_title": false,
+      "headline_size": 20,
+      "button_radius": "soft",
+      "moods": [
+        "brand",
+        "cinematic",
+        "luxury",
+        "monumental"
+      ]
+    }
+  },
+  {
+    "name": "The Verge",
+    "slug": "theverge",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/theverge.svg",
+    "preview_url": "https://getdesign.md/design-md/theverge/preview.html",
+    "status": "pass",
+    "score": 88.5,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 6,
+      "mood": 7.5
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "The Verge",
+      "preview_url": "https://getdesign.md/design-md/theverge/preview.html",
+      "colors": {
+        "background": "#FFFFFF",
+        "panel": "#131313",
+        "text": "#E9E9E9",
+        "accent": "#3CFFD0"
+      },
+      "brightness": "light",
+      "accent_family": "green",
+      "accent_mode": "color",
+      "layout_hint": "dashboard",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "brand",
+        "editorial",
+        "friendly",
+        "minimal",
+        "narrative",
+        "tooling"
+      ],
+      "excerpt": "Design System Inspiration of The Verge\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nPalette\n \nType\n \nComponents\n \nLayout\n \n \nSubscribe\n \nDesign System / Editorial Hazard\n \nDesign System Inspiration of The Verge\n \nHazard-tape editorial. Massive Manuka headlines, acid-mint + ultraviolet accents, and a StoryStream timeline that feels like a git log for the news. Generated from DESIGN.md.\n \n \nExplore The System\n \nRead The Stream\n \n \nSection 01 / Palette\n \nColor Palette\n \nCanvas black, jelly mint, verge ultrav"
+    },
+    "svg": {
+      "layout": "dashboard-slab",
+      "layout_group": "tooling",
+      "colors": {
+        "background": "#FFFFFF",
+        "panel": "#131313",
+        "text": "#E9E9E9",
+        "accent": "#3CFFD0"
+      },
+      "brightness": "light",
+      "accent_family": "green",
+      "accent_mode": "color",
+      "headline": "The Verge",
+      "uppercase_title": false,
+      "headline_size": 64,
+      "button_radius": "soft",
+      "moods": [
+        "brand",
+        "editorial",
+        "narrative"
+      ]
+    }
+  },
+  {
+    "name": "Together AI",
+    "slug": "together.ai",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/together.ai.svg",
+    "preview_url": "https://getdesign.md/design-md/together.ai/preview.html",
+    "status": "pass",
+    "score": 88.5,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 6,
+      "mood": 7.5
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Together AI",
+      "preview_url": "https://getdesign.md/design-md/together.ai/preview.html",
+      "colors": {
+        "background": "#000000",
+        "panel": "#FFFFFF",
+        "text": "#FFFFFF",
+        "accent": "#EF2CC1"
+      },
+      "brightness": "dark",
+      "accent_family": "red",
+      "accent_mode": "color",
+      "layout_hint": "docs-grid",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "brand",
+        "developer",
+        "friendly",
+        "future-facing",
+        "minimal",
+        "technical"
+      ],
+      "excerpt": "Design System Inspired by Together AI\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nSpacing\n \nElevation\n \n \n \nGet Started\n \n \nDesign System\nInspired by Together AI\n \nAuto-generated design token catalog from DESIGN.md\n \n \nExplore Tokens\n \nView Source\n \n \n01 / Color Palette\n \nColor Palette & Roles\n \n \nPrimary Brand\n \n \n \n \n \nBrand Magenta\n \n#ef2cc1\n \nGradient illustrations only, never UI chrome\n \n \n \n \n \n \nBrand Orange\n \n#fc4c02\n \nGradient endpoints, warm accent moment"
+    },
+    "svg": {
+      "layout": "token-catalog-dark",
+      "layout_group": "tooling",
+      "colors": {
+        "background": "#000000",
+        "panel": "#FFFFFF",
+        "text": "#FFFFFF",
+        "accent": "#EF2CC1"
+      },
+      "brightness": "dark",
+      "accent_family": "red",
+      "accent_mode": "color",
+      "headline": "preview",
+      "uppercase_title": false,
+      "headline_size": 12,
+      "button_radius": "soft",
+      "moods": [
+        "developer",
+        "future-facing",
+        "technical"
+      ]
+    }
+  },
+  {
+    "name": "Uber",
+    "slug": "uber",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/uber.svg",
+    "preview_url": "https://getdesign.md/design-md/uber/preview.html",
+    "status": "pass",
+    "score": 93.0,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 6,
+      "mood": 12.0
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Uber",
+      "preview_url": "https://getdesign.md/design-md/uber/preview.html",
+      "colors": {
+        "background": "#000000",
+        "panel": "#FFFFFF",
+        "text": "#C0C0C0",
+        "accent": "#F7C59F"
+      },
+      "brightness": "dark",
+      "accent_family": "orange",
+      "accent_mode": "color",
+      "layout_hint": "editorial",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "bold",
+        "brand",
+        "editorial",
+        "minimal",
+        "narrative"
+      ],
+      "excerpt": "Design System Inspired by Uber\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nComponents\n \nTokens\n \n \nGet Started\n \nDesign System\nInspired by Uber\n \nA bold, black-and-white design language built for clarity, efficiency, and confident minimalism. Every element serves a purpose.\n \n \nExplore Tokens\n \nView Source\n \n \nColor Palette\n \nStark Duality\n \n \n \n \n \nUber Black\n \n#000000\n \nPrimary CTA, headings, nav, footer\n \n \n \n \n \n \nPure White\n \n#ffffff\n \nPage background, card surface, inverse tex"
+    },
+    "svg": {
+      "layout": "editorial",
+      "layout_group": "editorial",
+      "colors": {
+        "background": "#000000",
+        "panel": "#FFFFFF",
+        "text": "#C0C0C0",
+        "accent": "#F7C59F"
+      },
+      "brightness": "dark",
+      "accent_family": "orange",
+      "accent_mode": "color",
+      "headline": "Uber",
+      "uppercase_title": false,
+      "headline_size": 70,
+      "button_radius": "soft",
+      "moods": [
+        "bold",
+        "brand",
+        "editorial",
+        "narrative"
+      ]
+    }
+  },
+  {
+    "name": "Vercel",
+    "slug": "vercel",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/vercel.svg",
+    "preview_url": "https://getdesign.md/design-md/vercel/preview.html",
+    "status": "pass",
+    "score": 96.0,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 6,
+      "mood": 15.0
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Vercel",
+      "preview_url": "https://getdesign.md/design-md/vercel/preview.html",
+      "colors": {
+        "background": "#171717",
+        "panel": "#FFFFFF",
+        "text": "#000000",
+        "accent": "#0072F5"
+      },
+      "brightness": "light",
+      "accent_family": "neutral",
+      "accent_mode": "monochrome",
+      "layout_hint": "hero-light",
+      "button_radius": "soft",
+      "uppercase_title": false,
+      "moods": [
+        "developer",
+        "minimal",
+        "precise"
+      ],
+      "excerpt": "Design System Inspired by Vercel\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \n \nStart Deploying\n \nDesign System\nInspired by Vercel\n \nA design token catalog generated from DESIGN.md. Every color, font, component, and spacing value — visualized.\n \n \nStart Deploying\n \nView Documentation\n \n \n01 / Colors\n \nColor Palette\n \nPrimary\n \n \nVercel Black\n#171717\nPrimary text, headings\n \nPure White\n#ffffff\nPage background\n \nTrue Black\n#000000\nConsole text defaul"
+    },
+    "svg": {
+      "layout": "hero-light",
+      "layout_group": "showcase",
+      "colors": {
+        "background": "#FFFFFF",
+        "panel": "#FAFAFA",
+        "text": "#111111",
+        "accent": "#111111"
+      },
+      "brightness": "light",
+      "accent_family": "neutral",
+      "accent_mode": "monochrome",
+      "headline": "Vercel",
+      "uppercase_title": false,
+      "headline_size": 64,
+      "button_radius": "pill",
+      "moods": [
+        "developer",
+        "minimal",
+        "precise"
+      ]
+    }
+  },
+  {
+    "name": "Vodafone",
+    "slug": "vodafone",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/vodafone.svg",
+    "preview_url": "https://getdesign.md/design-md/vodafone/preview.html",
+    "status": "pass",
+    "score": 96.0,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 6,
+      "mood": 15.0
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Vodafone",
+      "preview_url": "https://getdesign.md/design-md/vodafone/preview.html",
+      "colors": {
+        "background": "#FFFFFF",
+        "panel": "#F2F2F2",
+        "text": "#0F1114",
+        "accent": "#E60000"
+      },
+      "brightness": "light",
+      "accent_family": "red",
+      "accent_mode": "color",
+      "layout_hint": "poster",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "brand",
+        "editorial",
+        "narrative"
+      ],
+      "excerpt": "Design System Inspiration of Vodafone\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nComponents\n \n \nGet Started\n \n \nBrand system catalog\n \nDesign System\nInspiration of\nVodafone\n \nMonumental uppercase display, a single brand red that does the heavy lifting, and a disciplined editorial rhythm. This page is generated from the DESIGN.md extracted for Vodafone.\n \n \nExplore the system\n \nView tokens\n \n \n \nColor Palette\n \nA single brand red holds the system together, balanced"
+    },
+    "svg": {
+      "layout": "poster",
+      "layout_group": "showcase",
+      "colors": {
+        "background": "#FFFFFF",
+        "panel": "#F2F2F2",
+        "text": "#0F1114",
+        "accent": "#E60000"
+      },
+      "brightness": "light",
+      "accent_family": "red",
+      "accent_mode": "color",
+      "headline": "红色点缀，现代、清晰，整体更偏品牌感、编…",
+      "uppercase_title": false,
+      "headline_size": 22,
+      "button_radius": "soft",
+      "moods": [
+        "brand",
+        "editorial",
+        "narrative"
+      ]
+    }
+  },
+  {
+    "name": "VoltAgent",
+    "slug": "voltagent",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/voltagent.svg",
+    "preview_url": "https://getdesign.md/design-md/voltagent/preview.html",
+    "status": "pass",
+    "score": 90.0,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 6,
+      "mood": 9.0
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "VoltAgent",
+      "preview_url": "https://getdesign.md/design-md/voltagent/preview.html",
+      "colors": {
+        "background": "#050507",
+        "panel": "#101010",
+        "text": "#F0F0F0",
+        "accent": "#00D992"
+      },
+      "brightness": "dark",
+      "accent_family": "green",
+      "accent_mode": "color",
+      "layout_hint": "docs-grid",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "brand",
+        "developer",
+        "friendly",
+        "future-facing",
+        "technical"
+      ],
+      "excerpt": "Design System Inspired by VoltAgent\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nSpacing\n \nElevation\n \n \n \nGet Started\n \nDesign System\nInspired by VoltAgent\n \nAuto-generated design token catalog from DESIGN.md\n \n \nExplore Tokens\n \nView Source\n \n \n01 / Color Palette\n \nColor Palette & Roles\n \n \nPrimary\n \n \n \n \n \nEmerald Signal Green\n \n#00d992\n \nCore brand accent, glow effects, active borders\n \n \n \n \n \n \nVoltAgent Mint\n \n#2fd6a1\n \nCTA button text on dark surfaces"
+    },
+    "svg": {
+      "layout": "token-catalog-dark",
+      "layout_group": "tooling",
+      "colors": {
+        "background": "#050507",
+        "panel": "#101010",
+        "text": "#F0F0F0",
+        "accent": "#00D992"
+      },
+      "brightness": "dark",
+      "accent_family": "green",
+      "accent_mode": "color",
+      "headline": "preview",
+      "uppercase_title": false,
+      "headline_size": 12,
+      "button_radius": "soft",
+      "moods": [
+        "developer",
+        "future-facing",
+        "technical"
+      ]
+    }
+  },
+  {
+    "name": "Warp",
+    "slug": "warp",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/warp.svg",
+    "preview_url": "https://getdesign.md/design-md/warp/preview.html",
+    "status": "pass",
+    "score": 89.6,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 6,
+      "mood": 8.6
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Warp",
+      "preview_url": "https://getdesign.md/design-md/warp/preview.html",
+      "colors": {
+        "background": "#0E0E0D",
+        "panel": "#161615",
+        "text": "#454545",
+        "accent": "#C45050"
+      },
+      "brightness": "dark",
+      "accent_family": "red",
+      "accent_mode": "color",
+      "layout_hint": "editorial",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "brand",
+        "developer",
+        "editorial",
+        "friendly",
+        "minimal",
+        "precise",
+        "tooling"
+      ],
+      "excerpt": "Design System Inspired by Warp\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nElevation\n \n \n \nDownload\n \nDesign System\nInspired by Warp\n \nA visual catalog of design tokens, components, and patterns extracted from Warp's warm-dark marketing site and documented in DESIGN.md.\n \n \nExplore Tokens\n \nView Components\n \n \nColor Palette\n \nAlmost monochromatic warm grays — from warm parchment text to earth-tone dark surfaces. No bold accents.\n \n \nPrimary\n \n \n \n \n \nWarm P"
+    },
+    "svg": {
+      "layout": "editorial-cascade",
+      "layout_group": "editorial",
+      "colors": {
+        "background": "#0E0E0D",
+        "panel": "#161615",
+        "text": "#454545",
+        "accent": "#C45050"
+      },
+      "brightness": "dark",
+      "accent_family": "red",
+      "accent_mode": "color",
+      "headline": "Warp",
+      "uppercase_title": false,
+      "headline_size": 68,
+      "button_radius": "soft",
+      "moods": [
+        "developer",
+        "editorial",
+        "precise",
+        "tooling"
+      ]
+    }
+  },
+  {
+    "name": "Webflow",
+    "slug": "webflow",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/webflow.svg",
+    "preview_url": "https://getdesign.md/design-md/webflow/preview.html",
+    "status": "pass",
+    "score": 89.0,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 4,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 10,
+      "mood": 15.0
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Webflow",
+      "preview_url": "https://getdesign.md/design-md/webflow/preview.html",
+      "colors": {
+        "background": "#080808",
+        "panel": "#5A5A5A",
+        "text": "#363636",
+        "accent": "#146EF5"
+      },
+      "brightness": "dark",
+      "accent_family": "blue",
+      "accent_mode": "color",
+      "layout_hint": "creative",
+      "button_radius": "soft",
+      "uppercase_title": false,
+      "moods": [
+        "creative",
+        "expressive",
+        "tooling"
+      ],
+      "excerpt": "Design System Inspired by Webflow\n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \nColors\nTypography\nButtons\nCards\nForms\nGet started\nDesign System\nInspired by \nWebflow\nEvery color, font, and component — smarter sites start here.\nGet started — it's free\nContact sales\n01 / Colors\nColor Palette\nPrimary\nNear Black\n#080808\nWebflow Blue\n#146ef5\nBlue 400\n#3b89ff\nSecondary\nPurple\n#7a3dff\nPink\n#ed52cb\nGreen\n#00d722\nOrange\n#ff6b00\nYellow\n#ffae13\nRed\n#ee1d36\nNeutral\nGray 800\n#222222\nGray 700\n#363636\nMid Gray\n#5a5a5a\nGray 300"
+    },
+    "svg": {
+      "layout": "creative",
+      "layout_group": "editorial",
+      "colors": {
+        "background": "#F5F7FB",
+        "panel": "#FFFFFF",
+        "text": "#0F172A",
+        "accent": "#3B82F6"
+      },
+      "brightness": "light",
+      "accent_family": "blue",
+      "accent_mode": "color",
+      "headline": "Webflow",
+      "uppercase_title": false,
+      "headline_size": 62,
+      "button_radius": "soft",
+      "moods": [
+        "creative",
+        "expressive",
+        "tooling"
+      ]
+    }
+  },
+  {
+    "name": "WIRED",
+    "slug": "wired",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/wired.svg",
+    "preview_url": "https://getdesign.md/design-md/wired/preview.html",
+    "status": "pass",
+    "score": 83.0,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 2,
+      "typography_case": 5,
+      "button_radius": 1,
+      "mood": 15.0
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "WIRED",
+      "preview_url": "https://getdesign.md/design-md/wired/preview.html",
+      "colors": {
+        "background": "#F7F7F2",
+        "panel": "#FFFFFF",
+        "text": "#111111",
+        "accent": "#FF3B30"
+      },
+      "brightness": "light",
+      "accent_family": "red",
+      "accent_mode": "color",
+      "layout_hint": "editorial",
+      "button_radius": "sharp",
+      "uppercase_title": true,
+      "moods": [
+        "brand",
+        "editorial",
+        "narrative"
+      ],
+      "excerpt": "Design System Inspiration of WIRED\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nPalette\n \nType\n \nComponents\n \nLayout\n \n \nSubscribe\n \nDesign System / Editorial\n \nDesign System Inspiration of WIRED\n \nA printerly, monochrome editorial system held together by hairline rules, hard 2px borders, and four typefaces with four distinct jobs. Generated from DESIGN.md.\n \n \nExplore the System\n \nRead the Type\n \n \nSection 01 / Palette\n \nColor Palette\n \nBlack, paper white, two grays, and one blue accent. The whole site l"
+    },
+    "svg": {
+      "layout": "editorial",
+      "layout_group": "editorial",
+      "colors": {
+        "background": "#F8FAFC",
+        "panel": "#FFFFFF",
+        "text": "#111827",
+        "accent": "#3B82F6"
+      },
+      "brightness": "light",
+      "accent_family": "blue",
+      "accent_mode": "color",
+      "headline": "WIRED",
+      "uppercase_title": true,
+      "headline_size": 70,
+      "button_radius": "soft",
+      "moods": [
+        "brand",
+        "editorial",
+        "narrative"
+      ]
+    }
+  },
+  {
+    "name": "Wise",
+    "slug": "wise",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/wise.svg",
+    "preview_url": "https://getdesign.md/design-md/wise/preview.html",
+    "status": "pass",
+    "score": 96.0,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 5,
+      "button_radius": 6,
+      "mood": 15.0
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Wise",
+      "preview_url": "https://getdesign.md/design-md/wise/preview.html",
+      "colors": {
+        "background": "#F5F7FB",
+        "panel": "#FFFFFF",
+        "text": "#0F172A",
+        "accent": "#3ECF8E"
+      },
+      "brightness": "light",
+      "accent_family": "green",
+      "accent_mode": "color",
+      "layout_hint": "dashboard",
+      "button_radius": "soft",
+      "uppercase_title": false,
+      "moods": [
+        "finance",
+        "friendly",
+        "precision",
+        "trust"
+      ],
+      "excerpt": "International money transfer. Bright green accent, friendly and clear"
+    },
+    "svg": {
+      "layout": "dashboard",
+      "layout_group": "tooling",
+      "colors": {
+        "background": "#F5F7FB",
+        "panel": "#FFFFFF",
+        "text": "#0F172A",
+        "accent": "#3ECF8E"
+      },
+      "brightness": "light",
+      "accent_family": "green",
+      "accent_mode": "color",
+      "headline": "Wise",
+      "uppercase_title": false,
+      "headline_size": 64,
+      "button_radius": "pill",
+      "moods": [
+        "finance",
+        "friendly",
+        "precision",
+        "trust"
+      ]
+    }
+  },
+  {
+    "name": "xAI",
+    "slug": "x.ai",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/x.ai.svg",
+    "preview_url": "https://getdesign.md/design-md/x.ai/preview.html",
+    "status": "pass",
+    "score": 96.0,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 10,
+      "typography_case": 1,
+      "button_radius": 10,
+      "mood": 15.0
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "xAI",
+      "preview_url": "https://getdesign.md/design-md/x.ai/preview.html",
+      "colors": {
+        "background": "#F8F8F8",
+        "panel": "#FFFFFF",
+        "text": "#1F2228",
+        "accent": "#1F2228"
+      },
+      "brightness": "light",
+      "accent_family": "neutral",
+      "accent_mode": "monochrome",
+      "layout_hint": "xai-mono",
+      "button_radius": "soft",
+      "uppercase_title": false,
+      "moods": [
+        "developer",
+        "future-facing",
+        "minimal",
+        "technical"
+      ],
+      "excerpt": "Design System Inspired by xAI\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \n \nTRY GROK\n \nDesign System Inspired by xAI\n \nA design token catalog generated from DESIGN.md. Every color, font, component, and spacing value -- visualized.\n \n \nGET STARTED\n \nVIEW DOCUMENTATION\n \n \n01 / Colors\n \nColor Palette\n \nPrimary\n \n \nDark Background\n#1f2228\nPage background\n \nPure White\n#ffffff\nText, foreground\n \n \nText Opacity Scale\n \n \nText Primary\nrgba(255,255,255,1)"
+    },
+    "svg": {
+      "layout": "xai-mono",
+      "layout_group": "tooling",
+      "colors": {
+        "background": "#F8F8F8",
+        "panel": "#FFFFFF",
+        "text": "#1F2228",
+        "accent": "#1F2228"
+      },
+      "brightness": "light",
+      "accent_family": "neutral",
+      "accent_mode": "monochrome",
+      "headline": "START",
+      "uppercase_title": true,
+      "headline_size": 14,
+      "button_radius": "soft",
+      "moods": [
+        "developer",
+        "future-facing",
+        "minimal",
+        "technical"
+      ]
+    }
+  },
+  {
+    "name": "Zapier",
+    "slug": "zapier",
+    "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/zapier.svg",
+    "preview_url": "https://getdesign.md/design-md/zapier/preview.html",
+    "status": "pass",
+    "score": 84.2,
+    "breakdown": {
+      "layout": 30,
+      "brightness": 15,
+      "accent_mode": 15,
+      "accent_family": 2,
+      "typography_case": 5,
+      "button_radius": 6,
+      "mood": 11.2
+    },
+    "failures": [],
+    "repair_note": "无需修复",
+    "official": {
+      "version": "2026-04-v1",
+      "name": "Zapier",
+      "preview_url": "https://getdesign.md/design-md/zapier/preview.html",
+      "colors": {
+        "background": "#FFFDF9",
+        "panel": "#FFFEFB",
+        "text": "#2A1917",
+        "accent": "#FF5A1F"
+      },
+      "brightness": "light",
+      "accent_family": "orange",
+      "accent_mode": "color",
+      "layout_hint": "zapier-launchpad",
+      "button_radius": "pill",
+      "uppercase_title": false,
+      "moods": [
+        "brand",
+        "efficient",
+        "friendly",
+        "product"
+      ],
+      "excerpt": "Design System Inspired by Zapier\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \n \nStart Free\n \nDesign System\nInspired by Zapier\n \nA design token catalog generated from DESIGN.md. Every color, font, component, and spacing value — visualized.\n \n \nGet Started\n \nView Documentation\n \n \n01 / Colors\n \nColor Palette\n \nPrimary\n \n \nZapier Black\n#201515\nPrimary text, headings\n \nCream White\n#fffefb\nPage background\n \nOff White\n#fffdf9\nSecondary surface\n \n \nBrand"
+    },
+    "svg": {
+      "layout": "zapier-launchpad",
+      "layout_group": "tooling",
+      "colors": {
+        "background": "#FFFDF9",
+        "panel": "#FFFEFB",
+        "text": "#2A1917",
+        "accent": "#FF5A1F"
+      },
+      "brightness": "light",
+      "accent_family": "red",
+      "accent_mode": "color",
+      "headline": "Zapier",
+      "uppercase_title": false,
+      "headline_size": 74,
+      "button_radius": "soft",
+      "moods": [
+        "efficient",
+        "friendly",
+        "product"
+      ]
+    }
+  }
+]

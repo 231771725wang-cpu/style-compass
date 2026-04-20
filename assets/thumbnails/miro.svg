@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="432" viewBox="0 0 768 432" fill="none">
+  <rect width="768" height="432" rx="36" fill="#f5f7fb"/>
+  <rect x="34" y="34" width="700" height="364" rx="28" fill="#ffffff" stroke="#facc15" stroke-opacity="0.18"/>
+  <circle cx="188" cy="148" r="76" fill="#facc15" fill-opacity="0.92"/>
+  <circle cx="258" cy="148" r="58" fill="#fbda56"/>
+  <circle cx="160" cy="228" r="44" fill="#cda711"/>
+  <circle cx="236" cy="236" r="54" fill="#fce895"/>
+  <text x="410" y="102" fill="#facc15" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="2">CREATIVE TOOL</text>
+  <text x="410" y="176" fill="#0f172a" font-family="Helvetica, Arial, sans-serif" font-size="62" font-weight="800" letter-spacing="-2">Miro</text>
+  <text x="410" y="216" fill="#64748b" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="500">黄色高对比点缀，现代、清晰，整体更偏创意…</text>
+  <rect x="410" y="260" width="180" height="14" rx="7" fill="#64748b" fill-opacity="0.18"/>
+  <rect x="410" y="286" width="144" height="14" rx="7" fill="#facc15" fill-opacity="0.16"/>
+</svg>

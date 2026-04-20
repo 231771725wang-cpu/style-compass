@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="432" viewBox="0 0 768 432" fill="none">
+  <rect width="768" height="432" rx="36" fill="#0b0b0c"/>
+  <rect x="32" y="36" width="704" height="360" rx="28" fill="#141518"/>
+  <path d="M92 270C198 208 332 154 470 124C568 104 636 92 694 78V334H92V270Z" fill="#ef4444" fill-opacity="0.14"/>
+  <rect x="86" y="74" width="84" height="10" rx="5" fill="#ffffff" fill-opacity="0.12"/>
+  <rect x="86" y="94" width="66" height="8" rx="4" fill="#9ca3af" fill-opacity="0.18"/>
+  <text x="84" y="318" fill="#f5f5f5" font-family="Helvetica, Arial, sans-serif" font-size="72" font-weight="800" letter-spacing="-1">Ferrari</text>
+  <text x="84" y="352" fill="#9ca3af" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="600">红色点缀，编辑感、层级明显，整体更偏电影…</text>
+  <text x="534" y="82" fill="#ef4444" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2">CINEMATIC BRAND</text>
+</svg>

@@ -1,0 +1,125 @@
+{
+  "skill_name": "style-compass",
+  "evals": [
+    {
+      "id": 1,
+      "slug": "first-use-what-is-this",
+      "group": "首次使用与发现性",
+      "prompt": "我不想看命令，你先告诉我这个东西到底怎么用。",
+      "expected_output": "先用人话解释 skill 的用途，并自然引导用户先打开风格总览，而不是一上来堆命令或脚本细节。",
+      "files": [],
+      "review_focus": ["发现性", "术语负担", "下一步清晰度"],
+      "assertions": []
+    },
+    {
+      "id": 2,
+      "slug": "first-use-browse-only",
+      "group": "首次使用与发现性",
+      "prompt": "我只想先看看有哪些风格，不要马上推荐。",
+      "expected_output": "优先引导到 Style Gallery，说明怎么先逛总览，再决定是否进入推荐流程。",
+      "files": [],
+      "review_focus": ["发现性", "节奏控制", "是否过早进入推荐"],
+      "assertions": []
+    },
+    {
+      "id": 3,
+      "slug": "first-use-no-design-jargon",
+      "group": "首次使用与发现性",
+      "prompt": "我根本不懂设计，你别跟我讲术语。",
+      "expected_output": "用低术语密度的方式解释风格选择和总览页价值，避免把新手吓退。",
+      "files": [],
+      "review_focus": ["术语负担", "亲和度", "产品价值表达"],
+      "assertions": []
+    },
+    {
+      "id": 4,
+      "slug": "recommend-apple-with-tool-efficiency",
+      "group": "推荐质量与风格区分度",
+      "prompt": "做一个 AI 编辑器，想像 Apple 一样高级，但不能失去工具效率。",
+      "expected_output": "保留 Apple 方向，同时补出真正相邻但不重复的备选，并解释为什么不直接把工具页做薄。",
+      "files": [],
+      "review_focus": ["指定风格保留", "候选区分度", "解释说服力"],
+      "assertions": []
+    },
+    {
+      "id": 5,
+      "slug": "recommend-linear-stripe-nike",
+      "group": "推荐质量与风格区分度",
+      "prompt": "我在 Linear、Stripe、Nike 之间犹豫，给我挑 3 个方向。",
+      "expected_output": "给出 3 个清晰不同的方向，对每个方向的适配边界讲清楚，而不是同义改写。",
+      "files": [],
+      "review_focus": ["候选区分度", "风险说明", "方向收敛能力"],
+      "assertions": []
+    },
+    {
+      "id": 6,
+      "slug": "recommend-brand-heavy-enterprise-backend",
+      "group": "推荐质量与风格区分度",
+      "prompt": "做企业后台，但我想要很强的品牌感和传播感。",
+      "expected_output": "在工具效率和品牌表达之间做平衡，不要无脑推荐纯营销风格，也不要把品牌诉求压没。",
+      "files": [],
+      "review_focus": ["冲突处理", "推荐可信度", "边界感"],
+      "assertions": []
+    },
+    {
+      "id": 7,
+      "slug": "conflict-minimal-hero-dense-young-serious-b2b",
+      "group": "冲突与刁钻输入",
+      "prompt": "页面要极简、强主视觉、高密度、年轻、严肃，同时适合 B 端。",
+      "expected_output": "识别输入中的内在张力，先做归因和取舍，而不是假装所有要求都能同时满足。",
+      "files": [],
+      "review_focus": ["诚实度", "冲突拆解", "取舍说明"],
+      "assertions": []
+    },
+    {
+      "id": 8,
+      "slug": "conflict-not-cold-not-empty-not-saas",
+      "group": "冲突与刁钻输入",
+      "prompt": "不要冷，不要空，不要像常规 SaaS，但又得显得专业可信。",
+      "expected_output": "给出不是常规 SaaS 的专业风格方向，并避免用空泛形容词糊弄过去。",
+      "files": [],
+      "review_focus": ["推荐可信度", "语言具体度", "去模板感"],
+      "assertions": []
+    },
+    {
+      "id": 9,
+      "slug": "conflict-copy-apple-for-finance-dashboard",
+      "group": "冲突与刁钻输入",
+      "prompt": "我就想抄 Apple，但产品其实是个金融看板。",
+      "expected_output": "保留 Apple 作为指定方向，但要明确金融看板的效率和信任边界，并补合适备选。",
+      "files": [],
+      "review_focus": ["指定风格保留", "边界说明", "不装懂"],
+      "assertions": []
+    },
+    {
+      "id": 10,
+      "slug": "refactor-editor-missing-signals",
+      "group": "旧项目 refactor",
+      "prompt": "已有编辑器项目升级 UI，尽量保留结构，但我没有截图，仓库信号也不完整。",
+      "expected_output": "走 refactor 逻辑，但对信号不足保持诚实，不能假装已经看懂全部页面。",
+      "files": [],
+      "review_focus": ["诚实度", "置信度表达", "refactor 边界"],
+      "assertions": []
+    },
+    {
+      "id": 11,
+      "slug": "refactor-visual-only-brand-upgrade",
+      "group": "旧项目 refactor",
+      "prompt": "只允许改视觉层，不许动信息架构，但我又想大幅提升品牌感。",
+      "expected_output": "给出视觉层可做和不可做的边界，不把任务扩大成结构重构。",
+      "files": [],
+      "review_focus": ["越界风险", "改造边界", "交接价值"],
+      "assertions": []
+    },
+    {
+      "id": 12,
+      "slug": "refactor-messy-backoffice-dont-pretend",
+      "group": "旧项目 refactor",
+      "prompt": "旧后台很乱，帮我先定风格，但别假装你懂我全部页面。",
+      "expected_output": "在推荐与诚实之间保持平衡，清楚表达推断来源、风险和下一步补信号建议。",
+      "files": [],
+      "review_focus": ["诚实度", "风险说明", "下一步建议"],
+      "assertions": []
+    }
+  ]
+}

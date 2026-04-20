@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="432" viewBox="0 0 768 432" fill="none">
+  <rect width="768" height="432" rx="36" fill="#0d1117"/>
+  <rect x="28" y="28" width="712" height="376" rx="30" fill="#0d1117" stroke="#7c6cff" stroke-opacity="0.08"/>
+  <text x="52" y="74" fill="#7c6cff" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2">FINTECH SYSTEM</text>
+  <text x="52" y="156" fill="#f5f7fb" font-family="Helvetica, Arial, sans-serif" font-size="64" font-weight="800">Revolut</text>
+  <text x="52" y="204" fill="#94a3b8" font-family="Helvetica, Arial, sans-serif" font-size="24" font-weight="500">深色基底，现代、清晰，整体更偏金融秩序感…</text>
+  <rect x="52" y="248" width="188" height="18" rx="9" fill="#94a3b8" fill-opacity="0.20"/>
+  <rect x="52" y="282" width="236" height="18" rx="9" fill="#94a3b8" fill-opacity="0.16"/>
+  <rect x="52" y="330" width="124" height="40" rx="20" fill="#7c6cff" fill-opacity="0.18"/>
+  <text x="84" y="356" fill="#f5f7fb" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700">Preview</text>
+  <rect x="452" y="28" width="288" height="196" rx="28" fill="#1b1f24" stroke="#7c6cff" stroke-opacity="0.24"/>
+  <rect x="470" y="48" width="74" height="156" rx="18" fill="#7c6cff" fill-opacity="0.10"/>
+  <rect x="558" y="48" width="164" height="48" rx="16" fill="#7c6cff" fill-opacity="0.14"/>
+  <rect x="558" y="106" width="164" height="48" rx="16" fill="#ffffff" fill-opacity="0.06"/>
+  <rect x="558" y="164" width="76" height="40" rx="14" fill="#ffffff" fill-opacity="0.05"/>
+  <rect x="646" y="164" width="76" height="40" rx="14" fill="#7c6cff" fill-opacity="0.18"/>
+</svg>

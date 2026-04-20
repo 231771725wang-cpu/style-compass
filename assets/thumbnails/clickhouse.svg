@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="432" viewBox="0 0 768 432" fill="none">
+  <rect width="768" height="432" rx="36" fill="#000000"/>
+  <rect x="34" y="34" width="700" height="364" rx="28" fill="#141414" stroke="#FAFF69" stroke-opacity="0.10"/>
+  <text x="62" y="90" fill="#FAFF69" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="2">INFRA SYSTEM</text>
+  <text x="62" y="150" fill="#151515" font-family="Helvetica, Arial, sans-serif" font-size="56" font-weight="800" letter-spacing="-1">ClickHouse</text>
+  <rect x="62" y="184" width="198" height="12" rx="6" fill="#64748b" fill-opacity="0.22"/>
+  <rect x="62" y="226" width="174" height="136" rx="20" fill="#ffffff" fill-opacity="0.88"/>
+  <rect x="248" y="226" width="174" height="136" rx="20" fill="#fcffbb" fill-opacity="0.28"/>
+  <rect x="434" y="226" width="114" height="136" rx="20" fill="#ffffff" fill-opacity="0.70"/>
+  <rect x="560" y="226" width="114" height="136" rx="20" fill="#ffffff" fill-opacity="0.48"/>
+</svg>

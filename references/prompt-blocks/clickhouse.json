@@ -1,0 +1,54 @@
+{
+  "name": "ClickHouse",
+  "style_keywords": [
+    "黄色高对比点缀",
+    "现代、清晰",
+    "信息密度高",
+    "结构化",
+    "技术感",
+    "系统秩序",
+    "控制台气质"
+  ],
+  "negative_constraints": [
+    "不要只复制表层颜色、圆角或大图，忽略布局逻辑与模块节奏。",
+    "不要让所有模块同权重，必须保留明确主次。",
+    "常偏文档或控制台语气，品牌情绪不一定够强。",
+    "不要因为追求风格把高密度页面做得难以扫描。",
+    "不要为了品牌表达牺牲高频操作效率和信息扫描速度。"
+  ],
+  "layout_bias": [
+    "优先稳定骨架与高频操作路径，模块秩序比装饰更重要。",
+    "用对齐、间距、边界和容器层级建立结构，不靠堆特效解决问题。",
+    "优先面板结构和稳定分区，让用户快速定位状态、操作和内容。",
+    "高密度页面要保留扫描效率，不盲目为了风格而拉大留白。"
+  ],
+  "component_tone": {
+    "button": "按钮应直接清楚，强调动作反馈，不要像营销贴片。",
+    "card": "卡片围绕 ClickHouse 的表面气质组织边界、留白和信息层级。",
+    "input": "输入控件优先可读、可扫视和状态清楚。",
+    "navigation": "导航像工具骨架，稳定、安静、连续。",
+    "panel": "面板强调秩序、层级和状态一致性，不做浮夸装饰。"
+  },
+  "image_direction": "图像从简，优先界面截图、代码片段或抽象技术图形，不靠大插画取胜。",
+  "best_for_pages": [
+    "dashboard",
+    "docs",
+    "developer-tool"
+  ],
+  "avoid_for_pages": [
+    "brand-site"
+  ],
+  "page_prompt_examples": {
+    "dashboard": "按 ClickHouse 风格实现 dashboard 页面，优先保证扫描效率、状态清晰和模块秩序，风格表达放在表面语言与层级里。",
+    "docs": "按 ClickHouse 风格实现 docs 页面，优先保证扫描效率、状态清晰和模块秩序，风格表达放在表面语言与层级里。",
+    "developer-tool": "按 ClickHouse 风格实现 developer-tool 页面，优先保证扫描效率、状态清晰和模块秩序，风格表达放在表面语言与层级里。"
+  },
+  "component_prompt_examples": {
+    "button": "把按钮做成 ClickHouse 风格，保留明确主次、状态反馈和点击目标。",
+    "card": "把卡片做成 ClickHouse 风格，重点控制边界、留白和信息层级。",
+    "panel": "把面板做成 ClickHouse 风格，强调容器秩序，不要无规则叠阴影。",
+    "navigation": "把导航做成 ClickHouse 风格，让结构稳定清楚，不要抢走主内容注意力。",
+    "form": "把表单做成 ClickHouse 风格，优先可读性、状态反馈和输入效率。"
+  },
+  "handoff_template": "按 ClickHouse 风格重构界面，优先保证工具效率、层级秩序和模块一致性。"
+}

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="432" viewBox="0 0 768 432" fill="none">
+  <rect width="768" height="432" rx="36" fill="#ffffff"/>
+  <rect x="32" y="32" width="704" height="368" rx="28" fill="#f1eef9" stroke="#6c5ce7" stroke-opacity="0.12"/>
+  <rect x="56" y="56" width="656" height="54" rx="18" fill="#ffffff" fill-opacity="0.96"/>
+  <text x="84" y="90" fill="#6c5ce7" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="800" letter-spacing="2">ERROR STACK</text>
+  <rect x="594" y="68" width="88" height="28" rx="14" fill="#6c5ce7" fill-opacity="0.12"/>
+  <text x="616" y="87" fill="#1f1633" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="700">TRACES</text>
+  <text x="80" y="180" fill="#1f1633" fill-opacity="0.18" font-family="Helvetica, Arial, sans-serif" font-size="72" font-weight="900" letter-spacing="-2">Sentry</text>
+  <rect x="82" y="206" width="180" height="12" rx="6" fill="#746a8f" fill-opacity="0.18"/>
+  <rect x="82" y="230" width="148" height="12" rx="6" fill="#746a8f" fill-opacity="0.12"/>
+  <rect x="82" y="280" width="154" height="40" rx="14" fill="#6c5ce7" fill-opacity="0.10"/>
+  <text x="114" y="306" fill="#1f1633" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700">Resolve</text>
+  <rect x="82" y="338" width="134" height="26" rx="13" fill="#6c5ce7" fill-opacity="0.08"/>
+  <text x="108" y="356" fill="#6c5ce7" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="800">Issue Feed</text>
+  <rect x="404" y="146" width="276" height="216" rx="24" fill="#ffffff" fill-opacity="0.98"/>
+  <rect x="426" y="170" width="232" height="26" rx="13" fill="#6c5ce7" fill-opacity="0.08"/>
+  <rect x="426" y="212" width="102" height="108" rx="18" fill="#6c5ce7" fill-opacity="0.16"/>
+  <rect x="540" y="212" width="118" height="48" rx="18" fill="#1f1633" fill-opacity="0.08"/>
+  <rect x="540" y="272" width="118" height="48" rx="18" fill="#1f1633" fill-opacity="0.05"/>
+  <rect x="426" y="332" width="82" height="12" rx="6" fill="#746a8f" fill-opacity="0.22"/>
+  <rect x="520" y="332" width="64" height="12" rx="6" fill="#6c5ce7" fill-opacity="0.24"/>
+  <rect x="596" y="332" width="62" height="12" rx="6" fill="#746a8f" fill-opacity="0.14"/>
+</svg>
