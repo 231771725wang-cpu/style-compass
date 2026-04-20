@@ -1,13 +1,13 @@
 # 风格罗盘（style-compass）
 
-先看风格总览，再做 UI 风格决策。
+先看风格总览，再让风格罗盘为你的项目推荐 3 种更合适的 UI 风格，并继续生成可交接的设计或改版草稿。
 
 ![风格总览 / Style Gallery GitHub 预览](assets/gallery/previews/style-gallery-github-preview.png)
 
 **Open the gallery first:** [风格总览 / Style Gallery](assets/gallery/style-gallery.html)  
 **Then read the skill spec:** [SKILL.md](SKILL.md)
 
-这是一个把“帮我挑风格”变成可浏览、可比较、可交接流程的 skill。它不是只给一句主观建议，而是先让你看总览、收敛方向，再给 3 个更合适的候选风格，最后继续生成 `DESIGN.md` 或 `UI-REFACTOR.md` 草稿。
+这是一个把“帮我挑风格”变成可浏览、可比较、可交接流程的 skill。它不只是带你逛总览页，而是先帮你横向看方向，再根据项目类型、页面语境、仓库线索或改版约束，推荐 3 个更合适的候选风格，解释为什么适合、哪里有风险，最后继续生成 `DESIGN.md` 或 `UI-REFACTOR.md` 草稿。
 
 ## 先看总览
 

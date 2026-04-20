@@ -1,4 +1,4 @@
 interface:
   display_name: "Beta 风格罗盘"
-  short_description: "先浏览风格总览，再推荐三种 UI 风格，并支持已有项目 UI 改造方案"
-  default_prompt: "Use $style-compass to help the user browse the local Style Gallery first when they are still exploring directions, then recommend three suitable UI styles for the project or redesign, explain the tradeoffs, and draft a refactor direction when needed."
+  short_description: "先看风格总览，再为新项目或旧项目改版推荐 3 种 UI 风格，解释取舍并生成可交接草稿"
+  default_prompt: "Use $style-compass to help the user browse the local Style Gallery first when they are still exploring directions, then recommend three suitable UI styles for a new project or UI redesign, explain why each direction fits or conflicts with the project, and draft a handoff-ready DESIGN.md or UI-REFACTOR.md when needed."
