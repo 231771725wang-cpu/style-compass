@@ -47,11 +47,21 @@ HIGH_FREQUENCY_NAMES = {
     "WIRED",
 }
 
+PREFER_OFFICIAL_THUMBNAILS = {
+    "cal",
+    "framer",
+    "mongodb",
+    "runwayml",
+    "sanity",
+    "theverge",
+    "together.ai",
+}
+
 UI_STRINGS = {
     "zh": {
-        "page_title": "风格总览 / Style Gallery",
+        "page_title": "风格总览（Style Gallery）",
         "eyebrow": "STYLE GALLERY",
-        "hero_title": "风格总览 / Style Gallery",
+        "hero_title": "风格总览（Style Gallery）",
         "hero_description": "先看总览，再做 UI 风格决策。这里不是附带页面，而是风格罗盘（style-compass）给新用户准备的第一个入口。",
         "hero_stats": [
             "{count} 个风格",
@@ -61,7 +71,7 @@ UI_STRINGS = {
         "guide_title": "第一次来先看这里",
         "guide_copy": "如果你还没定方向、只想先横向比较，或者不知道该从 Apple、Stripe、Linear 还是别的路线开始，先逛这个总览页。",
         "guide_path_label": "总览页路径",
-        "guide_path_value": "assets/gallery/style-gallery.html",
+        "guide_path_value": "风格总览（Style Gallery）.html",
         "guide_steps": [
             "先看热门总榜，快速建立参照物",
             "再刷分类热门，缩小到同类风格",
@@ -119,9 +129,9 @@ UI_STRINGS = {
         "category_top_label": "分类 Top 3",
     },
     "en": {
-        "page_title": "Style Gallery",
+        "page_title": "Style Gallery (风格总览)",
         "eyebrow": "STYLE GALLERY",
-        "hero_title": "Style Gallery",
+        "hero_title": "Style Gallery (风格总览)",
         "hero_description": "Browse the gallery first, then make a UI style decision. This is the first-time entry for Style Compass, not just an extra page.",
         "hero_stats": [
             "{count} styles",
@@ -131,7 +141,7 @@ UI_STRINGS = {
         "guide_title": "Start Here",
         "guide_copy": "If you are still exploring, comparing directions, or do not know whether to begin with Apple, Stripe, Linear, or something else, start with this gallery.",
         "guide_path_label": "Gallery path",
-        "guide_path_value": "assets/gallery/style-gallery.html",
+        "guide_path_value": "风格总览（Style Gallery）.html",
         "guide_steps": [
             "Start with the global hot list to build a baseline",
             "Use category hot lists to compare within the same cluster",
@@ -204,6 +214,7 @@ def hot_sort_key(item: dict) -> tuple[float, int, str]:
 def build_payload(manifest: list[dict], catalog_by_slug: dict[str, dict], gallery_dir: Path) -> dict:
     items: list[dict] = []
     manifest_by_slug = {entry["slug"]: entry for entry in manifest}
+    official_dir = gallery_dir.parent / "official-thumbnails"
 
     for slug, detail in catalog_by_slug.items():
         manifest_item = manifest_by_slug.get(slug, {})
@@ -211,11 +222,19 @@ def build_payload(manifest: list[dict], catalog_by_slug: dict[str, dict], galler
         labels = LAYOUT_LABELS.get(layout_key, {"zh": layout_key, "en": layout_key.title()})
         audit_status = manifest_item.get("audit_status", "needs_audit")
         svg_thumb_path = relative_thumb_path(gallery_dir, manifest_item.get("path"))
-        official_thumb_path = relative_thumb_path(gallery_dir, manifest_item.get("official_thumb_path"))
+        manifest_official_path = manifest_item.get("official_thumb_path")
+        if manifest_official_path:
+            official_thumb_path = relative_thumb_path(gallery_dir, manifest_official_path)
+        else:
+            official_file = official_dir / f"{slug}.png"
+            official_thumb_path = official_file.relative_to(gallery_dir.parent).as_posix() if official_file.exists() else None
         thumb_source = manifest_item.get("thumb_source")
         display_thumb_path = None
 
-        if svg_thumb_path:
+        if slug in PREFER_OFFICIAL_THUMBNAILS and official_thumb_path:
+            thumb_source = "official"
+            display_thumb_path = official_thumb_path
+        elif svg_thumb_path:
             thumb_source = "svg"
             display_thumb_path = svg_thumb_path
         elif thumb_source == "official" and official_thumb_path:
@@ -1940,11 +1959,106 @@ def build_html(payload: dict) -> str:
 """
 
 
+def build_entry_stub(title: str, target: str, heading: str, copy: str) -> str:
+    return f"""<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta http-equiv="refresh" content="0; url={target}" />
+    <style>
+      :root {{
+        color-scheme: dark;
+      }}
+      body {{
+        margin: 0;
+        min-height: 100vh;
+        display: grid;
+        place-items: center;
+        background: #050505;
+        color: #f5f5ef;
+        font-family: "Helvetica Neue", Arial, sans-serif;
+      }}
+      .shell {{
+        width: min(720px, calc(100vw - 32px));
+        padding: 28px;
+        border-radius: 18px;
+        border: 1px solid rgba(255, 255, 255, 0.1);
+        background: #0d0d0d;
+      }}
+      .eyebrow {{
+        display: inline-block;
+        margin-bottom: 14px;
+        padding: 8px 10px;
+        border-radius: 999px;
+        background: rgba(255, 255, 255, 0.06);
+        font-size: 12px;
+        font-weight: 800;
+        letter-spacing: 0.12em;
+        text-transform: uppercase;
+      }}
+      h1 {{
+        margin: 0 0 10px;
+        font-size: clamp(30px, 5vw, 52px);
+        line-height: 0.95;
+        letter-spacing: -0.05em;
+      }}
+      p {{
+        margin: 0 0 18px;
+        color: #b7b7b0;
+        line-height: 1.6;
+      }}
+      a {{
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 42px;
+        padding: 0 16px;
+        border-radius: 999px;
+        background: #f5f5ef;
+        color: #050505;
+        text-decoration: none;
+        font-size: 13px;
+        font-weight: 800;
+      }}
+      code {{
+        display: inline-block;
+        margin-top: 14px;
+        color: #d9d9d2;
+        background: rgba(255, 255, 255, 0.05);
+        border: 1px solid rgba(255, 255, 255, 0.08);
+        border-radius: 10px;
+        padding: 8px 10px;
+        font-size: 12px;
+      }}
+    </style>
+  </head>
+  <body>
+    <main class="shell">
+      <div class="eyebrow">STYLE GALLERY</div>
+      <h1>{heading}</h1>
+      <p>{copy}</p>
+      <a href="{target}">打开总览（Open Gallery）</a>
+      <br />
+      <code>{target}</code>
+    </main>
+    <script>
+      window.location.replace("{target}");
+    </script>
+  </body>
+</html>
+"""
+
+
 def main() -> int:
     skill_dir = Path(__file__).resolve().parents[1]
     references_dir = skill_dir / "references"
     manifest_path = skill_dir / "assets" / "thumbnails" / "manifest.json"
     gallery_dir = skill_dir / "assets" / "gallery"
+    root_entry_path = skill_dir / "风格总览（Style Gallery）.html"
+    entry_dir = skill_dir / "风格总览（Style Gallery）"
+    entry_dir.mkdir(parents=True, exist_ok=True)
     gallery_dir.mkdir(parents=True, exist_ok=True)
 
     catalog = json.loads((references_dir / "style-catalog.json").read_text(encoding="utf-8"))
@@ -1954,6 +2068,24 @@ def main() -> int:
     payload = build_payload(manifest, catalog_by_slug, gallery_dir)
     output_path = gallery_dir / "style-gallery.html"
     output_path.write_text(build_html(payload), encoding="utf-8")
+    root_entry_path.write_text(
+        build_entry_stub(
+            title="风格总览（Style Gallery）",
+            target="assets/gallery/style-gallery.html",
+            heading="风格总览（Style Gallery）",
+            copy="这是风格罗盘（style-compass）的外层入口文件。默认先打开这里，再进入完整可筛选总览。",
+        ),
+        encoding="utf-8",
+    )
+    (entry_dir / "index.html").write_text(
+        build_entry_stub(
+            title="风格总览（Style Gallery）",
+            target="../assets/gallery/style-gallery.html",
+            heading="风格总览（Style Gallery）",
+            copy="这是风格罗盘（style-compass）的独立总览文件夹入口。若从文件夹进入，会自动跳转到完整总览页。",
+        ),
+        encoding="utf-8",
+    )
     print(f"Wrote gallery to {output_path}")
     return 0
 

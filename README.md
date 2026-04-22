@@ -1,97 +1,201 @@
-# 风格罗盘（style-compass）
+# [English](#english) · [中文](#chinese)
 
-先看风格总览，再让风格罗盘为你的项目推荐 3 种更合适的 UI 风格，并继续生成可交接的设计或改版草稿。
+<a id="english"></a>
 
-![风格总览 / Style Gallery GitHub 预览](assets/gallery/previews/style-gallery-github-preview.png)
+<div align="center">
+  <h1>Style Compass</h1>
+  <p><em>"Browse first. Choose with conviction. Hand off a direction that can actually be built."</em></p>
+  <p>
+    <a href="./LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-5b5b5b"></a>
+    <img alt="Install: Local Git" src="https://img.shields.io/badge/Install-Local_Git-2f2f2f">
+    <img alt="Codex Skill" src="https://img.shields.io/badge/Codex-Skill-111111">
+    <img alt="Bilingual README" src="https://img.shields.io/badge/README-Bilingual-1f6feb">
+    <a href="https://github.com/VoltAgent/awesome-design-md"><img alt="Built on awesome-design-md" src="https://img.shields.io/badge/Built_on-awesome--design--md-7a3cff"></a>
+  </p>
+</div>
 
-**Open the gallery first:** [风格总览 / Style Gallery](assets/gallery/style-gallery.html)  
-**Then read the skill spec:** [SKILL.md](SKILL.md)
+> **Style Compass** turns "help me pick a UI style" into a usable workflow: browse references, narrow to 1-3 directions, then hand off a recommendation that can be implemented.
 
-这是一个把“帮我挑风格”变成可浏览、可比较、可交接流程的 skill。它不只是带你逛总览页，而是先帮你横向看方向，再根据项目类型、页面语境、仓库线索或改版约束，推荐 3 个更合适的候选风格，解释为什么适合、哪里有风险，最后继续生成 `DESIGN.md` 或 `UI-REFACTOR.md` 草稿。
+Built on the public style references from [getdesign.md](https://getdesign.md) and [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md), this repo adds a local gallery, Chinese-first entrypoints, thumbnail audits, and a recommendation workflow for Codex.
 
-## 先看总览
+If you are still deciding between Apple, Stripe, Linear, Nike, Vercel, or other directions, this is the entrypoint before you start redesigning screens or writing handoff docs.
 
-如果你是第一次接触这个 skill，或者你现在只知道“想要更高级一点 / 更像 Apple 一点 / 更像 Linear 一点”，先打开总览页最省时间。
+## Preview
 
-- 本地打开：直接打开 `assets/gallery/style-gallery.html`
-- 在线发布：将 `assets/gallery/style-gallery.html` 托管到 GitHub Pages、Vercel 或任意静态托管，即可得到在线入口
-- GitHub 内预览：先看上面的 hero 截图，再决定要不要本地打开完整交互页
+![Style Compass GitHub Preview](assets/gallery/previews/style-gallery-github-preview.png)
+
+## Install
+
+Clone this repository directly into your Codex global skills directory:
+
+```bash
+git clone https://github.com/231771725wang-cpu/style-compass.git ~/.codex/skills/style-compass
+```
+
+Update an existing local copy:
+
+```bash
+git -C ~/.codex/skills/style-compass pull --ff-only
+```
+
+If the directory already exists and you want a clean reinstall:
+
+```bash
+mv ~/.codex/skills/style-compass ~/.codex/skills/style-compass.bak
+git clone https://github.com/231771725wang-cpu/style-compass.git ~/.codex/skills/style-compass
+```
+
+Use it from the Codex global skill library at `~/.codex/skills`.
 
 ## What You Get
 
-- 68 个风格可横向浏览
-- 热门总榜与分类热门榜
-- 中文默认浏览，并可一键切换 English
-- 搜索、分类、布局筛选
-- 每张卡可直达官方预览页
-- 风格选定后可继续生成 `DESIGN.md` 或 `UI-REFACTOR.md`
+- A browsable local style gallery with `68` references
+- Global favorites and category-specific hot lists
+- Chinese-first browsing with English toggle
+- Search, category filters, and layout filters
+- Direct links to official preview pages
+- Style recommendation output that can continue into `DESIGN.md` or `UI-REFACTOR.md`
 
-## Showcase
+## How It Works
 
-### 1. GitHub Hero / 分享预览
+1. Start from the local gallery instead of guessing blindly.
+2. Build a baseline from the hot list, then compare within a category.
+3. Narrow down to `1-3` candidates using search and layout/category filters.
+4. Run Style Compass against your project context, screenshots, or repo clues.
+5. Turn the selected direction into a handoff draft that an implementation skill can use.
 
-![GitHub Hero Preview](assets/gallery/previews/style-gallery-github-preview.png)
+## Sections
 
-这张图适合放 README 首屏、仓库介绍页和后续社交分享物料。
+[Preview](#preview) · [Install](#install) · [What You Get](#what-you-get) · [How It Works](#how-it-works) · [Gallery Files](#gallery-files) · [Upstream Credit](#upstream-credit)
 
-### 2. 卡片密度与信息结构
+## Gallery Files
 
-![Style Gallery Card Density](assets/gallery/previews/style-gallery-preview-fixed.png)
+- Main entry: [`风格总览（Style Gallery）.html`](风格总览（Style%20Gallery）.html)
+- Folder entry: [`风格总览（Style Gallery）/`](风格总览（Style%20Gallery）/)
+- Built gallery page: [`assets/gallery/style-gallery.html`](assets/gallery/style-gallery.html)
+- Skill spec: [`SKILL.md`](SKILL.md)
 
-这一张更适合说明“这个 skill 不是只有一句推荐”，而是有成体系的卡片信息和官方预览跳转。
+## Additional Preview
 
-### 3. 总览组织能力
+### Live Hot List
 
-![Style Gallery Structure](assets/gallery/previews/style-gallery-structured.png)
+![Style Gallery Live Hot List](assets/gallery/previews/style-gallery-live-hot.png)
 
-这一张适合强调总览页本身是一个可浏览入口，而不是脚本附带页面。
+The top row should match the real gallery experience, including Apple, Stripe, Linear, and Vercel.
 
-## Live Preview Setup
+### Live Category Favorites
 
-- 本地体验：直接打开 `assets/gallery/style-gallery.html`
-- GitHub Pages：把 `assets/gallery/style-gallery.html` 作为静态页发布
-- Vercel：把 `assets/gallery/` 目录当静态站点托管
+![Style Gallery Live Category Favorites](assets/gallery/previews/style-gallery-live-category.png)
 
-如果你后面补上真实在线链接，建议把它直接放到 README 顶部 CTA 下方。
+This is where the gallery shifts from a single ranking into cluster-based comparison.
 
-## Recommended First-Time Flow
+## Upstream Credit
 
-1. 先打开“风格总览 / Style Gallery”，快速逛热门总榜和分类热门。
-2. 从总览里收敛出 1 到 3 个候选风格，再让风格罗盘（style-compass）正式推荐。
-3. 选定风格后，继续生成 `DESIGN.md` 或 `UI-REFACTOR.md`，再交给实现型 skill 落地。
+- Original project site: [getdesign.md](https://getdesign.md)
+- Upstream repository: [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
+- This repository adds:
+  - local gallery entrypoints
+  - Chinese-first navigation
+  - thumbnail audit and correction workflow
+  - recommendation and handoff flow for Codex
 
-## 适合谁先用
+---
 
-- 还没定 UI 风格，想先横向看方向的人
-- 在 Apple / Stripe / Linear / Nike / Vercel 等风格之间犹豫的人
-- 已有项目想升级 UI，但不想直接跳进实现的人
-- 希望先定方向，再把结果交接给前端实现的人
+<a id="chinese"></a>
 
-## Core Outputs
+<div align="center">
+  <h1>风格罗盘</h1>
+  <p><em>“先看方向，再做决定，再交付一份真的能落地的风格建议。”</em></p>
+  <p>
+    <a href="./LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-5b5b5b"></a>
+    <img alt="安装方式：本地 Git" src="https://img.shields.io/badge/安装方式-Local_Git-2f2f2f">
+    <img alt="Codex Skill" src="https://img.shields.io/badge/Codex-Skill-111111">
+    <img alt="双语 README" src="https://img.shields.io/badge/README-双语-1f6feb">
+    <a href="https://github.com/VoltAgent/awesome-design-md"><img alt="基于 awesome-design-md" src="https://img.shields.io/badge/基于-awesome--design--md-7a3cff"></a>
+  </p>
+</div>
 
-- 3 张风格卡：最推荐、次推荐、对照项
-- 风格适配理由、风险提示、官方预览链接
-- `DESIGN.md` 初稿
-- `UI-REFACTOR.md` 初稿
-- 结构化 handoff prompt
+> **风格罗盘（style-compass）** 不是单纯给你一堆风格卡，而是把“帮我挑 UI 风格”这件事做成一个可浏览、可比较、可交接的工作流。
 
-## Repo Entrypoints
+这个仓库基于 [getdesign.md](https://getdesign.md) 与 [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) 的公开风格资料，补上了本地总览页、中文入口、缩略图审计，以及适合 Codex 使用的推荐与 handoff 流程。
 
-- 总览页：[`assets/gallery/style-gallery.html`](assets/gallery/style-gallery.html)
-- Skill 规范：[`SKILL.md`](SKILL.md)
-- 总览页构建脚本：[`scripts/build_style_gallery.py`](scripts/build_style_gallery.py)
-- GitHub 预览图生成脚本：[`scripts/build_github_preview.py`](scripts/build_github_preview.py)
+如果你还在 Apple、Stripe、Linear、Nike、Vercel 这些路线之间摇摆，正确顺序不是直接开改，而是先用它建立参照，再收敛方向。
 
-## Pre-release Red Team
+## 效果
 
-开源前的极限红队测试资产已经放进仓库：
+![风格罗盘 GitHub 预览](assets/gallery/previews/style-gallery-github-preview.png)
 
-- 用例集：[`evals/evals.json`](evals/evals.json)
-- 评审清单：[`evals/red-team-checklist.md`](evals/red-team-checklist.md)
-- 工作区脚手架：[`scripts/scaffold_red_team_workspace.py`](scripts/scaffold_red_team_workspace.py)
+## 安装
 
-生成第一轮工作区：
+直接把仓库 clone 到 Codex 全局技能目录：
 
 ```bash
-python3 scripts/scaffold_red_team_workspace.py --iteration iteration-1
+git clone https://github.com/231771725wang-cpu/style-compass.git ~/.codex/skills/style-compass
 ```
+
+已有本地副本时，更新方式：
+
+```bash
+git -C ~/.codex/skills/style-compass pull --ff-only
+```
+
+如果目录已存在、想重新装一份干净版本：
+
+```bash
+mv ~/.codex/skills/style-compass ~/.codex/skills/style-compass.bak
+git clone https://github.com/231771725wang-cpu/style-compass.git ~/.codex/skills/style-compass
+```
+
+默认使用场景是 Codex 全局技能库：`~/.codex/skills`
+
+## 你会得到什么
+
+- 一个可浏览的本地风格总览，当前含 `68` 个风格参考
+- 热门总榜 + 分类热门，两种进入方式
+- 中文优先浏览，并可切换英文
+- 名称搜索、分类筛选、布局筛选
+- 每张卡都能直达官方预览页
+- 收敛完方向后，可继续产出 `DESIGN.md` 或 `UI-REFACTOR.md`
+
+## 核心工作方式
+
+1. 先从总览页建立参照物，而不是盲猜。
+2. 先看热门总榜，再进入同类分类横向比较。
+3. 用搜索、分类和布局筛选，把候选收敛到 `1-3` 个。
+4. 再结合项目上下文、页面截图或仓库线索运行风格推荐。
+5. 最后把选中的方向变成可交接给实现技能的 handoff 草稿。
+
+## 快速导航
+
+[效果](#效果) · [安装](#安装) · [你会得到什么](#你会得到什么) · [核心工作方式](#核心工作方式) · [总览入口](#总览入口) · [上游来源](#上游来源)
+
+## 总览入口
+
+- 主入口：[`风格总览（Style Gallery）.html`](风格总览（Style%20Gallery）.html)
+- 文件夹入口：[`风格总览（Style Gallery）/`](风格总览（Style%20Gallery）/)
+- 实际构建页：[`assets/gallery/style-gallery.html`](assets/gallery/style-gallery.html)
+- 技能规范：[`SKILL.md`](SKILL.md)
+
+## 补充预览
+
+### 热门总榜实时截图
+
+![风格总览热门总榜](assets/gallery/previews/style-gallery-live-hot.png)
+
+这里看到的第一排卡片，应该和你本地打开总览时看到的 Apple、Stripe、Linear、Vercel 保持一致。
+
+### 分类热门实时截图
+
+![风格总览分类热门](assets/gallery/previews/style-gallery-live-category.png)
+
+这一段负责把“总榜参照”变成“同类比较”，适合继续缩小风格范围。
+
+## 上游来源
+
+- 原项目站点：[getdesign.md](https://getdesign.md)
+- 上游仓库：[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
+- 当前仓库额外补上的部分：
+  - 本地风格总览入口
+  - 中文优先导航
+  - 缩略图真实性审计与修正
+  - 面向 Codex 的推荐与交接流程

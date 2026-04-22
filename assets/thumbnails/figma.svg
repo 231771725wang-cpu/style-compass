@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="768" height="432" viewBox="0 0 768 432" fill="none">
-  <rect width="768" height="432" rx="36" fill="#f4f1ff"/>
-  <rect x="34" y="34" width="700" height="364" rx="28" fill="#ffffff" stroke="#7b61ff" stroke-opacity="0.18"/>
-  <circle cx="188" cy="148" r="76" fill="#7b61ff" fill-opacity="0.92"/>
-  <circle cx="258" cy="148" r="58" fill="#9f8dff"/>
-  <circle cx="160" cy="228" r="44" fill="#644fd1"/>
-  <circle cx="236" cy="236" r="54" fill="#c3b7ff"/>
-  <text x="410" y="102" fill="#7b61ff" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="2">CREATIVE TOOL</text>
-  <text x="410" y="176" fill="#13111c" font-family="Helvetica, Arial, sans-serif" font-size="62" font-weight="800" letter-spacing="-2">Figma</text>
+  <rect width="768" height="432" rx="36" fill="#000000"/>
+  <rect x="34" y="34" width="700" height="364" rx="28" fill="#FFFFFF" stroke="#0ACF83" stroke-opacity="0.18"/>
+  <circle cx="188" cy="148" r="76" fill="#0ACF83" fill-opacity="0.92"/>
+  <circle cx="258" cy="148" r="58" fill="#4edca5"/>
+  <circle cx="160" cy="228" r="44" fill="#08a96b"/>
+  <circle cx="236" cy="236" r="54" fill="#90e9c7"/>
+  <text x="410" y="102" fill="#0ACF83" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="2">CREATIVE TOOL</text>
+  <text x="410" y="176" fill="#FFFFFF" font-family="Helvetica, Arial, sans-serif" font-size="62" font-weight="800" letter-spacing="-2">Figma</text>
   <text x="410" y="216" fill="#6f6785" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="500">多彩、专业、协作与创作并存</text>
   <rect x="410" y="260" width="180" height="14" rx="7" fill="#6f6785" fill-opacity="0.18"/>
-  <rect x="410" y="286" width="144" height="14" rx="7" fill="#7b61ff" fill-opacity="0.16"/>
+  <rect x="410" y="286" width="144" height="14" rx="7" fill="#0ACF83" fill-opacity="0.16"/>
 </svg>

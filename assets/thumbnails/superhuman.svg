@@ -1,14 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="768" height="432" viewBox="0 0 768 432" fill="none">
-  <rect width="768" height="432" rx="36" fill="#0d1117"/>
-  <rect x="28" y="28" width="712" height="376" rx="28" fill="#1b1f24" stroke="#7c6cff" stroke-opacity="0.16"/>
-  <rect x="48" y="48" width="88" height="336" rx="20" fill="#ffffff" fill-opacity="0.04"/>
-  <rect x="152" y="48" width="366" height="336" rx="20" fill="#0d1117" fill-opacity="0.42"/>
-  <rect x="170" y="70" width="330" height="20" rx="10" fill="#ffffff" fill-opacity="0.05"/>
-  <rect x="170" y="114" width="214" height="14" rx="7" fill="#7c6cff" fill-opacity="0.20"/>
-  <rect x="170" y="142" width="188" height="10" rx="5" fill="#94a3b8" fill-opacity="0.20"/>
-  <rect x="170" y="162" width="164" height="10" rx="5" fill="#94a3b8" fill-opacity="0.16"/>
-  <rect x="540" y="48" width="180" height="148" rx="20" fill="#ffffff" fill-opacity="0.05"/>
-  <text x="540" y="238" fill="#7c6cff" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="2">DEVELOPER SYSTEM</text>
-  <text x="540" y="298" fill="#f5f7fb" font-family="Helvetica, Arial, sans-serif" font-size="48" font-weight="800" letter-spacing="-1">Superhuman</text>
-  <text x="540" y="328" fill="#94a3b8" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="500">紫色或紫色渐变，高级、克制，整体更偏开发…</text>
+  <rect width="768" height="432" rx="36" fill="#292827"/>
+  <rect x="28" y="28" width="712" height="376" rx="30" fill="#292827" stroke="#1B1938" stroke-opacity="0.08"/>
+  <text x="52" y="74" fill="#1B1938" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2">DEVELOPER SYSTEM</text>
+  <text x="52" y="156" fill="#F5F4F2" font-family="Helvetica, Arial, sans-serif" font-size="64" font-weight="800">Superhuman</text>
+  <text x="52" y="204" fill="#94a3b8" font-family="Helvetica, Arial, sans-serif" font-size="24" font-weight="500">紫色或紫色渐变，高级、克制，整体更偏开发…</text>
+  <rect x="52" y="248" width="188" height="18" rx="9" fill="#94a3b8" fill-opacity="0.20"/>
+  <rect x="52" y="282" width="236" height="18" rx="9" fill="#94a3b8" fill-opacity="0.16"/>
+  <rect x="52" y="330" width="124" height="40" rx="14" fill="#1B1938" fill-opacity="0.18"/>
+  <text x="84" y="356" fill="#F5F4F2" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700">Preview</text>
+  <rect x="452" y="28" width="288" height="196" rx="28" fill="#FFFFFF" stroke="#1B1938" stroke-opacity="0.24"/>
+  <rect x="470" y="48" width="74" height="156" rx="18" fill="#1B1938" fill-opacity="0.10"/>
+  <rect x="558" y="48" width="164" height="48" rx="16" fill="#1B1938" fill-opacity="0.14"/>
+  <rect x="558" y="106" width="164" height="48" rx="16" fill="#ffffff" fill-opacity="0.06"/>
+  <rect x="558" y="164" width="76" height="40" rx="14" fill="#ffffff" fill-opacity="0.05"/>
+  <rect x="646" y="164" width="76" height="40" rx="14" fill="#1B1938" fill-opacity="0.18"/>
 </svg>

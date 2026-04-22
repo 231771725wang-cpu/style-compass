@@ -5,15 +5,15 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/airbnb.svg",
     "preview_url": "https://getdesign.md/design-md/airbnb/preview.html",
     "status": "pass",
-    "score": 80.5,
+    "score": 100.0,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
-      "accent_family": 2,
+      "accent_family": 10,
       "typography_case": 5,
-      "button_radius": 6,
-      "mood": 7.5
+      "button_radius": 10,
+      "mood": 15.0
     },
     "failures": [],
     "repair_note": "无需修复",
@@ -44,21 +44,21 @@
       "layout": "commerce-split",
       "layout_group": "showcase",
       "colors": {
-        "background": "#F5F7FB",
-        "panel": "#FFFFFF",
-        "text": "#0F172A",
-        "accent": "#6B7280"
+        "background": "#FFFFFF",
+        "panel": "#222222",
+        "text": "#E8E8E8",
+        "accent": "#FF385C"
       },
       "brightness": "light",
-      "accent_family": "blue",
+      "accent_family": "red",
       "accent_mode": "color",
-      "headline": "适合需要亲和力和转化力并存的页面。",
+      "headline": "Airbnb",
       "uppercase_title": false,
-      "headline_size": 22,
-      "button_radius": "soft",
+      "headline_size": 0,
+      "button_radius": "pill",
       "moods": [
         "conversion",
-        "heroic",
+        "friendly",
         "product"
       ]
     }
@@ -119,9 +119,9 @@
       "brightness": "dark",
       "accent_family": "blue",
       "accent_mode": "color",
-      "headline": "红色点缀，亲和、清晰，整体更偏创意表达、…",
+      "headline": "Airtable",
       "uppercase_title": false,
-      "headline_size": 22,
+      "headline_size": 0,
       "button_radius": "soft",
       "moods": [
         "creative",
@@ -137,7 +137,7 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/apple.svg",
     "preview_url": "https://getdesign.md/design-md/apple/preview.html",
     "status": "pass",
-    "score": 92.5,
+    "score": 100.0,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
@@ -145,7 +145,7 @@
       "accent_family": 10,
       "typography_case": 5,
       "button_radius": 10,
-      "mood": 7.5
+      "mood": 15.0
     },
     "failures": [],
     "repair_note": "无需修复",
@@ -178,7 +178,7 @@
       "colors": {
         "background": "#F5F5F7",
         "panel": "#FFFFFF",
-        "text": "#111111",
+        "text": "#1D1D1F",
         "accent": "#0071E3"
       },
       "brightness": "light",
@@ -186,12 +186,12 @@
       "accent_mode": "color",
       "headline": "Apple",
       "uppercase_title": false,
-      "headline_size": 64,
+      "headline_size": 0,
       "button_radius": "pill",
       "moods": [
-        "cinematic",
         "minimal",
-        "premium"
+        "premium",
+        "product"
       ]
     }
   },
@@ -250,9 +250,9 @@
       "brightness": "light",
       "accent_family": "neutral",
       "accent_mode": "monochrome",
-      "headline": "黑白单色，大胆、强标题，整体更偏大胆张扬…",
+      "headline": "Binance",
       "uppercase_title": false,
-      "headline_size": 22,
+      "headline_size": 0,
       "button_radius": "soft",
       "moods": [
         "bold",
@@ -268,13 +268,13 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/bmw.svg",
     "preview_url": "https://getdesign.md/design-md/bmw/preview.html",
     "status": "pass",
-    "score": 81.2,
+    "score": 96.2,
     "breakdown": {
       "layout": 30,
-      "brightness": 4,
+      "brightness": 15,
       "accent_mode": 15,
       "accent_family": 10,
-      "typography_case": 1,
+      "typography_case": 5,
       "button_radius": 10,
       "mood": 11.2
     },
@@ -290,7 +290,7 @@
         "text": "#F0F0F0",
         "accent": "#1C69D4"
       },
-      "brightness": "dark",
+      "brightness": "light",
       "accent_family": "neutral",
       "accent_mode": "monochrome",
       "layout_hint": "luxury-banner",
@@ -310,14 +310,14 @@
         "background": "#FFFFFF",
         "panel": "#262626",
         "text": "#F0F0F0",
-        "accent": "#F5F5F5"
+        "accent": "#111111"
       },
       "brightness": "light",
       "accent_family": "neutral",
       "accent_mode": "monochrome",
-      "headline": "适合想做高级品牌展示的页面。",
-      "uppercase_title": false,
-      "headline_size": 20,
+      "headline": "BMW",
+      "uppercase_title": true,
+      "headline_size": 0,
       "button_radius": "soft",
       "moods": [
         "brand",
@@ -333,14 +333,14 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/bugatti.svg",
     "preview_url": "https://getdesign.md/design-md/bugatti/preview.html",
     "status": "pass",
-    "score": 93.5,
+    "score": 97.5,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
       "accent_family": 10,
       "typography_case": 5,
-      "button_radius": 6,
+      "button_radius": 10,
       "mood": 12.5
     },
     "failures": [],
@@ -372,7 +372,7 @@
       "excerpt": "Design System Inspiration of Bugatti\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nPalette\n \nType\n \nComponents\n \nLayout\n \n \nStore\n \nDesign System / Couture Automotive\n \nDesign System Inspiration of Bugatti\n \nCinematic negative space, monumental display typography, and a monochrome palette that refuses to compete with the product. Generated from DESIGN.md.\n \n \nExplore the System\n \nRead the Dossier\n \n \nSection 01 / Palette\n \nColor Palette\n \nVelvet black canvas, showroom white type, one gray for the quiet mom"
     },
     "svg": {
-      "layout": "editorial-cascade",
+      "layout": "editorial",
       "layout_group": "editorial",
       "colors": {
         "background": "#000000",
@@ -385,8 +385,8 @@
       "accent_mode": "monochrome",
       "headline": "Bugatti",
       "uppercase_title": false,
-      "headline_size": 68,
-      "button_radius": "soft",
+      "headline_size": 0,
+      "button_radius": "pill",
       "moods": [
         "brand",
         "cinematic",
@@ -453,7 +453,7 @@
       "accent_mode": "monochrome",
       "headline": "Cal.com",
       "uppercase_title": false,
-      "headline_size": 64,
+      "headline_size": 0,
       "button_radius": "pill",
       "moods": [
         "efficient",
@@ -468,15 +468,15 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/claude.svg",
     "preview_url": "https://getdesign.md/design-md/claude/preview.html",
     "status": "pass",
-    "score": 87.0,
+    "score": 96.2,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
       "accent_family": 10,
       "typography_case": 5,
-      "button_radius": 6,
-      "mood": 6.0
+      "button_radius": 10,
+      "mood": 11.2
     },
     "failures": [],
     "repair_note": "无需修复",
@@ -490,7 +490,7 @@
         "text": "#C2C0B6",
         "accent": "#C96442"
       },
-      "brightness": "light",
+      "brightness": "dark",
       "accent_family": "orange",
       "accent_mode": "color",
       "layout_hint": "editorial",
@@ -507,23 +507,23 @@
       "layout": "editorial",
       "layout_group": "editorial",
       "colors": {
-        "background": "#F5F7FB",
-        "panel": "#FFFFFF",
-        "text": "#0F172A",
-        "accent": "#C9735B"
+        "background": "#141413",
+        "panel": "#F5F4ED",
+        "text": "#C2C0B6",
+        "accent": "#C96442"
       },
-      "brightness": "light",
+      "brightness": "dark",
       "accent_family": "orange",
       "accent_mode": "color",
       "headline": "Claude",
       "uppercase_title": false,
-      "headline_size": 70,
-      "button_radius": "soft",
+      "headline_size": 0,
+      "button_radius": "pill",
       "moods": [
         "developer",
         "editorial",
-        "future-facing",
-        "technical"
+        "friendly",
+        "future-facing"
       ]
     }
   },
@@ -533,14 +533,14 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/clay.svg",
     "preview_url": "https://getdesign.md/design-md/clay/preview.html",
     "status": "pass",
-    "score": 85.0,
+    "score": 97.0,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
-      "accent_family": 2,
+      "accent_family": 10,
       "typography_case": 5,
-      "button_radius": 6,
+      "button_radius": 10,
       "mood": 12.0
     },
     "failures": [],
@@ -571,21 +571,21 @@
       "excerpt": "Design System Inspired by Clay\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \n \nGet Started\n \nDesign System\nInspired by Clay\n \nA design token catalog generated from DESIGN.md. Every color, font, component, and spacing value — visualized.\n \n \nStart Building\n \nDocumentation\n \n \n01 / Colors\n \nColor Palette\n \nPrimary\n \n \nClay Black\n#000000\nText, headings\n \nPure White\n#ffffff\nCards, buttons\n \nWarm Cream\n#faf9f7\nPage background\n \n \nSwatch Palette\n \n \nMatch"
     },
     "svg": {
-      "layout": "token-catalog-warm",
+      "layout": "docs-grid",
       "layout_group": "tooling",
       "colors": {
         "background": "#FAF9F7",
         "panel": "#000000",
         "text": "#F0F8FF",
-        "accent": "#FF5A1F"
+        "accent": "#DAD4C8"
       },
       "brightness": "light",
-      "accent_family": "red",
+      "accent_family": "orange",
       "accent_mode": "color",
-      "headline": "preview",
+      "headline": "Clay",
       "uppercase_title": false,
-      "headline_size": 12,
-      "button_radius": "soft",
+      "headline_size": 0,
+      "button_radius": "pill",
       "moods": [
         "creative",
         "expressive",
@@ -600,14 +600,14 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/clickhouse.svg",
     "preview_url": "https://getdesign.md/design-md/clickhouse/preview.html",
     "status": "pass",
-    "score": 92.2,
+    "score": 96.2,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
       "accent_family": 10,
       "typography_case": 5,
-      "button_radius": 6,
+      "button_radius": 10,
       "mood": 11.2
     },
     "failures": [],
@@ -650,8 +650,8 @@
       "accent_mode": "color",
       "headline": "ClickHouse",
       "uppercase_title": false,
-      "headline_size": 56,
-      "button_radius": "soft",
+      "headline_size": 0,
+      "button_radius": "pill",
       "moods": [
         "dense",
         "structured",
@@ -665,14 +665,14 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/cohere.svg",
     "preview_url": "https://getdesign.md/design-md/cohere/preview.html",
     "status": "pass",
-    "score": 85.0,
+    "score": 100.0,
     "breakdown": {
       "layout": 30,
-      "brightness": 4,
+      "brightness": 15,
       "accent_mode": 15,
       "accent_family": 10,
       "typography_case": 5,
-      "button_radius": 6,
+      "button_radius": 10,
       "mood": 15.0
     },
     "failures": [],
@@ -705,18 +705,18 @@
       "layout": "ai-capsule",
       "layout_group": "editorial",
       "colors": {
-        "background": "#F5F7FB",
-        "panel": "#FFFFFF",
-        "text": "#0F172A",
-        "accent": "#6B7280"
+        "background": "#000000",
+        "panel": "#212121",
+        "text": "#1863DC",
+        "accent": "#1863DC"
       },
-      "brightness": "light",
+      "brightness": "dark",
       "accent_family": "blue",
       "accent_mode": "color",
       "headline": "Cohere",
       "uppercase_title": false,
-      "headline_size": 68,
-      "button_radius": "soft",
+      "headline_size": 0,
+      "button_radius": "pill",
       "moods": [
         "developer",
         "future-facing",
@@ -731,14 +731,14 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/coinbase.svg",
     "preview_url": "https://getdesign.md/design-md/coinbase/preview.html",
     "status": "pass",
-    "score": 81.2,
+    "score": 96.2,
     "breakdown": {
       "layout": 30,
-      "brightness": 4,
+      "brightness": 15,
       "accent_mode": 15,
       "accent_family": 10,
       "typography_case": 5,
-      "button_radius": 6,
+      "button_radius": 10,
       "mood": 11.2
     },
     "failures": [],
@@ -771,18 +771,18 @@
       "layout": "commerce-split",
       "layout_group": "showcase",
       "colors": {
-        "background": "#F5F7FB",
-        "panel": "#FFFFFF",
-        "text": "#0F172A",
-        "accent": "#3B82F6"
+        "background": "#0A0B0D",
+        "panel": "#EEF0F3",
+        "text": "#282B31",
+        "accent": "#0052FF"
       },
-      "brightness": "light",
+      "brightness": "dark",
       "accent_family": "blue",
       "accent_mode": "color",
-      "headline": "蓝色点缀，精准、清爽，整体更偏金融秩序感…",
+      "headline": "Coinbase",
       "uppercase_title": false,
-      "headline_size": 22,
-      "button_radius": "soft",
+      "headline_size": 0,
+      "button_radius": "pill",
       "moods": [
         "finance",
         "precision",
@@ -796,14 +796,14 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/composio.svg",
     "preview_url": "https://getdesign.md/design-md/composio/preview.html",
     "status": "pass",
-    "score": 92.2,
+    "score": 96.2,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
       "accent_family": 10,
       "typography_case": 5,
-      "button_radius": 6,
+      "button_radius": 10,
       "mood": 11.2
     },
     "failures": [],
@@ -846,8 +846,8 @@
       "accent_mode": "color",
       "headline": "Composio",
       "uppercase_title": false,
-      "headline_size": 56,
-      "button_radius": "soft",
+      "headline_size": 0,
+      "button_radius": "pill",
       "moods": [
         "dense",
         "structured",
@@ -861,15 +861,15 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/cursor.svg",
     "preview_url": "https://getdesign.md/design-md/cursor/preview.html",
     "status": "pass",
-    "score": 87.0,
+    "score": 100.0,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
       "accent_family": 10,
       "typography_case": 5,
-      "button_radius": 6,
-      "mood": 6.0
+      "button_radius": 10,
+      "mood": 15.0
     },
     "failures": [],
     "repair_note": "无需修复",
@@ -900,22 +900,21 @@
       "layout": "dashboard",
       "layout_group": "tooling",
       "colors": {
-        "background": "#0D1018",
-        "panel": "#141826",
-        "text": "#EFF2FF",
-        "accent": "#5A7CFF"
+        "background": "#26251E",
+        "panel": "#F2F1ED",
+        "text": "#000000",
+        "accent": "#F54E00"
       },
       "brightness": "dark",
-      "accent_family": "blue",
+      "accent_family": "red",
       "accent_mode": "color",
       "headline": "Cursor",
       "uppercase_title": false,
-      "headline_size": 64,
-      "button_radius": "pill",
+      "headline_size": 0,
+      "button_radius": "soft",
       "moods": [
         "developer",
-        "gradient",
-        "precise",
+        "future-facing",
         "tooling"
       ]
     }
@@ -926,14 +925,14 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/elevenlabs.svg",
     "preview_url": "https://getdesign.md/design-md/elevenlabs/preview.html",
     "status": "pass",
-    "score": 91.7,
+    "score": 95.7,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
       "accent_family": 10,
       "typography_case": 5,
-      "button_radius": 6,
+      "button_radius": 10,
       "mood": 10.7
     },
     "failures": [],
@@ -978,8 +977,8 @@
       "accent_mode": "color",
       "headline": "ElevenLabs",
       "uppercase_title": false,
-      "headline_size": 62,
-      "button_radius": "soft",
+      "headline_size": 0,
+      "button_radius": "pill",
       "moods": [
         "brand",
         "cinematic",
@@ -996,14 +995,14 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/expo.svg",
     "preview_url": "https://getdesign.md/design-md/expo/preview.html",
     "status": "pass",
-    "score": 72.2,
+    "score": 96.2,
     "breakdown": {
-      "layout": 18,
+      "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
-      "accent_family": 2,
+      "accent_family": 10,
       "typography_case": 5,
-      "button_radius": 6,
+      "button_radius": 10,
       "mood": 11.2
     },
     "failures": [],
@@ -1033,21 +1032,21 @@
       "excerpt": "Design System Inspired by Expo\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nSpacing\n \nElevation\n \n All Systems Operational\n \n \n \nSign Up\n \nDesign System\nInspired by Expo\n \nAuto-generated design token catalog from DESIGN.md\n \n \nExplore Tokens\n \nView Source\n \n \n01 / Color Palette\n \nColor Palette & Roles\n \n \nPrimary\n \n \nExpo Black\n#000000\nPrimary headlines, CTA buttons, brand anchor\n \nNear Black\n#1c2024\nBody text, softer than pure black for reading\n \n \n \n \nSecondary &"
     },
     "svg": {
-      "layout": "editor-workbench",
+      "layout": "docs-grid",
       "layout_group": "tooling",
       "colors": {
-        "background": "#0D1117",
-        "panel": "#1B1F24",
-        "text": "#F5F7FB",
-        "accent": "#7C6CFF"
+        "background": "#000000",
+        "panel": "#1C2024",
+        "text": "#F2F2F2",
+        "accent": "#0D74CE"
       },
       "brightness": "dark",
-      "accent_family": "purple",
+      "accent_family": "blue",
       "accent_mode": "color",
       "headline": "Expo",
       "uppercase_title": false,
-      "headline_size": 48,
-      "button_radius": "soft",
+      "headline_size": 0,
+      "button_radius": "pill",
       "moods": [
         "developer",
         "precise",
@@ -1061,10 +1060,10 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/ferrari.svg",
     "preview_url": "https://getdesign.md/design-md/ferrari/preview.html",
     "status": "pass",
-    "score": 74.5,
+    "score": 97.5,
     "breakdown": {
-      "layout": 18,
-      "brightness": 4,
+      "layout": 30,
+      "brightness": 15,
       "accent_mode": 15,
       "accent_family": 10,
       "typography_case": 5,
@@ -1100,20 +1099,20 @@
       "excerpt": "Design System Inspired by Ferrari\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \n \n \nExplore\n \nDesign System Inspired by Ferrari\n \nDesign System Inspired by Ferrari\n \nA visual reference generated from DESIGN.md — every color, type rule, and component token documented\n \nPrecision Engineering Meets Editorial Design\n \n \nSubscribe\n \nConfigure\n \n \nColor Palette\n \nEvery color extracted from Ferrari's design system with semantic names, hex values, and funct"
     },
     "svg": {
-      "layout": "luxury-banner",
+      "layout": "poster",
       "layout_group": "showcase",
       "colors": {
-        "background": "#0B0B0C",
-        "panel": "#141518",
+        "background": "#FFFFFF",
+        "panel": "#000000",
         "text": "#F5F5F5",
-        "accent": "#EF4444"
+        "accent": "#DA291C"
       },
-      "brightness": "dark",
+      "brightness": "light",
       "accent_family": "red",
       "accent_mode": "color",
-      "headline": "红色点缀，编辑感、层级明显，整体更偏电影…",
+      "headline": "Ferrari",
       "uppercase_title": false,
-      "headline_size": 20,
+      "headline_size": 0,
       "button_radius": "soft",
       "moods": [
         "brand",
@@ -1130,7 +1129,7 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/figma.svg",
     "preview_url": "https://getdesign.md/design-md/figma/preview.html",
     "status": "pass",
-    "score": 88.0,
+    "score": 100.0,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
@@ -1138,7 +1137,7 @@
       "accent_family": 10,
       "typography_case": 5,
       "button_radius": 10,
-      "mood": 3.0
+      "mood": 15.0
     },
     "failures": [],
     "repair_note": "无需修复",
@@ -1152,8 +1151,8 @@
         "text": "#FFFFFF",
         "accent": "#0ACF83"
       },
-      "brightness": "light",
-      "accent_family": "purple",
+      "brightness": "dark",
+      "accent_family": "green",
       "accent_mode": "color",
       "layout_hint": "creative",
       "button_radius": "soft",
@@ -1169,22 +1168,22 @@
       "layout": "creative",
       "layout_group": "editorial",
       "colors": {
-        "background": "#F4F1FF",
+        "background": "#000000",
         "panel": "#FFFFFF",
-        "text": "#13111C",
-        "accent": "#7B61FF"
+        "text": "#FFFFFF",
+        "accent": "#0ACF83"
       },
-      "brightness": "light",
-      "accent_family": "purple",
+      "brightness": "dark",
+      "accent_family": "green",
       "accent_mode": "color",
       "headline": "Figma",
       "uppercase_title": false,
-      "headline_size": 62,
+      "headline_size": 0,
       "button_radius": "soft",
       "moods": [
         "creative",
-        "playful",
-        "tooling"
+        "expressive",
+        "product"
       ]
     }
   },
@@ -1194,14 +1193,14 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/framer.svg",
     "preview_url": "https://getdesign.md/design-md/framer/preview.html",
     "status": "pass",
-    "score": 77.6,
+    "score": 93.6,
     "breakdown": {
-      "layout": 18,
+      "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
       "accent_family": 10,
       "typography_case": 5,
-      "button_radius": 6,
+      "button_radius": 10,
       "mood": 8.6
     },
     "failures": [],
@@ -1234,21 +1233,21 @@
       "excerpt": "Design System Inspired by Framer\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nElevation\n \n \n \nGet Started\n \nDesign System\nInspired by Framer\n \nA complete visual catalog of design tokens, components, and patterns extracted from Framer's marketing site and documented in DESIGN.md.\n \n \nExplore Tokens\n \nView Components\n \n \nColor Palette\n \nEvery color from Framer's dark-first identity — pure black void, electric blue accent, and frosted white surfaces.\n \n \nPrimar"
     },
     "svg": {
-      "layout": "editor-workbench",
+      "layout": "docs-grid",
       "layout_group": "tooling",
       "colors": {
-        "background": "#0D1117",
-        "panel": "#1B1F24",
-        "text": "#F5F7FB",
-        "accent": "#3B82F6"
+        "background": "#000000",
+        "panel": "#FFFFFF",
+        "text": "#090909",
+        "accent": "#0099FF"
       },
       "brightness": "dark",
       "accent_family": "blue",
       "accent_mode": "color",
       "headline": "Framer",
       "uppercase_title": false,
-      "headline_size": 48,
-      "button_radius": "soft",
+      "headline_size": 0,
+      "button_radius": "pill",
       "moods": [
         "bold",
         "creative",
@@ -1263,14 +1262,14 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/hashicorp.svg",
     "preview_url": "https://getdesign.md/design-md/hashicorp/preview.html",
     "status": "pass",
-    "score": 88.5,
+    "score": 92.5,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
       "accent_family": 10,
       "typography_case": 5,
-      "button_radius": 6,
+      "button_radius": 10,
       "mood": 7.5
     },
     "failures": [],
@@ -1315,8 +1314,8 @@
       "accent_mode": "color",
       "headline": "HashiCorp",
       "uppercase_title": false,
-      "headline_size": 56,
-      "button_radius": "soft",
+      "headline_size": 0,
+      "button_radius": "pill",
       "moods": [
         "dense",
         "structured",
@@ -1330,13 +1329,13 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/ibm.svg",
     "preview_url": "https://getdesign.md/design-md/ibm/preview.html",
     "status": "pass",
-    "score": 96.0,
+    "score": 100.0,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
       "accent_family": 10,
-      "typography_case": 1,
+      "typography_case": 5,
       "button_radius": 10,
       "mood": 15.0
     },
@@ -1366,7 +1365,7 @@
       "excerpt": "Design System Inspired by IBM\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \n \nGet started\n \n \nDesign System Inspired by IBM\n \nA design token catalog generated from DESIGN.md. Every color, font, component, and spacing value from the Carbon Design System — visualized.\n \n \nExplore tokens\n \nView documentation\n \n \n \n01 / Colors\n \nColor Palette\n \nPrimary\n \n \nBlue 60\n#0f62fe\nPrimary interactive\n \nWhite\n#ffffff\nPage background\n \nGray 100\n#161616\nPrimary tex"
     },
     "svg": {
-      "layout": "token-catalog-light",
+      "layout": "docs-grid",
       "layout_group": "tooling",
       "colors": {
         "background": "#FFFFFF",
@@ -1377,9 +1376,9 @@
       "brightness": "light",
       "accent_family": "purple",
       "accent_mode": "color",
-      "headline": "preview",
-      "uppercase_title": false,
-      "headline_size": 12,
+      "headline": "IBM",
+      "uppercase_title": true,
+      "headline_size": 0,
       "button_radius": "soft",
       "moods": [
         "brand",
@@ -1394,14 +1393,14 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/intercom.svg",
     "preview_url": "https://getdesign.md/design-md/intercom/preview.html",
     "status": "pass",
-    "score": 84.2,
+    "score": 96.2,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
-      "accent_family": 2,
+      "accent_family": 10,
       "typography_case": 5,
-      "button_radius": 6,
+      "button_radius": 10,
       "mood": 11.2
     },
     "failures": [],
@@ -1434,18 +1433,18 @@
       "layout": "dashboard",
       "layout_group": "tooling",
       "colors": {
-        "background": "#F5F7FB",
-        "panel": "#FFFFFF",
-        "text": "#0F172A",
-        "accent": "#3B82F6"
+        "background": "#FAF9F6",
+        "panel": "#111111",
+        "text": "#D3CEC6",
+        "accent": "#FF5600"
       },
       "brightness": "light",
-      "accent_family": "blue",
+      "accent_family": "orange",
       "accent_mode": "color",
       "headline": "Intercom",
       "uppercase_title": false,
-      "headline_size": 64,
-      "button_radius": "pill",
+      "headline_size": 0,
+      "button_radius": "soft",
       "moods": [
         "efficient",
         "friendly",
@@ -1499,17 +1498,17 @@
       "layout": "dashboard",
       "layout_group": "tooling",
       "colors": {
-        "background": "#0D1117",
-        "panel": "#1B1F24",
-        "text": "#F5F7FB",
-        "accent": "#7C6CFF"
+        "background": "#101114",
+        "panel": "#DEDEE5",
+        "text": "#DEDEE5",
+        "accent": "#7132F5"
       },
       "brightness": "dark",
       "accent_family": "purple",
       "accent_mode": "color",
       "headline": "Kraken",
       "uppercase_title": false,
-      "headline_size": 64,
+      "headline_size": 0,
       "button_radius": "pill",
       "moods": [
         "finance",
@@ -1562,7 +1561,7 @@
       "excerpt": "Design System Inspired by Lamborghini\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nModels\n \nMotorsport\n \nOwnership\n \nDiscover\n \n \n \nConfigure\n \nDesign System Inspired by Lamborghini\n \nA visual catalog generated from DESIGN.md — darkness, gold, and uncompromising angles.\n \n \nDiscover More\n \nView Models\n \n \nColor Palette\n \nMonochrome darkness punctuated by Lamborghini Gold. The only chromatic color in the system.\n \nPrimary\n \n \nLamborghini Gold\n#FFC000\nPrimary CTA accent\n \nPure White\n#FFFFFF\nText, logo, nav"
     },
     "svg": {
-      "layout": "editorial-cascade",
+      "layout": "editorial",
       "layout_group": "editorial",
       "colors": {
         "background": "#FFFFFF",
@@ -1575,7 +1574,7 @@
       "accent_mode": "monochrome",
       "headline": "Lamborghini",
       "uppercase_title": false,
-      "headline_size": 68,
+      "headline_size": 0,
       "button_radius": "soft",
       "moods": [
         "brand",
@@ -1592,15 +1591,15 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/linear.app.svg",
     "preview_url": "https://getdesign.md/design-md/linear.app/preview.html",
     "status": "pass",
-    "score": 88.5,
+    "score": 100.0,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
       "accent_family": 10,
       "typography_case": 5,
-      "button_radius": 6,
-      "mood": 7.5
+      "button_radius": 10,
+      "mood": 15.0
     },
     "failures": [],
     "repair_note": "无需修复",
@@ -1628,23 +1627,23 @@
       "excerpt": "Design System Inspired by Linear\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \n \nStart Building\n \nDesign System\nInspired by Linear\n \nA design token catalog generated from DESIGN.md. Every color, font, component, and spacing value — visualized.\n \n \nStart Building\n \nView Documentation\n \n \n01 / Colors\n \nColor Palette\n \nBackground Surfaces\n \n \nMarketing Black\n#08090a\nHero backgrounds\n \nPanel Dark\n#0f1011\nSidebar, panels\n \nLevel 3\n#191a1b\nElevated surfac"
     },
     "svg": {
-      "layout": "dashboard",
+      "layout": "dashboard-slab",
       "layout_group": "tooling",
       "colors": {
-        "background": "#0B0C10",
-        "panel": "#151826",
-        "text": "#F4F7FF",
-        "accent": "#7C6CFF"
+        "background": "#F7F8F8",
+        "panel": "#FFFFFF",
+        "text": "#3E3E44",
+        "accent": "#5E6AD2"
       },
-      "brightness": "dark",
+      "brightness": "light",
       "accent_family": "purple",
       "accent_mode": "color",
       "headline": "Linear",
       "uppercase_title": false,
-      "headline_size": 64,
-      "button_radius": "pill",
+      "headline_size": 0,
+      "button_radius": "soft",
       "moods": [
-        "minimal",
+        "developer",
         "precise",
         "tooling"
       ]
@@ -1656,14 +1655,14 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/lovable.svg",
     "preview_url": "https://getdesign.md/design-md/lovable/preview.html",
     "status": "pass",
-    "score": 92.2,
+    "score": 96.2,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
       "accent_family": 10,
       "typography_case": 5,
-      "button_radius": 6,
+      "button_radius": 10,
       "mood": 11.2
     },
     "failures": [],
@@ -1697,7 +1696,7 @@
       "excerpt": "Design System Inspired by Lovable\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \n \nStart Building\n \nDesign System\nInspired by Lovable\n \nA design token catalog generated from DESIGN.md. Every color, font, component, and spacing value — visualized.\n \n \nStart Building\n \nView Documentation\n \n \n01 / Colors\n \nColor Palette\n \nPrimary\n \n \nCream\n#f7f4ed\nPage background\n \nCharcoal\n#1c1c1c\nPrimary text, headings\n \nOff-White\n#fcfbf8\nButton text on dark\n \n \nNeutr"
     },
     "svg": {
-      "layout": "dashboard-slab",
+      "layout": "dashboard",
       "layout_group": "tooling",
       "colors": {
         "background": "#F7F4ED",
@@ -1710,8 +1709,8 @@
       "accent_mode": "color",
       "headline": "Lovable",
       "uppercase_title": false,
-      "headline_size": 64,
-      "button_radius": "soft",
+      "headline_size": 0,
+      "button_radius": "pill",
       "moods": [
         "developer",
         "friendly",
@@ -1728,14 +1727,14 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/mastercard.svg",
     "preview_url": "https://getdesign.md/design-md/mastercard/preview.html",
     "status": "pass",
-    "score": 91.0,
+    "score": 95.0,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
       "accent_family": 10,
       "typography_case": 5,
-      "button_radius": 6,
+      "button_radius": 10,
       "mood": 10.0
     },
     "failures": [],
@@ -1767,7 +1766,7 @@
       "excerpt": "Design System Inspiration of Mastercard\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nPalette\n \nTypography\n \nButtons\n \nCards\n \nElevation\n \n \nGet Started\n \n \n \n \nDesign System Catalog\n \nDesign System Inspiration of Mastercard\n \nA complete, token-level catalog generated from \nDESIGN.md\n. Every color, type scale, button, card, and radius below is rendered using the same values documented for downstream agents.\n \n \nExplore palette\n \nView typography\n \n \n \nSection 01\n \nColor Palette\n \nSix role groups built on a"
     },
     "svg": {
-      "layout": "editorial-cascade",
+      "layout": "editorial",
       "layout_group": "editorial",
       "colors": {
         "background": "#F3F0EE",
@@ -1780,8 +1779,8 @@
       "accent_mode": "color",
       "headline": "Mastercard",
       "uppercase_title": false,
-      "headline_size": 68,
-      "button_radius": "soft",
+      "headline_size": 0,
+      "button_radius": "pill",
       "moods": [
         "editorial",
         "finance",
@@ -1796,14 +1795,14 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/meta.svg",
     "preview_url": "https://getdesign.md/design-md/meta/preview.html",
     "status": "pass",
-    "score": 93.0,
+    "score": 97.0,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
       "accent_family": 10,
       "typography_case": 5,
-      "button_radius": 6,
+      "button_radius": 10,
       "mood": 12.0
     },
     "failures": [],
@@ -1847,8 +1846,8 @@
       "accent_mode": "color",
       "headline": "Meta",
       "uppercase_title": false,
-      "headline_size": 62,
-      "button_radius": "soft",
+      "headline_size": 0,
+      "button_radius": "pill",
       "moods": [
         "conversion",
         "creative",
@@ -1863,14 +1862,14 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/minimax.svg",
     "preview_url": "https://getdesign.md/design-md/minimax/preview.html",
     "status": "pass",
-    "score": 88.5,
+    "score": 92.5,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
       "accent_family": 10,
       "typography_case": 5,
-      "button_radius": 6,
+      "button_radius": 10,
       "mood": 7.5
     },
     "failures": [],
@@ -1904,7 +1903,7 @@
       "excerpt": "Design System Inspired by MiniMax\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \n \nGet Started\n \nDesign System\nInspired by MiniMax\n \nA clean, approachable design language that bridges consumer-friendly appeal with technical credibility through white-space-driven layouts and colorful product accents.\n \n \nGet Started\n \nView Documentation\n \n \n1. Color Palette\n \nMiniMax uses a white-dominant foundation with a blue brand spectrum and colorful product card"
     },
     "svg": {
-      "layout": "token-catalog-dark",
+      "layout": "docs-grid",
       "layout_group": "tooling",
       "colors": {
         "background": "#222222",
@@ -1915,10 +1914,10 @@
       "brightness": "dark",
       "accent_family": "blue",
       "accent_mode": "color",
-      "headline": "preview",
+      "headline": "Minimax",
       "uppercase_title": false,
-      "headline_size": 12,
-      "button_radius": "soft",
+      "headline_size": 0,
+      "button_radius": "pill",
       "moods": [
         "bold",
         "developer",
@@ -1933,14 +1932,14 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/mintlify.svg",
     "preview_url": "https://getdesign.md/design-md/mintlify/preview.html",
     "status": "pass",
-    "score": 79.0,
+    "score": 94.0,
     "breakdown": {
       "layout": 30,
-      "brightness": 4,
+      "brightness": 15,
       "accent_mode": 15,
       "accent_family": 10,
       "typography_case": 5,
-      "button_radius": 6,
+      "button_radius": 10,
       "mood": 9.0
     },
     "failures": [],
@@ -1974,18 +1973,18 @@
       "layout": "docs-grid",
       "layout_group": "tooling",
       "colors": {
-        "background": "#F5F7FB",
+        "background": "#0D0D0D",
         "panel": "#FFFFFF",
-        "text": "#0F172A",
-        "accent": "#3ECF8E"
+        "text": "#F0FDF6",
+        "accent": "#18E299"
       },
-      "brightness": "light",
+      "brightness": "dark",
       "accent_family": "green",
       "accent_mode": "color",
       "headline": "Mintlify",
       "uppercase_title": false,
-      "headline_size": 56,
-      "button_radius": "soft",
+      "headline_size": 0,
+      "button_radius": "pill",
       "moods": [
         "efficient",
         "friendly",
@@ -1999,12 +1998,12 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/miro.svg",
     "preview_url": "https://getdesign.md/design-md/miro/preview.html",
     "status": "pass",
-    "score": 81.0,
+    "score": 100.0,
     "breakdown": {
       "layout": 30,
-      "brightness": 4,
+      "brightness": 15,
       "accent_mode": 15,
-      "accent_family": 2,
+      "accent_family": 10,
       "typography_case": 5,
       "button_radius": 10,
       "mood": 15.0
@@ -2038,17 +2037,17 @@
       "layout": "creative",
       "layout_group": "editorial",
       "colors": {
-        "background": "#F5F7FB",
-        "panel": "#FFFFFF",
-        "text": "#0F172A",
-        "accent": "#FACC15"
+        "background": "#1C1C1E",
+        "panel": "#A5A8B5",
+        "text": "#E9EAEF",
+        "accent": "#5B76FE"
       },
-      "brightness": "light",
-      "accent_family": "yellow",
+      "brightness": "dark",
+      "accent_family": "purple",
       "accent_mode": "color",
       "headline": "Miro",
       "uppercase_title": false,
-      "headline_size": 62,
+      "headline_size": 0,
       "button_radius": "soft",
       "moods": [
         "creative",
@@ -2063,12 +2062,12 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/mistral.ai.svg",
     "preview_url": "https://getdesign.md/design-md/mistral.ai/preview.html",
     "status": "pass",
-    "score": 87.0,
+    "score": 95.0,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
-      "accent_family": 2,
+      "accent_family": 10,
       "typography_case": 5,
       "button_radius": 10,
       "mood": 10.0
@@ -2105,17 +2104,17 @@
       "layout": "ai-capsule",
       "layout_group": "editorial",
       "colors": {
-        "background": "#F4F3FF",
-        "panel": "#FFFFFF",
-        "text": "#111827",
-        "accent": "#7C6CFF"
+        "background": "#FFFFFF",
+        "panel": "#1F1F1F",
+        "text": "#1F1F1F",
+        "accent": "#FA520F"
       },
       "brightness": "light",
-      "accent_family": "purple",
+      "accent_family": "orange",
       "accent_mode": "color",
       "headline": "Mistral AI",
       "uppercase_title": false,
-      "headline_size": 68,
+      "headline_size": 0,
       "button_radius": "soft",
       "moods": [
         "developer",
@@ -2131,12 +2130,12 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/mongodb.svg",
     "preview_url": "https://getdesign.md/design-md/mongodb/preview.html",
     "status": "pass",
-    "score": 75.0,
+    "score": 94.0,
     "breakdown": {
       "layout": 30,
-      "brightness": 4,
+      "brightness": 15,
       "accent_mode": 15,
-      "accent_family": 2,
+      "accent_family": 10,
       "typography_case": 5,
       "button_radius": 10,
       "mood": 9.0
@@ -2172,17 +2171,17 @@
       "layout": "dashboard",
       "layout_group": "tooling",
       "colors": {
-        "background": "#F5F7FB",
+        "background": "#B8C4C2",
         "panel": "#FFFFFF",
-        "text": "#0F172A",
-        "accent": "#3ECF8E"
+        "text": "#000000",
+        "accent": "#001E2B"
       },
-      "brightness": "light",
-      "accent_family": "green",
+      "brightness": "mixed",
+      "accent_family": "blue",
       "accent_mode": "color",
       "headline": "MongoDB",
       "uppercase_title": false,
-      "headline_size": 64,
+      "headline_size": 0,
       "button_radius": "pill",
       "moods": [
         "dense",
@@ -2197,13 +2196,13 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/nike.svg",
     "preview_url": "https://getdesign.md/design-md/nike/preview.html",
     "status": "pass",
-    "score": 88.5,
+    "score": 92.5,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
       "accent_family": 10,
-      "typography_case": 1,
+      "typography_case": 5,
       "button_radius": 10,
       "mood": 7.5
     },
@@ -2244,9 +2243,9 @@
       "brightness": "dark",
       "accent_family": "neutral",
       "accent_mode": "monochrome",
-      "headline": "超大标题 + 满版视觉冲击",
-      "uppercase_title": false,
-      "headline_size": 22,
+      "headline": "NIKE",
+      "uppercase_title": true,
+      "headline_size": 0,
       "button_radius": "soft",
       "moods": [
         "bold",
@@ -2261,10 +2260,10 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/notion.svg",
     "preview_url": "https://getdesign.md/design-md/notion/preview.html",
     "status": "pass",
-    "score": 72.0,
+    "score": 95.0,
     "breakdown": {
-      "layout": 18,
-      "brightness": 4,
+      "layout": 30,
+      "brightness": 15,
       "accent_mode": 15,
       "accent_family": 10,
       "typography_case": 5,
@@ -2300,20 +2299,20 @@
       "excerpt": "Design System Inspired by Notion\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \n \nGet Notion free\n \nDesign System\nInspired by Notion\n \nA design token catalog generated from DESIGN.md. Every color, font, component, and spacing value — visualized.\n \n \nGet Notion free\n \nView Documentation\n \n \n01 / Colors\n \nColor Palette\n \nPrimary\n \n \nNotion Black\nrgba(0,0,0,0.95)\nPrimary text, headings\n \nPure White\n#ffffff\nPage background\n \nNotion Blue\n#0075de\nPrimary C"
     },
     "svg": {
-      "layout": "dashboard",
+      "layout": "docs-grid",
       "layout_group": "tooling",
       "colors": {
-        "background": "#F3F3F4",
+        "background": "#000000",
         "panel": "#FFFFFF",
-        "text": "#111827",
-        "accent": "#6B7280"
+        "text": "#DDDDDD",
+        "accent": "#0075DE"
       },
-      "brightness": "light",
+      "brightness": "dark",
       "accent_family": "blue",
       "accent_mode": "color",
       "headline": "Notion",
       "uppercase_title": false,
-      "headline_size": 64,
+      "headline_size": 0,
       "button_radius": "pill",
       "moods": [
         "efficient",
@@ -2329,13 +2328,13 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/nvidia.svg",
     "preview_url": "https://getdesign.md/design-md/nvidia/preview.html",
     "status": "pass",
-    "score": 91.0,
+    "score": 95.0,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
       "accent_family": 10,
-      "typography_case": 1,
+      "typography_case": 5,
       "button_radius": 10,
       "mood": 10.0
     },
@@ -2368,7 +2367,7 @@
       "excerpt": "Design System Inspired by NVIDIA\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \n \nExplore GPUs\n \nDesign System\nInspired by \nNVIDIA\n \nA design token catalog generated from DESIGN.md. Every color, font, component, and spacing value -- visualized.\n \n \nExplore Solutions\n \nView Documentation\n \n \n01 / Colors\n \nColor Palette\n \nPrimary Brand\n \n \nNVIDIA Green\n#76b900\nAccent, borders, CTAs\n \nTrue Black\n#000000\nPrimary background\n \nPure White\n#ffffff\nLight back"
     },
     "svg": {
-      "layout": "token-catalog-dark",
+      "layout": "docs-grid",
       "layout_group": "tooling",
       "colors": {
         "background": "#000000",
@@ -2379,9 +2378,9 @@
       "brightness": "dark",
       "accent_family": "green",
       "accent_mode": "color",
-      "headline": "preview",
-      "uppercase_title": false,
-      "headline_size": 12,
+      "headline": "NVIDIA",
+      "uppercase_title": true,
+      "headline_size": 0,
       "button_radius": "soft",
       "moods": [
         "brand",
@@ -2397,14 +2396,14 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/ollama.svg",
     "preview_url": "https://getdesign.md/design-md/ollama/preview.html",
     "status": "pass",
-    "score": 92.2,
+    "score": 96.2,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
       "accent_family": 10,
       "typography_case": 5,
-      "button_radius": 6,
+      "button_radius": 10,
       "mood": 11.2
     },
     "failures": [],
@@ -2437,9 +2436,9 @@
       "layout": "ai-capsule",
       "layout_group": "editorial",
       "colors": {
-        "background": "#0B0B0C",
-        "panel": "#141518",
-        "text": "#F5F5F5",
+        "background": "#000000",
+        "panel": "#262626",
+        "text": "#D4D4D4",
         "accent": "#F5F5F5"
       },
       "brightness": "dark",
@@ -2447,8 +2446,8 @@
       "accent_mode": "monochrome",
       "headline": "Ollama",
       "uppercase_title": false,
-      "headline_size": 68,
-      "button_radius": "soft",
+      "headline_size": 0,
+      "button_radius": "pill",
       "moods": [
         "developer",
         "future-facing",
@@ -2499,7 +2498,7 @@
       "excerpt": "Design System Inspired by OpenCode.ai\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \n \nGet Started\n \nDesign System\nInspired by OpenCode\n \nA design token catalog generated from DESIGN.md. Every color, font, component, and spacing value -- visualized in monospace precision.\n \n \nInstall OpenCode\n \nView on GitHub\n \n \n01 / Colors\n \nColor Palette\n \nPrimary\n \n \nOpenCode Dark\n#201d1d\nBackground, buttons\n \nOpenCode Light\n#fdfcfc\nPrimary text\n \nMid Gray\n#9a989"
     },
     "svg": {
-      "layout": "token-catalog-dark",
+      "layout": "docs-grid",
       "layout_group": "tooling",
       "colors": {
         "background": "#201D1D",
@@ -2510,9 +2509,9 @@
       "brightness": "dark",
       "accent_family": "blue",
       "accent_mode": "color",
-      "headline": "preview",
+      "headline": "OpenCode AI",
       "uppercase_title": false,
-      "headline_size": 12,
+      "headline_size": 0,
       "button_radius": "soft",
       "moods": [
         "developer",
@@ -2579,7 +2578,7 @@
       "accent_mode": "color",
       "headline": "Pinterest",
       "uppercase_title": false,
-      "headline_size": 70,
+      "headline_size": 0,
       "button_radius": "soft",
       "moods": [
         "brand",
@@ -2594,14 +2593,14 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/playstation.svg",
     "preview_url": "https://getdesign.md/design-md/playstation/preview.html",
     "status": "pass",
-    "score": 90.0,
+    "score": 94.0,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
       "accent_family": 10,
       "typography_case": 5,
-      "button_radius": 6,
+      "button_radius": 10,
       "mood": 9.0
     },
     "failures": [],
@@ -2632,7 +2631,7 @@
       "excerpt": "Design System Inspiration of PlayStation\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nPalette\n \nType\n \nComponents\n \nLayout\n \n \nSign In\n \nDesign System / Console Retail\n \nDesign System Inspiration of PlayStation\n \nQuiet-authority display type, cyan hover-scale interactions, and a three-surface channel layout anchored by PlayStation Blue. Generated from DESIGN.md.\n \n \nExplore the System\n \nAdd to Cart\n \n \nSection 01 / Palette\n \nColor Palette\n \nPlayStation Blue as the anchor, Cyan reserved for hover states, C"
     },
     "svg": {
-      "layout": "dashboard-slab",
+      "layout": "dashboard",
       "layout_group": "tooling",
       "colors": {
         "background": "#000000",
@@ -2645,8 +2644,8 @@
       "accent_mode": "color",
       "headline": "PlayStation",
       "uppercase_title": false,
-      "headline_size": 64,
-      "button_radius": "soft",
+      "headline_size": 0,
+      "button_radius": "pill",
       "moods": [
         "brand",
         "editorial",
@@ -2660,14 +2659,14 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/posthog.svg",
     "preview_url": "https://getdesign.md/design-md/posthog/preview.html",
     "status": "pass",
-    "score": 92.2,
+    "score": 96.2,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
       "accent_family": 10,
       "typography_case": 5,
-      "button_radius": 6,
+      "button_radius": 10,
       "mood": 11.2
     },
     "failures": [],
@@ -2701,7 +2700,7 @@
       "excerpt": "Design System Inspired by PostHog\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \nRadius\n \nElevation\n \n \nGet started - free\n \n \nDesign System Inspired by PostHog\n \nA visual catalog of design tokens extracted from PostHog's website — warm, earthy, and deliberately anti-corporate.\n \n \nExplore Tokens\n \nView DESIGN.md\n \n \n \nColor Palette\n \nPostHog's warm olive/sage palette — no blues, no purples, just earthy warmth.\n \n \nPrimary\n \n \nOlive Ink\n#4d4f46\nPrima"
     },
     "svg": {
-      "layout": "editorial-cascade",
+      "layout": "editorial",
       "layout_group": "editorial",
       "colors": {
         "background": "#4D4F46",
@@ -2714,8 +2713,8 @@
       "accent_mode": "color",
       "headline": "PostHog",
       "uppercase_title": false,
-      "headline_size": 68,
-      "button_radius": "soft",
+      "headline_size": 0,
+      "button_radius": "pill",
       "moods": [
         "dense",
         "editorial",
@@ -2732,14 +2731,14 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/raycast.svg",
     "preview_url": "https://getdesign.md/design-md/raycast/preview.html",
     "status": "pass",
-    "score": 91.7,
+    "score": 95.7,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
       "accent_family": 10,
       "typography_case": 5,
-      "button_radius": 6,
+      "button_radius": 10,
       "mood": 10.7
     },
     "failures": [],
@@ -2772,7 +2771,7 @@
       "excerpt": "Design System Inspired by Raycast\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nElevation\n \n \n \nDownload\n \nDesign System\nInspired by Raycast\n \nA visual catalog of design tokens, components, and patterns extracted from Raycast's marketing site and documented in DESIGN.md.\n \n \nExplore Tokens\n \nView Components\n \n \nColor Palette\n \nNear-black blue-tinted backgrounds, precision grays, and bold semantic accents.\n \n \nPrimary\n \n \n \n \n \nNear-Black Blue\n \n#07080a\n \nPage"
     },
     "svg": {
-      "layout": "editorial-cascade",
+      "layout": "editorial",
       "layout_group": "editorial",
       "colors": {
         "background": "#07080A",
@@ -2781,12 +2780,12 @@
         "accent": "#FF6363"
       },
       "brightness": "dark",
-      "accent_family": "red",
+      "accent_family": "orange",
       "accent_mode": "color",
       "headline": "Raycast",
       "uppercase_title": false,
-      "headline_size": 68,
-      "button_radius": "soft",
+      "headline_size": 0,
+      "button_radius": "pill",
       "moods": [
         "developer",
         "editorial",
@@ -2802,14 +2801,14 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/renault.svg",
     "preview_url": "https://getdesign.md/design-md/renault/preview.html",
     "status": "pass",
-    "score": 93.5,
+    "score": 97.5,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
       "accent_family": 10,
       "typography_case": 5,
-      "button_radius": 6,
+      "button_radius": 10,
       "mood": 12.5
     },
     "failures": [],
@@ -2852,10 +2851,10 @@
       "brightness": "dark",
       "accent_family": "yellow",
       "accent_mode": "color",
-      "headline": "中性色基底，现代、清晰，整体更偏电影感、…",
+      "headline": "Renault",
       "uppercase_title": false,
-      "headline_size": 22,
-      "button_radius": "soft",
+      "headline_size": 0,
+      "button_radius": "pill",
       "moods": [
         "brand",
         "cinematic",
@@ -2871,14 +2870,14 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/replicate.svg",
     "preview_url": "https://getdesign.md/design-md/replicate/preview.html",
     "status": "pass",
-    "score": 90.0,
+    "score": 94.0,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
       "accent_family": 10,
       "typography_case": 5,
-      "button_radius": 6,
+      "button_radius": 10,
       "mood": 9.0
     },
     "failures": [],
@@ -2909,7 +2908,7 @@
       "excerpt": "Design System Inspired by Replicate\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nSpacing\n \nElevation\n \n \n \nSign In\n \nDesign System\nInspired by Replicate\n \nAuto-generated design token catalog from DESIGN.md\n \n \nExplore Tokens\n \nView Source\n \n \n01 / Color Palette\n \nColor Palette & Roles\n \n \nPrimary\n \n \n \n \n \nReplicate Dark\n \n#202020\n \nPrimary text, dark surfaces, borders\n \n \n \n \n \n \nReplicate Red\n \n#ea2804\n \nCore brand, hero gradient, accent borders\n \n \n \n \n \n \nSecond"
     },
     "svg": {
-      "layout": "token-catalog-dark",
+      "layout": "docs-grid",
       "layout_group": "tooling",
       "colors": {
         "background": "#202020",
@@ -2920,10 +2919,10 @@
       "brightness": "dark",
       "accent_family": "red",
       "accent_mode": "color",
-      "headline": "preview",
+      "headline": "Replicate",
       "uppercase_title": false,
-      "headline_size": 12,
-      "button_radius": "soft",
+      "headline_size": 0,
+      "button_radius": "pill",
       "moods": [
         "developer",
         "future-facing",
@@ -2937,12 +2936,12 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/resend.svg",
     "preview_url": "https://getdesign.md/design-md/resend/preview.html",
     "status": "pass",
-    "score": 75.0,
+    "score": 95.0,
     "breakdown": {
-      "layout": 18,
+      "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
-      "accent_family": 2,
+      "accent_family": 10,
       "typography_case": 5,
       "button_radius": 10,
       "mood": 10.0
@@ -2976,20 +2975,20 @@
       "excerpt": "Design System Inspired by Resend\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \n \nGet Started\n \n \nDesign System\nInspired by Resend\n \nA design token catalog generated from DESIGN.md. Every color, font, component, and spacing value — visualized.\n \n \nGet Started\n \nDocumentation\n \n \n \n01 / Colors\n \nColor Palette\n \nPrimary\n \n \nVoid Black\n#000000\nPage background\n \nNear White\n#f0f0f0\nPrimary text\n \nPure White\n#ffffff\nMaximum emphasis\n \n \nAccent Scale\n \n \nOr"
     },
     "svg": {
-      "layout": "dashboard",
+      "layout": "docs-grid",
       "layout_group": "tooling",
       "colors": {
-        "background": "#0D1117",
-        "panel": "#1B1F24",
-        "text": "#F5F7FB",
-        "accent": "#7C6CFF"
+        "background": "#000000",
+        "panel": "#F0F0F0",
+        "text": "#5C5C5C",
+        "accent": "#FF801F"
       },
       "brightness": "dark",
-      "accent_family": "purple",
+      "accent_family": "orange",
       "accent_mode": "color",
       "headline": "Resend",
       "uppercase_title": false,
-      "headline_size": 64,
+      "headline_size": 0,
       "button_radius": "pill",
       "moods": [
         "efficient",
@@ -3005,12 +3004,12 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/revolut.svg",
     "preview_url": "https://getdesign.md/design-md/revolut/preview.html",
     "status": "pass",
-    "score": 78.0,
+    "score": 97.0,
     "breakdown": {
       "layout": 30,
-      "brightness": 4,
+      "brightness": 15,
       "accent_mode": 15,
-      "accent_family": 2,
+      "accent_family": 10,
       "typography_case": 5,
       "button_radius": 10,
       "mood": 12.0
@@ -3046,17 +3045,17 @@
       "layout": "dashboard",
       "layout_group": "tooling",
       "colors": {
-        "background": "#0D1117",
-        "panel": "#1B1F24",
-        "text": "#F5F7FB",
-        "accent": "#7C6CFF"
+        "background": "#FFFFFF",
+        "panel": "#191C1F",
+        "text": "#C9C9CD",
+        "accent": "#494FDF"
       },
-      "brightness": "dark",
-      "accent_family": "purple",
+      "brightness": "light",
+      "accent_family": "blue",
       "accent_mode": "color",
       "headline": "Revolut",
       "uppercase_title": false,
-      "headline_size": 64,
+      "headline_size": 0,
       "button_radius": "pill",
       "moods": [
         "finance",
@@ -3072,15 +3071,15 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/runwayml.svg",
     "preview_url": "https://getdesign.md/design-md/runwayml/preview.html",
     "status": "pass",
-    "score": 91.7,
+    "score": 97.5,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
       "accent_family": 10,
       "typography_case": 5,
-      "button_radius": 6,
-      "mood": 10.7
+      "button_radius": 10,
+      "mood": 12.5
     },
     "failures": [],
     "repair_note": "无需修复",
@@ -3114,20 +3113,19 @@
       "layout": "editorial",
       "layout_group": "editorial",
       "colors": {
-        "background": "#0D1117",
-        "panel": "#1B1F24",
-        "text": "#F5F7FB",
-        "accent": "#7C6CFF"
+        "background": "#000000",
+        "panel": "#1A1A1A",
+        "text": "#27272A",
+        "accent": "#767D88"
       },
       "brightness": "dark",
-      "accent_family": "purple",
+      "accent_family": "blue",
       "accent_mode": "color",
       "headline": "RunwayML",
       "uppercase_title": false,
-      "headline_size": 70,
-      "button_radius": "soft",
+      "headline_size": 0,
+      "button_radius": "pill",
       "moods": [
-        "brand",
         "cinematic",
         "developer",
         "editorial",
@@ -3142,14 +3140,14 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/sanity.svg",
     "preview_url": "https://getdesign.md/design-md/sanity/preview.html",
     "status": "pass",
-    "score": 87.7,
+    "score": 91.7,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
       "accent_family": 10,
       "typography_case": 5,
-      "button_radius": 6,
+      "button_radius": 10,
       "mood": 6.7
     },
     "failures": [],
@@ -3184,7 +3182,7 @@
       "excerpt": "Design System Inspired by Sanity\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \n \nDesign System Inspired by Sanity\n \nStructured content meets precise design. A dark-first, engineering-grade design language built on achromatic neutrals, tight typography, and vivid accent punctuation.\n \n \nGet Started\n \nContact Sales\n \n \nColor Palette\n \nPure achromatic gray scale with vivid accent punctuation. No warm or cool bias in the neutral range.\n \n \n \n \n \nSanity"
     },
     "svg": {
-      "layout": "dashboard-slab",
+      "layout": "dashboard",
       "layout_group": "tooling",
       "colors": {
         "background": "#F7F7F7",
@@ -3193,12 +3191,12 @@
         "accent": "#F36458"
       },
       "brightness": "light",
-      "accent_family": "red",
+      "accent_family": "orange",
       "accent_mode": "color",
       "headline": "Sanity",
       "uppercase_title": false,
-      "headline_size": 64,
-      "button_radius": "soft",
+      "headline_size": 0,
+      "button_radius": "pill",
       "moods": [
         "dense",
         "editorial",
@@ -3213,13 +3211,13 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/sentry.svg",
     "preview_url": "https://getdesign.md/design-md/sentry/preview.html",
     "status": "pass",
-    "score": 82.0,
+    "score": 94.0,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
-      "accent_family": 2,
-      "typography_case": 1,
+      "accent_family": 10,
+      "typography_case": 5,
       "button_radius": 10,
       "mood": 9.0
     },
@@ -3260,11 +3258,11 @@
         "accent": "#6C5CE7"
       },
       "brightness": "light",
-      "accent_family": "blue",
+      "accent_family": "purple",
       "accent_mode": "color",
-      "headline": "TRACES",
-      "uppercase_title": true,
-      "headline_size": 12,
+      "headline": "Sentry",
+      "uppercase_title": false,
+      "headline_size": 0,
       "button_radius": "soft",
       "moods": [
         "dense",
@@ -3279,14 +3277,14 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/shopify.svg",
     "preview_url": "https://getdesign.md/design-md/shopify/preview.html",
     "status": "pass",
-    "score": 93.5,
+    "score": 97.5,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
       "accent_family": 10,
       "typography_case": 5,
-      "button_radius": 6,
+      "button_radius": 10,
       "mood": 12.5
     },
     "failures": [],
@@ -3318,7 +3316,7 @@
       "excerpt": "Design System Inspired by Shopify\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \n \nStart for free\n \n \nDesign System Inspired by \nShopify\n \nA complete design token catalog extracted from Shopify.com — NeueHaasGrotesk display typography, dark-first surfaces, and neon green accents.\n \n \nExplore Tokens\n \nView Source\n \n \n \nColor Palette\n \nDark-first surfaces with deep teal undertones. Neon Green is the singular high-energy accent.\n \n \nPrimary & Accent"
     },
     "svg": {
-      "layout": "dashboard-slab",
+      "layout": "dashboard",
       "layout_group": "tooling",
       "colors": {
         "background": "#FFFFFF",
@@ -3331,8 +3329,8 @@
       "accent_mode": "color",
       "headline": "Shopify",
       "uppercase_title": false,
-      "headline_size": 64,
-      "button_radius": "soft",
+      "headline_size": 0,
+      "button_radius": "pill",
       "moods": [
         "brand",
         "cinematic",
@@ -3348,12 +3346,12 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/spacex.svg",
     "preview_url": "https://getdesign.md/design-md/spacex/preview.html",
     "status": "pass",
-    "score": 73.2,
+    "score": 96.2,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
-      "accent_mode": 0,
-      "accent_family": 2,
+      "accent_mode": 15,
+      "accent_family": 10,
       "typography_case": 5,
       "button_radius": 10,
       "mood": 11.2
@@ -3388,17 +3386,17 @@
       "layout": "editorial",
       "layout_group": "editorial",
       "colors": {
-        "background": "#0B0B0C",
-        "panel": "#141518",
-        "text": "#F5F5F5",
-        "accent": "#F5F5F5"
+        "background": "#000000",
+        "panel": "#F0F0FA",
+        "text": "#F0F0FA",
+        "accent": "#FF4444"
       },
       "brightness": "dark",
-      "accent_family": "neutral",
-      "accent_mode": "monochrome",
+      "accent_family": "red",
+      "accent_mode": "color",
       "headline": "SpaceX",
       "uppercase_title": false,
-      "headline_size": 70,
+      "headline_size": 0,
       "button_radius": "soft",
       "moods": [
         "brand",
@@ -3463,7 +3461,7 @@
       "accent_mode": "color",
       "headline": "Spotify",
       "uppercase_title": false,
-      "headline_size": 70,
+      "headline_size": 0,
       "button_radius": "soft",
       "moods": [
         "bold",
@@ -3479,14 +3477,14 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/stripe.svg",
     "preview_url": "https://getdesign.md/design-md/stripe/preview.html",
     "status": "pass",
-    "score": 86.0,
+    "score": 90.0,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
-      "accent_family": 2,
+      "accent_family": 10,
       "typography_case": 5,
-      "button_radius": 10,
+      "button_radius": 6,
       "mood": 9.0
     },
     "failures": [],
@@ -3524,12 +3522,12 @@
         "accent": "#635BFF"
       },
       "brightness": "light",
-      "accent_family": "blue",
+      "accent_family": "purple",
       "accent_mode": "color",
       "headline": "Stripe",
       "uppercase_title": false,
-      "headline_size": 64,
-      "button_radius": "pill",
+      "headline_size": 0,
+      "button_radius": "soft",
       "moods": [
         "brand",
         "developer",
@@ -3545,7 +3543,7 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/supabase.svg",
     "preview_url": "https://getdesign.md/design-md/supabase/preview.html",
     "status": "pass",
-    "score": 92.5,
+    "score": 100.0,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
@@ -3553,7 +3551,7 @@
       "accent_family": 10,
       "typography_case": 5,
       "button_radius": 10,
-      "mood": 7.5
+      "mood": 15.0
     },
     "failures": [],
     "repair_note": "无需修复",
@@ -3584,9 +3582,9 @@
       "layout": "dashboard",
       "layout_group": "tooling",
       "colors": {
-        "background": "#0F1720",
-        "panel": "#111827",
-        "text": "#EEFAF4",
+        "background": "#171717",
+        "panel": "#171717",
+        "text": "#FAFAFA",
         "accent": "#3ECF8E"
       },
       "brightness": "dark",
@@ -3594,11 +3592,11 @@
       "accent_mode": "color",
       "headline": "Supabase",
       "uppercase_title": false,
-      "headline_size": 64,
+      "headline_size": 0,
       "button_radius": "pill",
       "moods": [
         "code-first",
-        "emerald",
+        "developer",
         "tooling"
       ]
     }
@@ -3609,12 +3607,12 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/superhuman.svg",
     "preview_url": "https://getdesign.md/design-md/superhuman/preview.html",
     "status": "pass",
-    "score": 86.0,
+    "score": 94.0,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
-      "accent_family": 2,
+      "accent_family": 10,
       "typography_case": 5,
       "button_radius": 10,
       "mood": 9.0
@@ -3647,20 +3645,20 @@
       "excerpt": "Design System Inspired by Superhuman\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nSpacing\n \nRadius\n \nElevation\n \n \nGet Started\n \nDesign System Inspired by Superhuman\n \nA visual catalog of design tokens extracted from Superhuman's website, rendered as a living style guide.\n \n \nExplore Tokens\n \nView DESIGN.md\n \n \nColor Palette\n \nEvery color token from the Superhuman design system with semantic naming and roles.\n \n \nPrimary\n \n \n \n \n \nMysteria Purple\n \n#1b1938"
     },
     "svg": {
-      "layout": "editor-workbench",
+      "layout": "dashboard",
       "layout_group": "tooling",
       "colors": {
-        "background": "#0D1117",
-        "panel": "#1B1F24",
-        "text": "#F5F7FB",
-        "accent": "#7C6CFF"
+        "background": "#292827",
+        "panel": "#FFFFFF",
+        "text": "#F5F4F2",
+        "accent": "#1B1938"
       },
       "brightness": "dark",
-      "accent_family": "purple",
+      "accent_family": "blue",
       "accent_mode": "color",
       "headline": "Superhuman",
       "uppercase_title": false,
-      "headline_size": 48,
+      "headline_size": 0,
       "button_radius": "soft",
       "moods": [
         "developer",
@@ -3675,14 +3673,14 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/tesla.svg",
     "preview_url": "https://getdesign.md/design-md/tesla/preview.html",
     "status": "pass",
-    "score": 90.0,
+    "score": 94.0,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
       "accent_family": 10,
       "typography_case": 5,
-      "button_radius": 6,
+      "button_radius": 10,
       "mood": 9.0
     },
     "failures": [],
@@ -3723,10 +3721,10 @@
       "brightness": "light",
       "accent_family": "neutral",
       "accent_mode": "monochrome",
-      "headline": "中性色基底，电影感、画面驱动，整体更偏电…",
+      "headline": "Tesla",
       "uppercase_title": false,
-      "headline_size": 20,
-      "button_radius": "soft",
+      "headline_size": 0,
+      "button_radius": "pill",
       "moods": [
         "brand",
         "cinematic",
@@ -3741,14 +3739,14 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/theverge.svg",
     "preview_url": "https://getdesign.md/design-md/theverge/preview.html",
     "status": "pass",
-    "score": 88.5,
+    "score": 92.5,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
       "accent_family": 10,
       "typography_case": 5,
-      "button_radius": 6,
+      "button_radius": 10,
       "mood": 7.5
     },
     "failures": [],
@@ -3780,7 +3778,7 @@
       "excerpt": "Design System Inspiration of The Verge\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nPalette\n \nType\n \nComponents\n \nLayout\n \n \nSubscribe\n \nDesign System / Editorial Hazard\n \nDesign System Inspiration of The Verge\n \nHazard-tape editorial. Massive Manuka headlines, acid-mint + ultraviolet accents, and a StoryStream timeline that feels like a git log for the news. Generated from DESIGN.md.\n \n \nExplore The System\n \nRead The Stream\n \n \nSection 01 / Palette\n \nColor Palette\n \nCanvas black, jelly mint, verge ultrav"
     },
     "svg": {
-      "layout": "dashboard-slab",
+      "layout": "dashboard",
       "layout_group": "tooling",
       "colors": {
         "background": "#FFFFFF",
@@ -3793,8 +3791,8 @@
       "accent_mode": "color",
       "headline": "The Verge",
       "uppercase_title": false,
-      "headline_size": 64,
-      "button_radius": "soft",
+      "headline_size": 0,
+      "button_radius": "pill",
       "moods": [
         "brand",
         "editorial",
@@ -3808,14 +3806,14 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/together.ai.svg",
     "preview_url": "https://getdesign.md/design-md/together.ai/preview.html",
     "status": "pass",
-    "score": 88.5,
+    "score": 92.5,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
       "accent_family": 10,
       "typography_case": 5,
-      "button_radius": 6,
+      "button_radius": 10,
       "mood": 7.5
     },
     "failures": [],
@@ -3847,7 +3845,7 @@
       "excerpt": "Design System Inspired by Together AI\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nSpacing\n \nElevation\n \n \n \nGet Started\n \n \nDesign System\nInspired by Together AI\n \nAuto-generated design token catalog from DESIGN.md\n \n \nExplore Tokens\n \nView Source\n \n \n01 / Color Palette\n \nColor Palette & Roles\n \n \nPrimary Brand\n \n \n \n \n \nBrand Magenta\n \n#ef2cc1\n \nGradient illustrations only, never UI chrome\n \n \n \n \n \n \nBrand Orange\n \n#fc4c02\n \nGradient endpoints, warm accent moment"
     },
     "svg": {
-      "layout": "token-catalog-dark",
+      "layout": "docs-grid",
       "layout_group": "tooling",
       "colors": {
         "background": "#000000",
@@ -3858,10 +3856,10 @@
       "brightness": "dark",
       "accent_family": "red",
       "accent_mode": "color",
-      "headline": "preview",
+      "headline": "Together AI",
       "uppercase_title": false,
-      "headline_size": 12,
-      "button_radius": "soft",
+      "headline_size": 0,
+      "button_radius": "pill",
       "moods": [
         "developer",
         "future-facing",
@@ -3875,14 +3873,14 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/uber.svg",
     "preview_url": "https://getdesign.md/design-md/uber/preview.html",
     "status": "pass",
-    "score": 93.0,
+    "score": 97.0,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
       "accent_family": 10,
       "typography_case": 5,
-      "button_radius": 6,
+      "button_radius": 10,
       "mood": 12.0
     },
     "failures": [],
@@ -3926,8 +3924,8 @@
       "accent_mode": "color",
       "headline": "Uber",
       "uppercase_title": false,
-      "headline_size": 70,
-      "button_radius": "soft",
+      "headline_size": 0,
+      "button_radius": "pill",
       "moods": [
         "bold",
         "brand",
@@ -3942,14 +3940,14 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/vercel.svg",
     "preview_url": "https://getdesign.md/design-md/vercel/preview.html",
     "status": "pass",
-    "score": 96.0,
+    "score": 100.0,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
       "accent_family": 10,
       "typography_case": 5,
-      "button_radius": 6,
+      "button_radius": 10,
       "mood": 15.0
     },
     "failures": [],
@@ -3991,8 +3989,8 @@
       "accent_mode": "monochrome",
       "headline": "Vercel",
       "uppercase_title": false,
-      "headline_size": 64,
-      "button_radius": "pill",
+      "headline_size": 0,
+      "button_radius": "soft",
       "moods": [
         "developer",
         "minimal",
@@ -4006,14 +4004,14 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/vodafone.svg",
     "preview_url": "https://getdesign.md/design-md/vodafone/preview.html",
     "status": "pass",
-    "score": 96.0,
+    "score": 100.0,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
       "accent_family": 10,
       "typography_case": 5,
-      "button_radius": 6,
+      "button_radius": 10,
       "mood": 15.0
     },
     "failures": [],
@@ -4053,10 +4051,10 @@
       "brightness": "light",
       "accent_family": "red",
       "accent_mode": "color",
-      "headline": "红色点缀，现代、清晰，整体更偏品牌感、编…",
+      "headline": "Vodafone",
       "uppercase_title": false,
-      "headline_size": 22,
-      "button_radius": "soft",
+      "headline_size": 0,
+      "button_radius": "pill",
       "moods": [
         "brand",
         "editorial",
@@ -4070,14 +4068,14 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/voltagent.svg",
     "preview_url": "https://getdesign.md/design-md/voltagent/preview.html",
     "status": "pass",
-    "score": 90.0,
+    "score": 94.0,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
       "accent_family": 10,
       "typography_case": 5,
-      "button_radius": 6,
+      "button_radius": 10,
       "mood": 9.0
     },
     "failures": [],
@@ -4108,7 +4106,7 @@
       "excerpt": "Design System Inspired by VoltAgent\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nSpacing\n \nElevation\n \n \n \nGet Started\n \nDesign System\nInspired by VoltAgent\n \nAuto-generated design token catalog from DESIGN.md\n \n \nExplore Tokens\n \nView Source\n \n \n01 / Color Palette\n \nColor Palette & Roles\n \n \nPrimary\n \n \n \n \n \nEmerald Signal Green\n \n#00d992\n \nCore brand accent, glow effects, active borders\n \n \n \n \n \n \nVoltAgent Mint\n \n#2fd6a1\n \nCTA button text on dark surfaces"
     },
     "svg": {
-      "layout": "token-catalog-dark",
+      "layout": "docs-grid",
       "layout_group": "tooling",
       "colors": {
         "background": "#050507",
@@ -4119,10 +4117,10 @@
       "brightness": "dark",
       "accent_family": "green",
       "accent_mode": "color",
-      "headline": "preview",
+      "headline": "VoltAgent",
       "uppercase_title": false,
-      "headline_size": 12,
-      "button_radius": "soft",
+      "headline_size": 0,
+      "button_radius": "pill",
       "moods": [
         "developer",
         "future-facing",
@@ -4136,14 +4134,14 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/warp.svg",
     "preview_url": "https://getdesign.md/design-md/warp/preview.html",
     "status": "pass",
-    "score": 89.6,
+    "score": 93.6,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
       "accent_family": 10,
       "typography_case": 5,
-      "button_radius": 6,
+      "button_radius": 10,
       "mood": 8.6
     },
     "failures": [],
@@ -4176,7 +4174,7 @@
       "excerpt": "Design System Inspired by Warp\n \n \n \n \ngetdesign.md\n \n \n \n awesome-design-md\n \n \n \n \nColors\n \nTypography\n \nButtons\n \nCards\n \nForms\n \nElevation\n \n \n \nDownload\n \nDesign System\nInspired by Warp\n \nA visual catalog of design tokens, components, and patterns extracted from Warp's warm-dark marketing site and documented in DESIGN.md.\n \n \nExplore Tokens\n \nView Components\n \n \nColor Palette\n \nAlmost monochromatic warm grays — from warm parchment text to earth-tone dark surfaces. No bold accents.\n \n \nPrimary\n \n \n \n \n \nWarm P"
     },
     "svg": {
-      "layout": "editorial-cascade",
+      "layout": "editorial",
       "layout_group": "editorial",
       "colors": {
         "background": "#0E0E0D",
@@ -4189,8 +4187,8 @@
       "accent_mode": "color",
       "headline": "Warp",
       "uppercase_title": false,
-      "headline_size": 68,
-      "button_radius": "soft",
+      "headline_size": 0,
+      "button_radius": "pill",
       "moods": [
         "developer",
         "editorial",
@@ -4205,10 +4203,10 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/webflow.svg",
     "preview_url": "https://getdesign.md/design-md/webflow/preview.html",
     "status": "pass",
-    "score": 89.0,
+    "score": 100.0,
     "breakdown": {
       "layout": 30,
-      "brightness": 4,
+      "brightness": 15,
       "accent_mode": 15,
       "accent_family": 10,
       "typography_case": 5,
@@ -4244,17 +4242,17 @@
       "layout": "creative",
       "layout_group": "editorial",
       "colors": {
-        "background": "#F5F7FB",
-        "panel": "#FFFFFF",
-        "text": "#0F172A",
-        "accent": "#3B82F6"
+        "background": "#080808",
+        "panel": "#5A5A5A",
+        "text": "#363636",
+        "accent": "#146EF5"
       },
-      "brightness": "light",
+      "brightness": "dark",
       "accent_family": "blue",
       "accent_mode": "color",
       "headline": "Webflow",
       "uppercase_title": false,
-      "headline_size": 62,
+      "headline_size": 0,
       "button_radius": "soft",
       "moods": [
         "creative",
@@ -4269,14 +4267,14 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/wired.svg",
     "preview_url": "https://getdesign.md/design-md/wired/preview.html",
     "status": "pass",
-    "score": 83.0,
+    "score": 100.0,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
-      "accent_family": 2,
+      "accent_family": 10,
       "typography_case": 5,
-      "button_radius": 1,
+      "button_radius": 10,
       "mood": 15.0
     },
     "failures": [],
@@ -4308,18 +4306,18 @@
       "layout": "editorial",
       "layout_group": "editorial",
       "colors": {
-        "background": "#F8FAFC",
+        "background": "#F7F7F2",
         "panel": "#FFFFFF",
-        "text": "#111827",
-        "accent": "#3B82F6"
+        "text": "#111111",
+        "accent": "#FF3B30"
       },
       "brightness": "light",
-      "accent_family": "blue",
+      "accent_family": "red",
       "accent_mode": "color",
       "headline": "WIRED",
       "uppercase_title": true,
-      "headline_size": 70,
-      "button_radius": "soft",
+      "headline_size": 0,
+      "button_radius": "sharp",
       "moods": [
         "brand",
         "editorial",
@@ -4333,14 +4331,14 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/wise.svg",
     "preview_url": "https://getdesign.md/design-md/wise/preview.html",
     "status": "pass",
-    "score": 96.0,
+    "score": 100.0,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
       "accent_family": 10,
       "typography_case": 5,
-      "button_radius": 6,
+      "button_radius": 10,
       "mood": 15.0
     },
     "failures": [],
@@ -4383,8 +4381,8 @@
       "accent_mode": "color",
       "headline": "Wise",
       "uppercase_title": false,
-      "headline_size": 64,
-      "button_radius": "pill",
+      "headline_size": 0,
+      "button_radius": "soft",
       "moods": [
         "finance",
         "friendly",
@@ -4399,13 +4397,13 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/x.ai.svg",
     "preview_url": "https://getdesign.md/design-md/x.ai/preview.html",
     "status": "pass",
-    "score": 96.0,
+    "score": 100.0,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
       "accent_family": 10,
-      "typography_case": 1,
+      "typography_case": 5,
       "button_radius": 10,
       "mood": 15.0
     },
@@ -4447,9 +4445,9 @@
       "brightness": "light",
       "accent_family": "neutral",
       "accent_mode": "monochrome",
-      "headline": "START",
-      "uppercase_title": true,
-      "headline_size": 14,
+      "headline": "xAI",
+      "uppercase_title": false,
+      "headline_size": 0,
       "button_radius": "soft",
       "moods": [
         "developer",
@@ -4465,14 +4463,14 @@
     "path": "/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/zapier.svg",
     "preview_url": "https://getdesign.md/design-md/zapier/preview.html",
     "status": "pass",
-    "score": 84.2,
+    "score": 96.2,
     "breakdown": {
       "layout": 30,
       "brightness": 15,
       "accent_mode": 15,
-      "accent_family": 2,
+      "accent_family": 10,
       "typography_case": 5,
-      "button_radius": 6,
+      "button_radius": 10,
       "mood": 11.2
     },
     "failures": [],
@@ -4511,12 +4509,12 @@
         "accent": "#FF5A1F"
       },
       "brightness": "light",
-      "accent_family": "red",
+      "accent_family": "orange",
       "accent_mode": "color",
       "headline": "Zapier",
       "uppercase_title": false,
-      "headline_size": 74,
-      "button_radius": "soft",
+      "headline_size": 0,
+      "button_radius": "pill",
       "moods": [
         "efficient",
         "friendly",

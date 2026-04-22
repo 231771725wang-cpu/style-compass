@@ -1,10 +1,10 @@
 # SVG 缩略图风格审查报告
 
-- 审查版本：`2026-04-v1`
+- 审查版本：`2026-04-v2`
 - 官方指纹版本：`2026-04-v1`
 - 总数：68
 
-## Airbnb / PASS / 80.5
+## Airbnb / PASS / 100.0
 
 - 官方预览：https://getdesign.md/design-md/airbnb/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/airbnb.svg
@@ -13,7 +13,7 @@
 - 官方明暗：light
 - 本地明暗：light
 - 官方强调：red / color
-- 本地强调：blue / color
+- 本地强调：red / color
 - 失败原因：无
 - 修复动作：无需修复
 
@@ -30,7 +30,7 @@
 - 失败原因：无
 - 修复动作：无需修复
 
-## Apple / PASS / 92.5
+## Apple / PASS / 100.0
 
 - 官方预览：https://getdesign.md/design-md/apple/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/apple.svg
@@ -56,25 +56,25 @@
 - 失败原因：无
 - 修复动作：无需修复
 
-## BMW / PASS / 81.2
+## BMW / PASS / 96.2
 
 - 官方预览：https://getdesign.md/design-md/bmw/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/bmw.svg
 - 官方布局：luxury-banner
 - 本地布局：luxury-banner
-- 官方明暗：dark
+- 官方明暗：light
 - 本地明暗：light
 - 官方强调：neutral / monochrome
 - 本地强调：neutral / monochrome
 - 失败原因：无
 - 修复动作：无需修复
 
-## Bugatti / PASS / 93.5
+## Bugatti / PASS / 97.5
 
 - 官方预览：https://getdesign.md/design-md/bugatti/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/bugatti.svg
 - 官方布局：editorial
-- 本地布局：editorial-cascade
+- 本地布局：editorial
 - 官方明暗：dark
 - 本地明暗：dark
 - 官方强调：neutral / monochrome
@@ -95,12 +95,25 @@
 - 失败原因：无
 - 修复动作：无需修复
 
-## Claude / PASS / 87.0
+## Claude / PASS / 96.2
 
 - 官方预览：https://getdesign.md/design-md/claude/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/claude.svg
 - 官方布局：editorial
 - 本地布局：editorial
+- 官方明暗：dark
+- 本地明暗：dark
+- 官方强调：orange / color
+- 本地强调：orange / color
+- 失败原因：无
+- 修复动作：无需修复
+
+## Clay / PASS / 97.0
+
+- 官方预览：https://getdesign.md/design-md/clay/preview.html
+- 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/clay.svg
+- 官方布局：docs-grid
+- 本地布局：docs-grid
 - 官方明暗：light
 - 本地明暗：light
 - 官方强调：orange / color
@@ -108,20 +121,7 @@
 - 失败原因：无
 - 修复动作：无需修复
 
-## Clay / PASS / 85.0
-
-- 官方预览：https://getdesign.md/design-md/clay/preview.html
-- 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/clay.svg
-- 官方布局：docs-grid
-- 本地布局：token-catalog-warm
-- 官方明暗：light
-- 本地明暗：light
-- 官方强调：orange / color
-- 本地强调：red / color
-- 失败原因：无
-- 修复动作：无需修复
-
-## ClickHouse / PASS / 92.2
+## ClickHouse / PASS / 96.2
 
 - 官方预览：https://getdesign.md/design-md/clickhouse/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/clickhouse.svg
@@ -134,33 +134,33 @@
 - 失败原因：无
 - 修复动作：无需修复
 
-## Cohere / PASS / 85.0
+## Cohere / PASS / 100.0
 
 - 官方预览：https://getdesign.md/design-md/cohere/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/cohere.svg
 - 官方布局：ai-capsule
 - 本地布局：ai-capsule
 - 官方明暗：dark
-- 本地明暗：light
+- 本地明暗：dark
 - 官方强调：blue / color
 - 本地强调：blue / color
 - 失败原因：无
 - 修复动作：无需修复
 
-## Coinbase / PASS / 81.2
+## Coinbase / PASS / 96.2
 
 - 官方预览：https://getdesign.md/design-md/coinbase/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/coinbase.svg
 - 官方布局：commerce-split
 - 本地布局：commerce-split
 - 官方明暗：dark
-- 本地明暗：light
+- 本地明暗：dark
 - 官方强调：blue / color
 - 本地强调：blue / color
 - 失败原因：无
 - 修复动作：无需修复
 
-## Composio / PASS / 92.2
+## Composio / PASS / 96.2
 
 - 官方预览：https://getdesign.md/design-md/composio/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/composio.svg
@@ -173,7 +173,7 @@
 - 失败原因：无
 - 修复动作：无需修复
 
-## Cursor / PASS / 87.0
+## Cursor / PASS / 100.0
 
 - 官方预览：https://getdesign.md/design-md/cursor/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/cursor.svg
@@ -182,11 +182,11 @@
 - 官方明暗：dark
 - 本地明暗：dark
 - 官方强调：blue / color
-- 本地强调：blue / color
+- 本地强调：red / color
 - 失败原因：无
 - 修复动作：无需修复
 
-## ElevenLabs / PASS / 91.7
+## ElevenLabs / PASS / 95.7
 
 - 官方预览：https://getdesign.md/design-md/elevenlabs/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/elevenlabs.svg
@@ -199,51 +199,12 @@
 - 失败原因：无
 - 修复动作：无需修复
 
-## Expo / PASS / 72.2
+## Expo / PASS / 96.2
 
 - 官方预览：https://getdesign.md/design-md/expo/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/expo.svg
 - 官方布局：docs-grid
-- 本地布局：editor-workbench
-- 官方明暗：dark
-- 本地明暗：dark
-- 官方强调：blue / color
-- 本地强调：purple / color
-- 失败原因：无
-- 修复动作：无需修复
-
-## Ferrari / PASS / 74.5
-
-- 官方预览：https://getdesign.md/design-md/ferrari/preview.html
-- 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/ferrari.svg
-- 官方布局：poster
-- 本地布局：luxury-banner
-- 官方明暗：light
-- 本地明暗：dark
-- 官方强调：red / color
-- 本地强调：red / color
-- 失败原因：无
-- 修复动作：无需修复
-
-## Figma / PASS / 88.0
-
-- 官方预览：https://getdesign.md/design-md/figma/preview.html
-- 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/figma.svg
-- 官方布局：creative
-- 本地布局：creative
-- 官方明暗：light
-- 本地明暗：light
-- 官方强调：purple / color
-- 本地强调：purple / color
-- 失败原因：无
-- 修复动作：无需修复
-
-## Framer / PASS / 77.6
-
-- 官方预览：https://getdesign.md/design-md/framer/preview.html
-- 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/framer.svg
-- 官方布局：docs-grid
-- 本地布局：editor-workbench
+- 本地布局：docs-grid
 - 官方明暗：dark
 - 本地明暗：dark
 - 官方强调：blue / color
@@ -251,7 +212,46 @@
 - 失败原因：无
 - 修复动作：无需修复
 
-## HashiCorp / PASS / 88.5
+## Ferrari / PASS / 97.5
+
+- 官方预览：https://getdesign.md/design-md/ferrari/preview.html
+- 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/ferrari.svg
+- 官方布局：poster
+- 本地布局：poster
+- 官方明暗：light
+- 本地明暗：light
+- 官方强调：red / color
+- 本地强调：red / color
+- 失败原因：无
+- 修复动作：无需修复
+
+## Figma / PASS / 100.0
+
+- 官方预览：https://getdesign.md/design-md/figma/preview.html
+- 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/figma.svg
+- 官方布局：creative
+- 本地布局：creative
+- 官方明暗：dark
+- 本地明暗：dark
+- 官方强调：green / color
+- 本地强调：green / color
+- 失败原因：无
+- 修复动作：无需修复
+
+## Framer / PASS / 93.6
+
+- 官方预览：https://getdesign.md/design-md/framer/preview.html
+- 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/framer.svg
+- 官方布局：docs-grid
+- 本地布局：docs-grid
+- 官方明暗：dark
+- 本地明暗：dark
+- 官方强调：blue / color
+- 本地强调：blue / color
+- 失败原因：无
+- 修复动作：无需修复
+
+## HashiCorp / PASS / 92.5
 
 - 官方预览：https://getdesign.md/design-md/hashicorp/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/hashicorp.svg
@@ -264,12 +264,12 @@
 - 失败原因：无
 - 修复动作：无需修复
 
-## IBM / PASS / 96.0
+## IBM / PASS / 100.0
 
 - 官方预览：https://getdesign.md/design-md/ibm/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/ibm.svg
 - 官方布局：docs-grid
-- 本地布局：token-catalog-light
+- 本地布局：docs-grid
 - 官方明暗：light
 - 本地明暗：light
 - 官方强调：purple / color
@@ -277,7 +277,7 @@
 - 失败原因：无
 - 修复动作：无需修复
 
-## Intercom / PASS / 84.2
+## Intercom / PASS / 96.2
 
 - 官方预览：https://getdesign.md/design-md/intercom/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/intercom.svg
@@ -286,7 +286,7 @@
 - 官方明暗：light
 - 本地明暗：light
 - 官方强调：red / color
-- 本地强调：blue / color
+- 本地强调：orange / color
 - 失败原因：无
 - 修复动作：无需修复
 
@@ -308,7 +308,7 @@
 - 官方预览：https://getdesign.md/design-md/lamborghini/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/lamborghini.svg
 - 官方布局：editorial
-- 本地布局：editorial-cascade
+- 本地布局：editorial
 - 官方明暗：light
 - 本地明暗：light
 - 官方强调：neutral / monochrome
@@ -316,25 +316,25 @@
 - 失败原因：无
 - 修复动作：无需修复
 
-## Linear / PASS / 88.5
+## Linear / PASS / 100.0
 
 - 官方预览：https://getdesign.md/design-md/linear.app/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/linear.app.svg
 - 官方布局：dashboard
-- 本地布局：dashboard
+- 本地布局：dashboard-slab
 - 官方明暗：dark
-- 本地明暗：dark
+- 本地明暗：light
 - 官方强调：purple / color
 - 本地强调：purple / color
 - 失败原因：无
 - 修复动作：无需修复
 
-## Lovable / PASS / 92.2
+## Lovable / PASS / 96.2
 
 - 官方预览：https://getdesign.md/design-md/lovable/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/lovable.svg
 - 官方布局：dashboard
-- 本地布局：dashboard-slab
+- 本地布局：dashboard
 - 官方明暗：light
 - 本地明暗：light
 - 官方强调：red / color
@@ -342,12 +342,12 @@
 - 失败原因：无
 - 修复动作：无需修复
 
-## Mastercard / PASS / 91.0
+## Mastercard / PASS / 95.0
 
 - 官方预览：https://getdesign.md/design-md/mastercard/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/mastercard.svg
 - 官方布局：editorial
-- 本地布局：editorial-cascade
+- 本地布局：editorial
 - 官方明暗：light
 - 本地明暗：light
 - 官方强调：red / color
@@ -355,7 +355,7 @@
 - 失败原因：无
 - 修复动作：无需修复
 
-## Meta / PASS / 93.0
+## Meta / PASS / 97.0
 
 - 官方预览：https://getdesign.md/design-md/meta/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/meta.svg
@@ -368,12 +368,12 @@
 - 失败原因：无
 - 修复动作：无需修复
 
-## Minimax / PASS / 88.5
+## Minimax / PASS / 92.5
 
 - 官方预览：https://getdesign.md/design-md/minimax/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/minimax.svg
 - 官方布局：docs-grid
-- 本地布局：token-catalog-dark
+- 本地布局：docs-grid
 - 官方明暗：dark
 - 本地明暗：dark
 - 官方强调：blue / color
@@ -381,33 +381,33 @@
 - 失败原因：无
 - 修复动作：无需修复
 
-## Mintlify / PASS / 79.0
+## Mintlify / PASS / 94.0
 
 - 官方预览：https://getdesign.md/design-md/mintlify/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/mintlify.svg
 - 官方布局：docs-grid
 - 本地布局：docs-grid
 - 官方明暗：dark
-- 本地明暗：light
+- 本地明暗：dark
 - 官方强调：green / color
 - 本地强调：green / color
 - 失败原因：无
 - 修复动作：无需修复
 
-## Miro / PASS / 81.0
+## Miro / PASS / 100.0
 
 - 官方预览：https://getdesign.md/design-md/miro/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/miro.svg
 - 官方布局：creative
 - 本地布局：creative
 - 官方明暗：dark
-- 本地明暗：light
+- 本地明暗：dark
 - 官方强调：blue / color
-- 本地强调：yellow / color
+- 本地强调：purple / color
 - 失败原因：无
 - 修复动作：无需修复
 
-## Mistral AI / PASS / 87.0
+## Mistral AI / PASS / 95.0
 
 - 官方预览：https://getdesign.md/design-md/mistral.ai/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/mistral.ai.svg
@@ -416,24 +416,24 @@
 - 官方明暗：light
 - 本地明暗：light
 - 官方强调：red / color
-- 本地强调：purple / color
+- 本地强调：orange / color
 - 失败原因：无
 - 修复动作：无需修复
 
-## MongoDB / PASS / 75.0
+## MongoDB / PASS / 94.0
 
 - 官方预览：https://getdesign.md/design-md/mongodb/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/mongodb.svg
 - 官方布局：dashboard
 - 本地布局：dashboard
 - 官方明暗：mixed
-- 本地明暗：light
+- 本地明暗：mixed
 - 官方强调：blue / color
-- 本地强调：green / color
+- 本地强调：blue / color
 - 失败原因：无
 - 修复动作：无需修复
 
-## Nike / PASS / 88.5
+## Nike / PASS / 92.5
 
 - 官方预览：https://getdesign.md/design-md/nike/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/nike.svg
@@ -446,25 +446,25 @@
 - 失败原因：无
 - 修复动作：无需修复
 
-## Notion / PASS / 72.0
+## Notion / PASS / 95.0
 
 - 官方预览：https://getdesign.md/design-md/notion/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/notion.svg
 - 官方布局：docs-grid
-- 本地布局：dashboard
+- 本地布局：docs-grid
 - 官方明暗：dark
-- 本地明暗：light
+- 本地明暗：dark
 - 官方强调：blue / color
 - 本地强调：blue / color
 - 失败原因：无
 - 修复动作：无需修复
 
-## NVIDIA / PASS / 91.0
+## NVIDIA / PASS / 95.0
 
 - 官方预览：https://getdesign.md/design-md/nvidia/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/nvidia.svg
 - 官方布局：docs-grid
-- 本地布局：token-catalog-dark
+- 本地布局：docs-grid
 - 官方明暗：dark
 - 本地明暗：dark
 - 官方强调：green / color
@@ -472,7 +472,7 @@
 - 失败原因：无
 - 修复动作：无需修复
 
-## Ollama / PASS / 92.2
+## Ollama / PASS / 96.2
 
 - 官方预览：https://getdesign.md/design-md/ollama/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/ollama.svg
@@ -490,7 +490,7 @@
 - 官方预览：https://getdesign.md/design-md/opencode.ai/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/opencode.ai.svg
 - 官方布局：docs-grid
-- 本地布局：token-catalog-dark
+- 本地布局：docs-grid
 - 官方明暗：dark
 - 本地明暗：dark
 - 官方强调：blue / color
@@ -511,12 +511,12 @@
 - 失败原因：无
 - 修复动作：无需修复
 
-## PlayStation / PASS / 90.0
+## PlayStation / PASS / 94.0
 
 - 官方预览：https://getdesign.md/design-md/playstation/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/playstation.svg
 - 官方布局：dashboard
-- 本地布局：dashboard-slab
+- 本地布局：dashboard
 - 官方明暗：dark
 - 本地明暗：dark
 - 官方强调：blue / color
@@ -524,12 +524,12 @@
 - 失败原因：无
 - 修复动作：无需修复
 
-## PostHog / PASS / 92.2
+## PostHog / PASS / 96.2
 
 - 官方预览：https://getdesign.md/design-md/posthog/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/posthog.svg
 - 官方布局：editorial
-- 本地布局：editorial-cascade
+- 本地布局：editorial
 - 官方明暗：mixed
 - 本地明暗：mixed
 - 官方强调：red / color
@@ -537,20 +537,20 @@
 - 失败原因：无
 - 修复动作：无需修复
 
-## Raycast / PASS / 91.7
+## Raycast / PASS / 95.7
 
 - 官方预览：https://getdesign.md/design-md/raycast/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/raycast.svg
 - 官方布局：editorial
-- 本地布局：editorial-cascade
+- 本地布局：editorial
 - 官方明暗：dark
 - 本地明暗：dark
 - 官方强调：red / color
-- 本地强调：red / color
+- 本地强调：orange / color
 - 失败原因：无
 - 修复动作：无需修复
 
-## Renault / PASS / 93.5
+## Renault / PASS / 97.5
 
 - 官方预览：https://getdesign.md/design-md/renault/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/renault.svg
@@ -563,12 +563,12 @@
 - 失败原因：无
 - 修复动作：无需修复
 
-## Replicate / PASS / 90.0
+## Replicate / PASS / 94.0
 
 - 官方预览：https://getdesign.md/design-md/replicate/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/replicate.svg
 - 官方布局：docs-grid
-- 本地布局：token-catalog-dark
+- 本地布局：docs-grid
 - 官方明暗：dark
 - 本地明暗：dark
 - 官方强调：red / color
@@ -576,33 +576,33 @@
 - 失败原因：无
 - 修复动作：无需修复
 
-## Resend / PASS / 75.0
+## Resend / PASS / 95.0
 
 - 官方预览：https://getdesign.md/design-md/resend/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/resend.svg
 - 官方布局：docs-grid
-- 本地布局：dashboard
+- 本地布局：docs-grid
 - 官方明暗：dark
 - 本地明暗：dark
 - 官方强调：yellow / color
-- 本地强调：purple / color
+- 本地强调：orange / color
 - 失败原因：无
 - 修复动作：无需修复
 
-## Revolut / PASS / 78.0
+## Revolut / PASS / 97.0
 
 - 官方预览：https://getdesign.md/design-md/revolut/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/revolut.svg
 - 官方布局：dashboard
 - 本地布局：dashboard
 - 官方明暗：light
-- 本地明暗：dark
+- 本地明暗：light
 - 官方强调：blue / color
-- 本地强调：purple / color
+- 本地强调：blue / color
 - 失败原因：无
 - 修复动作：无需修复
 
-## RunwayML / PASS / 91.7
+## RunwayML / PASS / 97.5
 
 - 官方预览：https://getdesign.md/design-md/runwayml/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/runwayml.svg
@@ -611,24 +611,24 @@
 - 官方明暗：dark
 - 本地明暗：dark
 - 官方强调：purple / color
-- 本地强调：purple / color
+- 本地强调：blue / color
 - 失败原因：无
 - 修复动作：无需修复
 
-## Sanity / PASS / 87.7
+## Sanity / PASS / 91.7
 
 - 官方预览：https://getdesign.md/design-md/sanity/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/sanity.svg
 - 官方布局：dashboard
-- 本地布局：dashboard-slab
+- 本地布局：dashboard
 - 官方明暗：light
 - 本地明暗：light
 - 官方强调：red / color
-- 本地强调：red / color
+- 本地强调：orange / color
 - 失败原因：无
 - 修复动作：无需修复
 
-## Sentry / PASS / 82.0
+## Sentry / PASS / 94.0
 
 - 官方预览：https://getdesign.md/design-md/sentry/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/sentry.svg
@@ -637,16 +637,16 @@
 - 官方明暗：light
 - 本地明暗：light
 - 官方强调：purple / color
-- 本地强调：blue / color
+- 本地强调：purple / color
 - 失败原因：无
 - 修复动作：无需修复
 
-## Shopify / PASS / 93.5
+## Shopify / PASS / 97.5
 
 - 官方预览：https://getdesign.md/design-md/shopify/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/shopify.svg
 - 官方布局：dashboard
-- 本地布局：dashboard-slab
+- 本地布局：dashboard
 - 官方明暗：light
 - 本地明暗：light
 - 官方强调：green / color
@@ -654,7 +654,7 @@
 - 失败原因：无
 - 修复动作：无需修复
 
-## SpaceX / PASS / 73.2
+## SpaceX / PASS / 96.2
 
 - 官方预览：https://getdesign.md/design-md/spacex/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/spacex.svg
@@ -663,7 +663,7 @@
 - 官方明暗：dark
 - 本地明暗：dark
 - 官方强调：red / color
-- 本地强调：neutral / monochrome
+- 本地强调：red / color
 - 失败原因：无
 - 修复动作：无需修复
 
@@ -680,7 +680,7 @@
 - 失败原因：无
 - 修复动作：无需修复
 
-## Stripe / PASS / 86.0
+## Stripe / PASS / 90.0
 
 - 官方预览：https://getdesign.md/design-md/stripe/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/stripe.svg
@@ -689,11 +689,11 @@
 - 官方明暗：light
 - 本地明暗：light
 - 官方强调：purple / color
-- 本地强调：blue / color
+- 本地强调：purple / color
 - 失败原因：无
 - 修复动作：无需修复
 
-## Supabase / PASS / 92.5
+## Supabase / PASS / 100.0
 
 - 官方预览：https://getdesign.md/design-md/supabase/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/supabase.svg
@@ -706,20 +706,20 @@
 - 失败原因：无
 - 修复动作：无需修复
 
-## Superhuman / PASS / 86.0
+## Superhuman / PASS / 94.0
 
 - 官方预览：https://getdesign.md/design-md/superhuman/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/superhuman.svg
 - 官方布局：dashboard
-- 本地布局：editor-workbench
+- 本地布局：dashboard
 - 官方明暗：dark
 - 本地明暗：dark
 - 官方强调：blue / color
-- 本地强调：purple / color
+- 本地强调：blue / color
 - 失败原因：无
 - 修复动作：无需修复
 
-## Tesla / PASS / 90.0
+## Tesla / PASS / 94.0
 
 - 官方预览：https://getdesign.md/design-md/tesla/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/tesla.svg
@@ -732,12 +732,12 @@
 - 失败原因：无
 - 修复动作：无需修复
 
-## The Verge / PASS / 88.5
+## The Verge / PASS / 92.5
 
 - 官方预览：https://getdesign.md/design-md/theverge/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/theverge.svg
 - 官方布局：dashboard
-- 本地布局：dashboard-slab
+- 本地布局：dashboard
 - 官方明暗：light
 - 本地明暗：light
 - 官方强调：green / color
@@ -745,12 +745,12 @@
 - 失败原因：无
 - 修复动作：无需修复
 
-## Together AI / PASS / 88.5
+## Together AI / PASS / 92.5
 
 - 官方预览：https://getdesign.md/design-md/together.ai/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/together.ai.svg
 - 官方布局：docs-grid
-- 本地布局：token-catalog-dark
+- 本地布局：docs-grid
 - 官方明暗：dark
 - 本地明暗：dark
 - 官方强调：red / color
@@ -758,7 +758,7 @@
 - 失败原因：无
 - 修复动作：无需修复
 
-## Uber / PASS / 93.0
+## Uber / PASS / 97.0
 
 - 官方预览：https://getdesign.md/design-md/uber/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/uber.svg
@@ -771,7 +771,7 @@
 - 失败原因：无
 - 修复动作：无需修复
 
-## Vercel / PASS / 96.0
+## Vercel / PASS / 100.0
 
 - 官方预览：https://getdesign.md/design-md/vercel/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/vercel.svg
@@ -784,7 +784,7 @@
 - 失败原因：无
 - 修复动作：无需修复
 
-## Vodafone / PASS / 96.0
+## Vodafone / PASS / 100.0
 
 - 官方预览：https://getdesign.md/design-md/vodafone/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/vodafone.svg
@@ -797,12 +797,12 @@
 - 失败原因：无
 - 修复动作：无需修复
 
-## VoltAgent / PASS / 90.0
+## VoltAgent / PASS / 94.0
 
 - 官方预览：https://getdesign.md/design-md/voltagent/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/voltagent.svg
 - 官方布局：docs-grid
-- 本地布局：token-catalog-dark
+- 本地布局：docs-grid
 - 官方明暗：dark
 - 本地明暗：dark
 - 官方强调：green / color
@@ -810,12 +810,12 @@
 - 失败原因：无
 - 修复动作：无需修复
 
-## Warp / PASS / 89.6
+## Warp / PASS / 93.6
 
 - 官方预览：https://getdesign.md/design-md/warp/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/warp.svg
 - 官方布局：editorial
-- 本地布局：editorial-cascade
+- 本地布局：editorial
 - 官方明暗：dark
 - 本地明暗：dark
 - 官方强调：red / color
@@ -823,20 +823,20 @@
 - 失败原因：无
 - 修复动作：无需修复
 
-## Webflow / PASS / 89.0
+## Webflow / PASS / 100.0
 
 - 官方预览：https://getdesign.md/design-md/webflow/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/webflow.svg
 - 官方布局：creative
 - 本地布局：creative
 - 官方明暗：dark
-- 本地明暗：light
+- 本地明暗：dark
 - 官方强调：blue / color
 - 本地强调：blue / color
 - 失败原因：无
 - 修复动作：无需修复
 
-## WIRED / PASS / 83.0
+## WIRED / PASS / 100.0
 
 - 官方预览：https://getdesign.md/design-md/wired/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/wired.svg
@@ -845,11 +845,11 @@
 - 官方明暗：light
 - 本地明暗：light
 - 官方强调：red / color
-- 本地强调：blue / color
+- 本地强调：red / color
 - 失败原因：无
 - 修复动作：无需修复
 
-## Wise / PASS / 96.0
+## Wise / PASS / 100.0
 
 - 官方预览：https://getdesign.md/design-md/wise/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/wise.svg
@@ -862,7 +862,7 @@
 - 失败原因：无
 - 修复动作：无需修复
 
-## xAI / PASS / 96.0
+## xAI / PASS / 100.0
 
 - 官方预览：https://getdesign.md/design-md/x.ai/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/x.ai.svg
@@ -875,7 +875,7 @@
 - 失败原因：无
 - 修复动作：无需修复
 
-## Zapier / PASS / 84.2
+## Zapier / PASS / 96.2
 
 - 官方预览：https://getdesign.md/design-md/zapier/preview.html
 - 本地缩略图：/Users/aoyisheji2/.codex/skills/style-compass/assets/thumbnails/zapier.svg
@@ -884,6 +884,6 @@
 - 官方明暗：light
 - 本地明暗：light
 - 官方强调：orange / color
-- 本地强调：red / color
+- 本地强调：orange / color
 - 失败原因：无
 - 修复动作：无需修复

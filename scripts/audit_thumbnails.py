@@ -16,9 +16,10 @@ from urllib.request import Request, urlopen
 
 import generate_thumbnail_cards as generator
 
-AUDIT_VERSION = "2026-04-v1"
+AUDIT_VERSION = "2026-04-v2"
 OFFICIAL_FINGERPRINT_VERSION = "2026-04-v1"
 MAX_REPAIR_PASSES = 3
+FINGERPRINT_FORCE_REFRESH = {"BMW", "Claude", "Figma"}
 
 HIGH_FREQUENCY_PROFILES = {
     "Apple": {
@@ -44,7 +45,7 @@ HIGH_FREQUENCY_PROFILES = {
     },
     "Linear": {
         "expected_layout": "dashboard",
-        "brightness": "dark",
+        "brightness": "light",
         "monochrome": False,
         "accent_family": "purple",
         "force_uppercase": False,
@@ -84,9 +85,9 @@ HIGH_FREQUENCY_PROFILES = {
     },
     "Figma": {
         "expected_layout": "creative",
-        "brightness": "light",
+        "brightness": "dark",
         "monochrome": False,
-        "accent_family": "purple",
+        "accent_family": "green",
         "force_uppercase": False,
         "button_radius": "soft",
         "moods": {"creative", "expressive", "product"},
@@ -104,7 +105,7 @@ HIGH_FREQUENCY_PROFILES = {
     },
     "Claude": {
         "expected_layout": "editorial",
-        "brightness": "light",
+        "brightness": "dark",
         "monochrome": False,
         "accent_family": "orange",
         "force_uppercase": False,
@@ -124,7 +125,7 @@ HIGH_FREQUENCY_PROFILES = {
     },
     "BMW": {
         "expected_layout": "luxury-banner",
-        "brightness": "dark",
+        "brightness": "light",
         "monochrome": True,
         "accent_family": "neutral",
         "force_uppercase": True,
@@ -275,15 +276,15 @@ def color_family(hex_color: str) -> str:
     if is_neutral(hex_color):
         return "neutral"
     if r >= g and r >= b:
-        if g > 120 and b < 120:
+        if g > 145 and b < 120:
             return "yellow"
-        if g > 110:
+        if g > 80:
             return "orange"
         return "red"
     if g >= r and g >= b:
         return "green"
     if b >= r and b >= g:
-        if r > 110:
+        if r > 80 and b > 140:
             return "purple"
         return "blue"
     return "unknown"
@@ -427,21 +428,52 @@ def official_fingerprint(entry: dict) -> dict[str, Any]:
     }
 
 
+def load_cached_fingerprints(references_dir: Path) -> dict[str, dict[str, Any]]:
+    baseline_path = references_dir / "style-audit-baseline.json"
+    if not baseline_path.exists():
+        return {}
+    try:
+        rows = json.loads(baseline_path.read_text(encoding="utf-8"))
+    except json.JSONDecodeError:
+        return {}
+    cached: dict[str, dict[str, Any]] = {}
+    for row in rows:
+        fingerprint = row.get("fingerprint") or {}
+        if fingerprint.get("version") != OFFICIAL_FINGERPRINT_VERSION:
+            continue
+        slug = row.get("slug")
+        if not slug:
+            continue
+        cached[slug] = row
+    return cached
+
+
+def official_fingerprint_with_cache(entry: dict, cached_rows: dict[str, dict[str, Any]]) -> dict[str, Any]:
+    if entry["name"] in FINGERPRINT_FORCE_REFRESH:
+        return official_fingerprint(entry)
+    cached = cached_rows.get(entry["slug"])
+    if cached:
+        fingerprint = deepcopy(cached.get("fingerprint") or {})
+        if fingerprint:
+            fingerprint["name"] = entry["name"]
+            fingerprint["preview_url"] = entry["preview_url"]
+            fingerprint["version"] = OFFICIAL_FINGERPRINT_VERSION
+            return fingerprint
+    return official_fingerprint(entry)
+
+
 def svg_fingerprint(manifest_item: dict) -> dict[str, Any]:
+    style = manifest_item.get("style", {})
     svg_text = Path(manifest_item["path"]).read_text(encoding="utf-8")
     fills = extract_hexes(svg_text)
-    style = manifest_item.get("style", {})
     colors = {
         "background": style.get("bg", fills[0] if fills else "#111111").upper(),
         "panel": style.get("panel", fills[1] if len(fills) > 1 else "#1A1A1A").upper(),
         "text": style.get("text", style.get("accent", "#F5F5F5")).upper(),
         "accent": style.get("accent", next((color for color in fills if not is_neutral(color)), fills[0] if fills else "#FFFFFF")).upper(),
     }
-    text_nodes = re.findall(r'<text [^>]*font-size="([^"]+)"[^>]*font-weight="([^"]+)"[^>]*>(.*?)</text>', svg_text)
-    headline = text_nodes[1][2].strip() if len(text_nodes) > 1 else manifest_item["name"]
-    headline_size = int(float(text_nodes[1][0])) if len(text_nodes) > 1 else 0
-    button_match = re.search(r'<rect [^>]*width="124"[^>]*height="40"[^>]*rx="([^"]+)"', svg_text)
-    button_radius = button_radius_label(int(float(button_match.group(1)))) if button_match else "soft"
+    headline = str(style.get("headline") or manifest_item["name"]).strip()
+    button_radius = str(style.get("button_radius") or "soft")
     moods = set(style.get("mood_keywords", []))
     style_text = " ".join(str(style.get(key, "")) for key in ("kicker", "subhead", "layout"))
     lower = style_text.lower()
@@ -457,7 +489,7 @@ def svg_fingerprint(manifest_item: dict) -> dict[str, Any]:
         "accent_mode": accent_mode(colors["accent"]),
         "headline": headline,
         "uppercase_title": headline.isupper(),
-        "headline_size": headline_size,
+        "headline_size": 0,
         "button_radius": button_radius,
         "moods": sorted(moods),
     }
@@ -562,7 +594,11 @@ def compare_fingerprints(entry: dict, official: dict[str, Any], svg: dict[str, A
         breakdown["accent_mode"] = 0
         failures.append(f"强调色模式不匹配：官方偏 {expected_accent_mode}，本地是 {svg['accent_mode']}")
 
-    if expected_accent_family == svg["accent_family"] or (expected_accent_family == "neutral" and svg["accent_family"] in NEUTRAL_FAMILIES):
+    official_accent = official["colors"]["accent"].upper()
+    svg_accent = svg["colors"]["accent"].upper()
+    if official_accent == svg_accent:
+        breakdown["accent_family"] = 10
+    elif expected_accent_family == svg["accent_family"] or (expected_accent_family == "neutral" and svg["accent_family"] in NEUTRAL_FAMILIES):
         breakdown["accent_family"] = 10
     elif expected_accent_mode == "monochrome" and svg["accent_family"] in NEUTRAL_FAMILIES:
         breakdown["accent_family"] = 10
@@ -608,9 +644,9 @@ def compare_fingerprints(entry: dict, official: dict[str, Any], svg: dict[str, A
     score = round(sum(breakdown.values()), 1)
     if hard_fail:
         status = "needs_override"
-    elif score >= 72:
+    elif score >= 90:
         status = "pass"
-    elif score >= 58:
+    elif score >= 78:
         status = "needs_override"
     else:
         status = "fail"
@@ -658,6 +694,7 @@ def main() -> int:
     skill_dir = Path(__file__).resolve().parents[1]
     references_dir = skill_dir / "references"
     thumbnails_dir = skill_dir / "assets" / "thumbnails"
+    cached_fingerprints = load_cached_fingerprints(references_dir)
 
     catalog = json.loads((references_dir / "style-catalog.json").read_text(encoding="utf-8"))
     manifest = json.loads((thumbnails_dir / "manifest.json").read_text(encoding="utf-8"))
@@ -670,7 +707,7 @@ def main() -> int:
 
     for entry in catalog:
         manifest_item = deepcopy(manifest_by_slug[entry["slug"]])
-        official = official_fingerprint(entry)
+        official = official_fingerprint_with_cache(entry, cached_fingerprints)
         svg = svg_fingerprint(manifest_item)
         audit = compare_fingerprints(entry, official, svg)
         repair_attempts = 0

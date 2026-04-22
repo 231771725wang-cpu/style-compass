@@ -1,14 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="768" height="432" viewBox="0 0 768 432" fill="none">
-  <rect width="768" height="432" rx="36" fill="#0d1117"/>
-  <rect x="28" y="28" width="712" height="376" rx="28" fill="#1b1f24" stroke="#3b82f6" stroke-opacity="0.16"/>
-  <rect x="48" y="48" width="88" height="336" rx="20" fill="#ffffff" fill-opacity="0.04"/>
-  <rect x="152" y="48" width="366" height="336" rx="20" fill="#0d1117" fill-opacity="0.42"/>
-  <rect x="170" y="70" width="330" height="20" rx="10" fill="#ffffff" fill-opacity="0.05"/>
-  <rect x="170" y="114" width="214" height="14" rx="7" fill="#3b82f6" fill-opacity="0.20"/>
-  <rect x="170" y="142" width="188" height="10" rx="5" fill="#94a3b8" fill-opacity="0.20"/>
-  <rect x="170" y="162" width="164" height="10" rx="5" fill="#94a3b8" fill-opacity="0.16"/>
-  <rect x="540" y="48" width="180" height="148" rx="20" fill="#ffffff" fill-opacity="0.05"/>
-  <text x="540" y="238" fill="#3b82f6" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="2">CREATIVE TOOL</text>
-  <text x="540" y="298" fill="#f5f7fb" font-family="Helvetica, Arial, sans-serif" font-size="48" font-weight="800" letter-spacing="-1">Framer</text>
-  <text x="540" y="328" fill="#94a3b8" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="500">蓝色点缀，大胆、强标题，整体更偏大胆张扬…</text>
+  <rect width="768" height="432" rx="36" fill="#000000"/>
+  <rect x="34" y="34" width="700" height="364" rx="28" fill="#FFFFFF" stroke="#0099FF" stroke-opacity="0.10"/>
+  <text x="62" y="90" fill="#0099FF" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="2">MOTION SYSTEM</text>
+  <text x="62" y="150" fill="#090909" font-family="Helvetica, Arial, sans-serif" font-size="56" font-weight="800" letter-spacing="-1">Framer</text>
+  <rect x="62" y="184" width="198" height="12" rx="6" fill="#97a0aa" fill-opacity="0.22"/>
+  <rect x="62" y="226" width="174" height="136" rx="20" fill="#ffffff" fill-opacity="0.88"/>
+  <rect x="248" y="226" width="174" height="136" rx="20" fill="#8cd1ff" fill-opacity="0.28"/>
+  <rect x="434" y="226" width="114" height="136" rx="20" fill="#ffffff" fill-opacity="0.70"/>
+  <rect x="560" y="226" width="114" height="136" rx="20" fill="#ffffff" fill-opacity="0.48"/>
 </svg>

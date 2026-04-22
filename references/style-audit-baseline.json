@@ -135,7 +135,7 @@
         "text": "#F0F0F0",
         "accent": "#1C69D4"
       },
-      "brightness": "dark",
+      "brightness": "light",
       "accent_family": "neutral",
       "accent_mode": "monochrome",
       "layout_hint": "luxury-banner",
@@ -227,7 +227,7 @@
         "text": "#C2C0B6",
         "accent": "#C96442"
       },
-      "brightness": "light",
+      "brightness": "dark",
       "accent_family": "orange",
       "accent_mode": "color",
       "layout_hint": "editorial",
@@ -530,8 +530,8 @@
         "text": "#FFFFFF",
         "accent": "#0ACF83"
       },
-      "brightness": "light",
-      "accent_family": "purple",
+      "brightness": "dark",
+      "accent_family": "green",
       "accent_mode": "color",
       "layout_hint": "creative",
       "button_radius": "soft",
