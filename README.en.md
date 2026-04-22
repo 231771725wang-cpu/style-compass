@@ -1,29 +1,48 @@
 # English · [中文](README.md)
 
-# Style Compass
+<div align="center">
+  <h1>Style Compass</h1>
+  <p><em>"Browse directions first. Decide with confidence. Hand off a style recommendation that can actually be built."</em></p>
+  <p>
+    <a href="./LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-5b5b5b"></a>
+    <img alt="Install: Local Git" src="https://img.shields.io/badge/Install-Local_Git-111111">
+    <img alt="Entry: Style Gallery" src="https://img.shields.io/badge/Entry-Style_Gallery-1f6feb">
+    <img alt="Chinese-first" src="https://img.shields.io/badge/Language-Chinese_first-0f766e">
+    <a href="https://github.com/VoltAgent/awesome-design-md"><img alt="Built on awesome-design-md" src="https://img.shields.io/badge/Built_on-awesome--design--md-7a3cff"></a>
+  </p>
+</div>
 
-Browse the gallery first, then let Style Compass recommend three stronger UI directions for your project and continue into a handoff-ready design draft.
+> "Do not start redesigning blind. Build the reference frame first, then narrow the field to the one to three directions worth pursuing."
+
+**Style Compass** turns “help me choose a UI style” into a workflow you can browse, compare, filter, and hand off. Instead of forcing an immediate choice between Apple, Stripe, Linear, Nike, Vercel, and similar directions, it starts with a gallery so you can see the landscape first and only then ask the skill for a buildable recommendation.
+
+This repository builds on the public style references from [getdesign.md](https://getdesign.md) and [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md), then adds a Chinese-first entry, a local style gallery, thumbnail audit corrections, and a recommendation plus handoff workflow for Codex. It is not just a card collection; it is a release-grade front door for direction-finding.
+
+If you are still wavering between Apple, Stripe, Linear, Nike, Vercel, and adjacent routes, open the gallery before you touch your current UI.
+
+**Open the gallery first:** [Style Gallery](风格总览（Style Gallery）.html)  
+**Install into Codex:** `git clone https://github.com/231771725wang-cpu/style-compass.git ~/.codex/skills/style-compass`  
+**Upstream sources:** [getdesign.md](https://getdesign.md) / [awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
+
+## Preview
 
 ![Style Gallery GitHub Preview](assets/gallery/previews/style-gallery-github-preview.png)
 
-**Open the gallery first:** [Style Gallery](风格总览（Style Gallery）.html)  
-**Read the skill spec:** [SKILL.md](SKILL.md)
+## Install
 
-**Original project site:** [getdesign.md](https://getdesign.md)  
-**Upstream repository:** [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
+```bash
+git clone https://github.com/231771725wang-cpu/style-compass.git ~/.codex/skills/style-compass
+```
 
-Style Compass turns “help me choose a UI style” into a workflow you can browse, compare, and hand off. It helps you inspect directions first, then recommends three stronger candidates based on project type, screenshots, repository clues, or redesign constraints, and can continue into `DESIGN.md` or `UI-REFACTOR.md`.
+If you already installed an earlier version:
 
-This repository builds on `getdesign.md / awesome-design-md` and adds a local gallery, Chinese-first entrypoints, thumbnail audits, and a recommendation workflow for Codex.
+```bash
+git -C ~/.codex/skills/style-compass pull
+```
 
-## Start With The Gallery
+After installation, start here:
 
-If this is your first time using the skill, or you only know that you want something “more premium,” “more Apple,” or “more Linear,” the gallery is the fastest way to establish direction.
-
-- Local entry: open `风格总览（Style Gallery）.html`
-- Folder entry: open `风格总览（Style Gallery）/`
-- Online hosting: publish `assets/gallery/style-gallery.html` via GitHub Pages, Vercel, or any static host
-- GitHub preview: use the hero screenshot first, then open the full page locally when needed
+- [Style Gallery](风格总览（Style Gallery）.html)
 
 ## What You Get
 
@@ -34,36 +53,42 @@ If this is your first time using the skill, or you only know that you want somet
 - Direct links to official preview pages
 - Follow-up drafts for `DESIGN.md` or `UI-REFACTOR.md`
 
-## Showcase
+## Hot List
 
-### 1. GitHub Hero Preview
+![Live Hot List](assets/gallery/previews/style-gallery-live-hot.png)
 
-![GitHub Hero Preview](assets/gallery/previews/style-gallery-github-preview.png)
+This screenshot comes directly from the current hot-list area of the gallery and helps you inspect the most-referenced directions first.
 
-This image is for the top of the README, repo overview, and social sharing. The hero now uses live screenshots from the current gallery instead of older placeholder artwork.
+## Category Favorites
 
-### 2. Live Hot List
+![Live Category Favorites](assets/gallery/previews/style-gallery-live-category.png)
 
-![Style Gallery Live Hot List](assets/gallery/previews/style-gallery-live-hot.png)
+The gallery is not just one ranking. It also lets you compare adjacent styles inside the same cluster instead of forcing a choice across unrelated visual languages.
 
-This screenshot comes directly from the current hot-list section of the gallery. The first row should match the local browsing experience.
+## Suggested Flow
 
-### 3. Live Category Favorites
+1. Open the Style Gallery and skim the hot list plus category favorites.
+2. Narrow the field to one to three candidate directions.
+3. Ask Style Compass for a structured recommendation with fit, risk, and handoff output.
+4. Continue into `DESIGN.md` or `UI-REFACTOR.md`, then pass that to an implementation-focused skill.
 
-![Style Gallery Live Category Favorites](assets/gallery/previews/style-gallery-live-category.png)
+## Who It Helps
 
-This screenshot shows that the gallery is not just one ranking. It also supports horizontal comparison inside each style cluster.
-
-## Suggested First-Time Flow
-
-1. Open the gallery and skim the hot list plus category favorites.
-2. Narrow the field to one to three candidates.
-3. Run Style Compass for a structured recommendation.
-4. Continue into `DESIGN.md` or `UI-REFACTOR.md` for handoff.
+- Anyone who wants to inspect direction before picking a style
+- Teams wavering between Apple / Stripe / Linear / Nike / Vercel references
+- Existing projects that need a UI upgrade without jumping straight into implementation
+- People who want to establish a reference frame before handing work to frontend execution
 
 ## Repo Entrypoints
 
 - Gallery entry: [`风格总览（Style Gallery）.html`](风格总览（Style Gallery）.html)
 - Gallery folder: [`风格总览（Style Gallery）/`](风格总览（Style Gallery）/)
 - Built gallery page: [`assets/gallery/style-gallery.html`](assets/gallery/style-gallery.html)
+- Chinese homepage: [`README.md`](README.md)
 - Skill spec: [`SKILL.md`](SKILL.md)
+- Gallery build script: [`scripts/build_style_gallery.py`](scripts/build_style_gallery.py)
+- GitHub preview builder: [`scripts/build_github_preview.py`](scripts/build_github_preview.py)
+
+## Disclaimer
+
+This repository is built on public style references for direction-finding, recommendation, and handoff. It does not imply official affiliation with the referenced brands or websites.
