@@ -1,8 +1,22 @@
 # [English](README.en.md) · 中文
 
-# 风格罗盘（style-compass）
+<div align="center">
+  <h1>风格罗盘</h1>
+  <p><em>“先浏览一下。坚定地选择。交出一个真正能建造的方向。”</em></p>
+  <p>
+    <a href="./LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-5b5b5b"></a>
+    <img alt="安装方式：本地 Git" src="https://img.shields.io/badge/安装方式-Local_Git-2f2f2f">
+    <img alt="Codex Skill" src="https://img.shields.io/badge/Codex-Skill-111111">
+    <img alt="README 双语" src="https://img.shields.io/badge/README-双语-1f6feb">
+    <a href="https://github.com/VoltAgent/awesome-design-md"><img alt="基于 awesome-design-md" src="https://img.shields.io/badge/基于-awesome--design--md-7a3cff"></a>
+  </p>
+</div>
 
-先看风格总览，再让风格罗盘为你的项目推荐 3 种更合适的 UI 风格，并继续生成可交接的设计或改版草稿。
+> **风格罗盘（style-compass）** 不是单纯给你一堆风格卡，而是把“帮我挑 UI 风格”这件事做成一个可浏览、可比较、可交接的工作流。
+
+这个仓库基于 [getdesign.md](https://getdesign.md) 与 [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) 的公开风格资料，补上了本地总览页、中文入口、缩略图审计，以及适合 Codex 使用的推荐与 handoff 流程。
+
+如果你还在 Apple、Stripe、Linear、Nike、Vercel 这些路线之间摇摆，正确顺序不是直接开改，而是先用它建立参照，再收敛方向。
 
 ![风格总览（Style Gallery）GitHub 预览](assets/gallery/previews/style-gallery-github-preview.png)
 
@@ -11,10 +25,6 @@
 
 **原项目地址：** [getdesign.md](https://getdesign.md)  
 **上游仓库：** [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
-
-这是一个把“帮我挑风格”变成可浏览、可比较、可交接流程的 skill。它不只是带你逛总览页，而是先帮你横向看方向，再根据项目类型、页面语境、仓库线索或改版约束，推荐 3 个更合适的候选风格，解释为什么适合、哪里有风险，最后继续生成 `DESIGN.md` 或 `UI-REFACTOR.md` 草稿。
-
-这个 skill 的风格库与官方预览入口，基于原项目 `getdesign.md / awesome-design-md` 做了本地总览、中文入口、缩略图审计和推荐工作流封装。
 
 ## 先看总览
 
