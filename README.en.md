@@ -20,8 +20,8 @@ This repository builds on the public style references from [getdesign.md](https:
 
 If you are still wavering between Apple, Stripe, Linear, Nike, Vercel, and adjacent routes, open the gallery before you touch your current UI.
 
-**Stable web preview:** [https://231771725wang-cpu.github.io/style-compass/](https://231771725wang-cpu.github.io/style-compass/)  
-**Install into Codex:** `git clone https://github.com/231771725wang-cpu/style-compass.git ~/.codex/skills/style-compass`  
+**Stable web preview:** [https://super-niangao-hero.github.io/style-compass/](https://super-niangao-hero.github.io/style-compass/)  
+**Install into Codex:** `git clone https://github.com/super-niangao-hero/style-compass.git ~/.codex/skills/style-compass`  
 **Upstream sources:** [getdesign.md](https://getdesign.md) / [awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
 
 ## Preview
@@ -31,7 +31,7 @@ If you are still wavering between Apple, Stripe, Linear, Nike, Vercel, and adjac
 ## Install
 
 ```bash
-git clone https://github.com/231771725wang-cpu/style-compass.git ~/.codex/skills/style-compass
+git clone https://github.com/super-niangao-hero/style-compass.git ~/.codex/skills/style-compass
 ```
 
 If you already installed an earlier version:
@@ -83,7 +83,7 @@ The gallery is not just one ranking. It also lets you compare adjacent styles in
 
 > GitHub displays `.html` files as source code instead of rendering them as interactive pages. Use the GitHub Pages preview above, or clone/download the repository and open the local entry file in a browser. Gallery cards open local previews first and keep `getdesign.md` as an optional fallback.
 
-- Stable web preview: [`https://231771725wang-cpu.github.io/style-compass/`](https://231771725wang-cpu.github.io/style-compass/)
+- Stable web preview: [`https://super-niangao-hero.github.io/style-compass/`](https://super-niangao-hero.github.io/style-compass/)
 - Gallery entry: [`风格总览（Style Gallery）.html`](风格总览（Style%20Gallery）.html)
 - Gallery folder: [`风格总览（Style Gallery）/`](风格总览（Style%20Gallery）/)
 - Built gallery page: [`assets/gallery/style-gallery.html`](assets/gallery/style-gallery.html)
