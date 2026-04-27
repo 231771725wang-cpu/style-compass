@@ -20,7 +20,7 @@ This repository builds on the public style references from [getdesign.md](https:
 
 If you are still wavering between Apple, Stripe, Linear, Nike, Vercel, and adjacent routes, open the gallery before you touch your current UI.
 
-**Open the gallery first:** [Style Gallery](风格总览（Style Gallery）.html)  
+**Stable web preview:** [https://231771725wang-cpu.github.io/style-compass/](https://231771725wang-cpu.github.io/style-compass/)  
 **Install into Codex:** `git clone https://github.com/231771725wang-cpu/style-compass.git ~/.codex/skills/style-compass`  
 **Upstream sources:** [getdesign.md](https://getdesign.md) / [awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
 
@@ -50,7 +50,7 @@ After installation, start here:
 - Global hot list and category hot lists
 - Chinese-first browsing with an English toggle
 - Search, category, and layout filters
-- Direct links to official preview pages
+- Local preview cards, with official preview links kept only as fallbacks
 - Follow-up drafts for `DESIGN.md` or `UI-REFACTOR.md`
 
 ## Hot List
@@ -81,8 +81,11 @@ The gallery is not just one ranking. It also lets you compare adjacent styles in
 
 ## Repo Entrypoints
 
-- Gallery entry: [`风格总览（Style Gallery）.html`](风格总览（Style Gallery）.html)
-- Gallery folder: [`风格总览（Style Gallery）/`](风格总览（Style Gallery）/)
+> GitHub displays `.html` files as source code instead of rendering them as interactive pages. Use the GitHub Pages preview above, or clone/download the repository and open the local entry file in a browser. Gallery cards open local previews first and keep `getdesign.md` as an optional fallback.
+
+- Stable web preview: [`https://231771725wang-cpu.github.io/style-compass/`](https://231771725wang-cpu.github.io/style-compass/)
+- Gallery entry: [`风格总览（Style Gallery）.html`](风格总览（Style%20Gallery）.html)
+- Gallery folder: [`风格总览（Style Gallery）/`](风格总览（Style%20Gallery）/)
 - Built gallery page: [`assets/gallery/style-gallery.html`](assets/gallery/style-gallery.html)
 - Chinese homepage: [`README.md`](README.md)
 - Skill spec: [`SKILL.md`](SKILL.md)

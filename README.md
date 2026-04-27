@@ -20,7 +20,7 @@
 
 如果你正在苹果、Stripe、Linear、Nike、Vercel 这些路线之间摇摆，先打开总览页，而不是先动手改现有界面。
 
-**先打开总览：** [风格总览（Style Gallery）](风格总览（Style Gallery）.html)  
+**稳定网页版预览：** [https://231771725wang-cpu.github.io/style-compass/](https://231771725wang-cpu.github.io/style-compass/)  
 **安装到 Codex：** `git clone https://github.com/231771725wang-cpu/style-compass.git ~/.codex/skills/style-compass`  
 **上游项目：** [getdesign.md](https://getdesign.md) / [awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
 
@@ -42,7 +42,7 @@ git -C ~/.codex/skills/style-compass pull
 
 安装后优先从这个入口开始：
 
-- [风格总览（Style Gallery）.html](风格总览（Style Gallery）.html)
+- [风格总览（Style Gallery）.html](风格总览（Style%20Gallery）.html)
 
 ## 你会得到什么
 
@@ -50,7 +50,7 @@ git -C ~/.codex/skills/style-compass pull
 - 热门总榜与分类热门榜
 - 中文优先浏览，可切换英文
 - 搜索、分类和布局筛选
-- 每张卡片直达官方预览页
+- 每张卡默认打开本地预览，官方预览链接只作为备用入口
 - 风格收敛后继续输出 `DESIGN.md` 或 `UI-REFACTOR.md`
 
 ## 热门总览
@@ -81,8 +81,11 @@ git -C ~/.codex/skills/style-compass pull
 
 ## 仓库入口
 
-- 总览页入口：[`风格总览（Style Gallery）.html`](风格总览（Style Gallery）.html)
-- 总览文件夹：[`风格总览（Style Gallery）/`](风格总览（Style Gallery）/)
+> GitHub 会把 `.html` 文件当源码展示，不会直接渲染成交互网页。请使用上面的 GitHub Pages 预览，或先 clone / 下载仓库后在本地浏览器打开入口文件。卡片默认使用本地预览，不依赖 `getdesign.md`；官方预览链接只作为备用入口保留。
+
+- 稳定网页版：[`https://231771725wang-cpu.github.io/style-compass/`](https://231771725wang-cpu.github.io/style-compass/)
+- 总览页入口：[`风格总览（Style Gallery）.html`](风格总览（Style%20Gallery）.html)
+- 总览文件夹：[`风格总览（Style Gallery）/`](风格总览（Style%20Gallery）/)
 - 实际构建页：[`assets/gallery/style-gallery.html`](assets/gallery/style-gallery.html)
 - 英文说明：[`README.en.md`](README.en.md)
 - Skill 规范：[`SKILL.md`](SKILL.md)

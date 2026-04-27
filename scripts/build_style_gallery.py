@@ -123,7 +123,11 @@ UI_STRINGS = {
         "rank_reason_label": "为什么热门",
         "best_for_label": "适用",
         "mood_label": "关键词",
-        "preview_entry": "风格预览",
+        "preview_entry": "本地预览",
+        "official_preview": "打开官方预览",
+        "official_design": "打开官方说明",
+        "preview_note": "本地预览不依赖外部站点；官方链接可能受证书或网络环境影响。",
+        "preview_close": "关闭",
         "preview_only": "仅预览页",
         "rank_badge": "第 {rank} 名",
         "category_top_label": "分类 Top 3",
@@ -193,7 +197,11 @@ UI_STRINGS = {
         "rank_reason_label": "Why it ranks",
         "best_for_label": "Best for",
         "mood_label": "Keywords",
-        "preview_entry": "Style preview",
+        "preview_entry": "Local preview",
+        "official_preview": "Open official preview",
+        "official_design": "Open official notes",
+        "preview_note": "The local preview works offline. Official links may depend on certificate and network conditions.",
+        "preview_close": "Close",
         "preview_only": "Preview only",
         "rank_badge": "No. {rank}",
         "category_top_label": "Category Top 3",
@@ -928,6 +936,109 @@ def build_html(payload: dict) -> str:
         color: #050505;
         border-color: #f5f5ef;
       }}
+      .preview-modal {{
+        position: fixed;
+        inset: 0;
+        z-index: 80;
+        display: grid;
+        place-items: center;
+        padding: 22px;
+      }}
+      .preview-backdrop {{
+        position: absolute;
+        inset: 0;
+        background: rgba(0, 0, 0, 0.74);
+        backdrop-filter: blur(12px);
+      }}
+      .preview-panel {{
+        position: relative;
+        z-index: 1;
+        width: min(960px, 100%);
+        max-height: min(860px, calc(100vh - 44px));
+        overflow: auto;
+        display: grid;
+        grid-template-columns: minmax(280px, 0.9fr) minmax(0, 1.1fr);
+        gap: 18px;
+        padding: 18px;
+        border-radius: 14px;
+        border: 1px solid var(--line-strong);
+        background: #080808;
+        box-shadow: 0 24px 80px rgba(0, 0, 0, 0.46);
+      }}
+      .preview-panel .thumb-media img,
+      .preview-panel .thumb-fallback {{
+        width: 100%;
+        border-radius: 10px;
+      }}
+      .preview-body {{
+        display: grid;
+        gap: 12px;
+        align-content: start;
+      }}
+      .preview-header {{
+        display: flex;
+        justify-content: space-between;
+        align-items: start;
+        gap: 12px;
+      }}
+      .preview-header h2 {{
+        margin: 0;
+        font-family: "Arial Black", "Helvetica Neue", Arial, sans-serif;
+        font-size: clamp(30px, 5vw, 54px);
+        line-height: 0.95;
+        text-transform: uppercase;
+      }}
+      .preview-close {{
+        border: 1px solid rgba(255, 255, 255, 0.12);
+        background: rgba(255, 255, 255, 0.04);
+        color: var(--text);
+        border-radius: 999px;
+        width: 38px;
+        height: 38px;
+        cursor: pointer;
+        font-size: 20px;
+        line-height: 1;
+      }}
+      .preview-summary {{
+        margin: 0;
+        color: #d6d6cf;
+        font-size: 14px;
+        line-height: 1.55;
+      }}
+      .preview-note {{
+        margin: 0;
+        color: var(--muted-soft);
+        font-size: 12px;
+        line-height: 1.5;
+      }}
+      .preview-actions {{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+      }}
+      .preview-actions a {{
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 40px;
+        padding: 0 14px;
+        border-radius: 8px;
+        border: 1px solid rgba(255, 255, 255, 0.1);
+        color: var(--text);
+        text-decoration: none;
+        font-size: 12px;
+        font-weight: 800;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+      }}
+      .preview-actions a.primary {{
+        background: #f5f5ef;
+        color: #050505;
+        border-color: #f5f5ef;
+      }}
+      body.preview-open {{
+        overflow: hidden;
+      }}
       .category-hot-grid {{
         display: grid;
         grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -1254,6 +1365,9 @@ def build_html(payload: dict) -> str:
         .compact-chip {{
           width: 100%;
         }}
+        .preview-panel {{
+          grid-template-columns: 1fr;
+        }}
       }}
     </style>
   </head>
@@ -1281,8 +1395,8 @@ def build_html(payload: dict) -> str:
               </div>
               <ol id="guide-steps"></ol>
               <div class="hero-guide-links">
-                <a href="../README.md" id="guide-readme-link"></a>
-                <a href="../SKILL.md" id="guide-skill-link"></a>
+                <a href="../../README.md" id="guide-readme-link"></a>
+                <a href="../../SKILL.md" id="guide-skill-link"></a>
               </div>
             </div>
           </div>
@@ -1405,6 +1519,33 @@ def build_html(payload: dict) -> str:
       </section>
     </div>
 
+    <div class="preview-modal hidden" id="preview-modal" role="dialog" aria-modal="true" aria-labelledby="preview-title">
+      <div class="preview-backdrop" id="preview-backdrop"></div>
+      <article class="preview-panel">
+        <div id="preview-thumb"></div>
+        <div class="preview-body">
+          <div class="preview-header">
+            <div>
+              <span class="layout-pill" id="preview-layout"></span>
+              <h2 id="preview-title"></h2>
+            </div>
+            <button type="button" class="preview-close" id="preview-close" aria-label="Close">×</button>
+          </div>
+          <p class="rank-category" id="preview-category"></p>
+          <p class="preview-summary" id="preview-summary"></p>
+          <dl class="meta">
+            <div><dt id="preview-best-for-label"></dt><dd id="preview-best-for"></dd></div>
+            <div><dt id="preview-mood-label"></dt><dd id="preview-mood"></dd></div>
+          </dl>
+          <p class="preview-note" id="preview-note"></p>
+          <div class="preview-actions">
+            <a class="primary" id="preview-official-link" target="_blank" rel="noreferrer"></a>
+            <a id="preview-design-link" target="_blank" rel="noreferrer"></a>
+          </div>
+        </div>
+      </article>
+    </div>
+
     <script id="gallery-data" type="application/json">{json_blob(payload)}</script>
     <script>
       const payload = JSON.parse(document.getElementById('gallery-data').textContent);
@@ -1483,6 +1624,21 @@ def build_html(payload: dict) -> str:
         emptyClearBtn: document.getElementById('empty-clear-btn'),
         emptyBrowseBtn: document.getElementById('empty-browse-btn'),
         allCards: document.getElementById('all-cards'),
+        previewModal: document.getElementById('preview-modal'),
+        previewBackdrop: document.getElementById('preview-backdrop'),
+        previewThumb: document.getElementById('preview-thumb'),
+        previewLayout: document.getElementById('preview-layout'),
+        previewTitle: document.getElementById('preview-title'),
+        previewClose: document.getElementById('preview-close'),
+        previewCategory: document.getElementById('preview-category'),
+        previewSummary: document.getElementById('preview-summary'),
+        previewBestForLabel: document.getElementById('preview-best-for-label'),
+        previewBestFor: document.getElementById('preview-best-for'),
+        previewMoodLabel: document.getElementById('preview-mood-label'),
+        previewMood: document.getElementById('preview-mood'),
+        previewNote: document.getElementById('preview-note'),
+        previewOfficialLink: document.getElementById('preview-official-link'),
+        previewDesignLink: document.getElementById('preview-design-link'),
       }};
 
       function strings() {{
@@ -1498,6 +1654,14 @@ def build_html(payload: dict) -> str:
           return `<div class="thumb-media"><img src="../${{item.thumb_path}}" alt="${{displayName(item)}} thumbnail" loading="lazy" /></div>`;
         }}
         return `<div class="thumb-media"><div class="thumb-fallback ${{variant}}">${{strings().preview_only}}</div></div>`;
+      }}
+
+      function localPreviewHref(item) {{
+        return `#preview=${{encodeURIComponent(item.slug)}}`;
+      }}
+
+      function previewActionMarkup(item, className = 'primary') {{
+        return `<a class="${{className}}" href="${{localPreviewHref(item)}}" data-preview-slug="${{item.slug}}">${{strings().preview_entry}}</a>`;
       }}
 
       function joinList(list) {{
@@ -1538,6 +1702,43 @@ def build_html(payload: dict) -> str:
 
       function displayHotReason(item) {{
         return state.lang === 'zh' ? item.hot_reason_zh : item.hot_reason_en;
+      }}
+
+      function renderPreview(item, updateHash = true) {{
+        const ui = strings();
+        dom.previewThumb.innerHTML = thumbMarkup(item);
+        dom.previewLayout.textContent = displayLayout(item);
+        dom.previewTitle.textContent = displayName(item);
+        dom.previewCategory.textContent = displayCategory(item);
+        dom.previewSummary.textContent = displayImpression(item);
+        dom.previewBestForLabel.textContent = ui.best_for_label;
+        dom.previewBestFor.textContent = joinList(displayBestFor(item));
+        dom.previewMoodLabel.textContent = ui.mood_label;
+        dom.previewMood.textContent = joinList(displayMood(item));
+        dom.previewNote.textContent = ui.preview_note;
+        dom.previewOfficialLink.href = item.preview_url;
+        dom.previewOfficialLink.textContent = ui.official_preview;
+        dom.previewDesignLink.href = item.design_url;
+        dom.previewDesignLink.textContent = ui.official_design;
+        dom.previewClose.setAttribute('aria-label', ui.preview_close);
+        dom.previewModal.classList.remove('hidden');
+        document.body.classList.add('preview-open');
+        if (updateHash) {{
+          history.pushState(null, '', localPreviewHref(item));
+        }}
+      }}
+
+      function closePreview(updateHash = true) {{
+        dom.previewModal.classList.add('hidden');
+        document.body.classList.remove('preview-open');
+        if (updateHash && location.hash.startsWith('#preview=')) {{
+          history.pushState(null, '', `${{location.pathname}}${{location.search}}`);
+        }}
+      }}
+
+      function previewSlugFromHash() {{
+        if (!location.hash.startsWith('#preview=')) return null;
+        return decodeURIComponent(location.hash.replace('#preview=', ''));
       }}
 
       function searchHaystack(item) {{
@@ -1693,7 +1894,8 @@ def build_html(payload: dict) -> str:
           .map((slug, index) => {{
             const item = itemsBySlug.get(slug);
             return {{
-              href: item.preview_url,
+              href: localPreviewHref(item),
+              slug: item.slug,
               thumb: item.thumb_path ? `../${{item.thumb_path}}` : null,
               title: displayName(item),
               subtitle: renderTemplate(strings().rank_badge, {{ rank: index + 1 }}),
@@ -1708,7 +1910,8 @@ def build_html(payload: dict) -> str:
             const lead = itemsBySlug.get(bucket.items[0]);
             const label = state.lang === 'zh' ? bucket.category_zh : bucket.category_en;
             return {{
-              href: lead.preview_url,
+              href: localPreviewHref(lead),
+              slug: lead.slug,
               thumb: lead.thumb_path ? `../${{lead.thumb_path}}` : null,
               title: label,
               subtitle: displayName(lead),
@@ -1719,7 +1922,7 @@ def build_html(payload: dict) -> str:
       function renderCompactChips(target, items) {{
         target.innerHTML = items
           .map((item) => `
-            <a class="compact-chip" href="${{item.href}}" target="_blank" rel="noreferrer">
+            <a class="compact-chip" href="${{item.href}}" data-preview-slug="${{item.slug}}">
               ${{item.thumb ? `<img src="${{item.thumb}}" alt="${{item.title}} thumbnail" loading="lazy" />` : `<span class="compact-chip-icon">${{strings().preview_only}}</span>`}}
               <span class="compact-chip-text">
                 <span class="compact-chip-title">${{item.title}}</span>
@@ -1771,7 +1974,7 @@ def build_html(payload: dict) -> str:
                   <p class="rank-category">${{displayCategory(item)}}</p>
                   <p class="clamp-3">${{displayHotReason(item)}}</p>
                   <div class="rank-actions">
-                    <a class="primary" href="${{item.preview_url}}" target="_blank" rel="noreferrer">${{ui.preview_entry}}</a>
+                    ${{previewActionMarkup(item)}}
                   </div>
                 </div>
               </article>
@@ -1802,7 +2005,7 @@ def build_html(payload: dict) -> str:
                       <h4>${{displayName(item)}}</h4>
                       <p class="clamp-2">${{displayHotReason(item)}}</p>
                       <div class="rank-actions">
-                        <a class="primary" href="${{item.preview_url}}" target="_blank" rel="noreferrer">${{ui.preview_entry}}</a>
+                        ${{previewActionMarkup(item)}}
                       </div>
                     </div>
                   </article>
@@ -1869,7 +2072,7 @@ def build_html(payload: dict) -> str:
                   <div><dt>${{ui.mood_label}}</dt><dd>${{joinList(displayMood(item))}}</dd></div>
                 </dl>
                 <div class="card-actions">
-                  <a class="primary" href="${{item.preview_url}}" target="_blank" rel="noreferrer">${{ui.preview_entry}}</a>
+                  ${{previewActionMarkup(item)}}
                 </div>
               </div>
             </article>
@@ -1910,6 +2113,11 @@ def build_html(payload: dict) -> str:
         renderGlobalHot();
         renderCategoryHot();
         renderAllCards();
+        const previewSlug = previewSlugFromHash();
+        if (previewSlug && !dom.previewModal.classList.contains('hidden')) {{
+          const item = itemsBySlug.get(previewSlug);
+          if (item) renderPreview(item, false);
+        }}
         return items;
       }}
 
@@ -1951,8 +2159,42 @@ def build_html(payload: dict) -> str:
       dom.emptyBrowseBtn.addEventListener('click', () => {{
         clearFilters({{ scrollTop: true }});
       }});
+      document.addEventListener('click', (event) => {{
+        const trigger = event.target.closest('[data-preview-slug]');
+        if (!trigger) return;
+        const item = itemsBySlug.get(trigger.dataset.previewSlug);
+        if (!item) return;
+        event.preventDefault();
+        renderPreview(item);
+      }});
+      dom.previewClose.addEventListener('click', () => {{
+        closePreview();
+      }});
+      dom.previewBackdrop.addEventListener('click', () => {{
+        closePreview();
+      }});
+      window.addEventListener('keydown', (event) => {{
+        if (event.key === 'Escape' && !dom.previewModal.classList.contains('hidden')) {{
+          closePreview();
+        }}
+      }});
+      window.addEventListener('hashchange', () => {{
+        const slug = previewSlugFromHash();
+        if (!slug) {{
+          closePreview(false);
+          return;
+        }}
+        const item = itemsBySlug.get(slug);
+        if (item) {{
+          renderPreview(item, false);
+        }}
+      }});
 
       render();
+      const initialPreviewSlug = previewSlugFromHash();
+      if (initialPreviewSlug && itemsBySlug.has(initialPreviewSlug)) {{
+        renderPreview(itemsBySlug.get(initialPreviewSlug), false);
+      }}
     </script>
   </body>
 </html>
@@ -2056,6 +2298,7 @@ def main() -> int:
     references_dir = skill_dir / "references"
     manifest_path = skill_dir / "assets" / "thumbnails" / "manifest.json"
     gallery_dir = skill_dir / "assets" / "gallery"
+    pages_entry_path = skill_dir / "index.html"
     root_entry_path = skill_dir / "风格总览（Style Gallery）.html"
     entry_dir = skill_dir / "风格总览（Style Gallery）"
     entry_dir.mkdir(parents=True, exist_ok=True)
@@ -2074,6 +2317,15 @@ def main() -> int:
             target="assets/gallery/style-gallery.html",
             heading="风格总览（Style Gallery）",
             copy="这是风格罗盘（style-compass）的外层入口文件。默认先打开这里，再进入完整可筛选总览。",
+        ),
+        encoding="utf-8",
+    )
+    pages_entry_path.write_text(
+        build_entry_stub(
+            title="Style Compass",
+            target="assets/gallery/style-gallery.html",
+            heading="Style Compass",
+            copy="这是风格罗盘（style-compass）的 GitHub Pages 友好入口。若启用 GitHub Pages，可直接从仓库根路径进入总览。",
         ),
         encoding="utf-8",
     )
